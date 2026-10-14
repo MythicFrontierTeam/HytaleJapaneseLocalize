@@ -17,5 +17,5 @@ state.set.arg.players.desc = --scope=Players のときに対象とするプレ�
 state.set.success = {count, plural, one {1人} other {{count, number}人}}のプレイヤーで AudioState "{audioState}" を "{value}" に設定しました
 state.set.error.clientAuthority = AudioState "{audioState}" の権限は Client です。クライアント側のコードから設定してください
 state.set.error.unknownValue = AudioState "{audioState}" に "{value}" という値はありません
-state.set.error.noSender = スコープ Self にはプレイヤーの送信者が必要です
-state.set.error.playersRequired = スコープ Players には、対象を1人以上指定する --players 引数が必要です
+state.set.error.noSender = スコープ "Self" にはプレイヤーの送信者が必要です
+state.set.error.playersRequired = スコープ "Players" には、対象を1人以上指定する --players 引数が必要です

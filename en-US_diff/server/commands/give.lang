@@ -8,3 +8,4 @@ durability.desc = Item durability
 invalidMetadata = Invalid metadata format: {error}
 desc = Gives an item to a player
 other.desc = Give an item to another player
+quality.desc = Item quality to use instead of the item's default quality

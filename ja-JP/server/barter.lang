@@ -8,3 +8,4 @@ customUI.barterPage.inStock = 在庫: {count}
 customUI.barterPage.quantityStock = 所持: {count}
 customUI.barterPage.invalidItem = 無効なアイテム
 customUI.barterPage.cost = 価格:
+dungeon_klops_scrap_trader.title = スクラップ商人

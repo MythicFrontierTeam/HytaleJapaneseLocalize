@@ -23,3 +23,5 @@ npc.unknown_role = Unknown NPC role: {role}
 npc.unknown_debug_preset = Unknown debug preset: {preset}
 spawnIndexOutOfRange = Spawn index is out of range
 playerOnly = This command can only be used by players
+sectionNotLoaded = Chunk section at {chunkX}, {chunkY}, {chunkZ} is not loaded in world "{world}"
+spawnUnavailable = Could not resolve the spawn point of world "{world}".

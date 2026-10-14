@@ -113,3 +113,39 @@ p2p.tryManualPortForwarding = Try manual port forwarding or use a VPN like Tails
 p2p.failedToOpenWorldTimeout = Failed to open world: connection setup timed out.
 flyCamera.nowControllingPlayer = Now controlling the player.
 flyCamera.nowControllingCamera = Now controlling the camera.
+duration.clock.days = {change, select, added {+} reduced {-} other {}}{days}:{hours}:{minutes}:{seconds}
+duration.clock.hours = {change, select, added {+} reduced {-} other {}}{hours}:{minutes}:{seconds}
+duration.clock.minutes = {change, select, added {+} reduced {-} other {}}{minutes}:{seconds}
+duration.clock.seconds = {change, select, added {+} reduced {-} other {}}{seconds}
+duration.units.daysHoursMinutesSeconds = {change, select, added {+} reduced {-} other {}}{days}d {hours}h {minutes}m {seconds}s
+duration.units.daysHoursMinutes = {change, select, added {+} reduced {-} other {}}{days}d {hours}h {minutes}m
+duration.units.daysHoursSeconds = {change, select, added {+} reduced {-} other {}}{days}d {hours}h {seconds}s
+duration.units.daysHours = {change, select, added {+} reduced {-} other {}}{days}d {hours}h
+duration.units.daysMinutesSeconds = {change, select, added {+} reduced {-} other {}}{days}d {minutes}m {seconds}s
+duration.units.daysMinutes = {change, select, added {+} reduced {-} other {}}{days}d {minutes}m
+duration.units.daysSeconds = {change, select, added {+} reduced {-} other {}}{days}d {seconds}s
+duration.units.days = {change, select, added {+} reduced {-} other {}}{days}d
+duration.units.hoursMinutesSeconds = {change, select, added {+} reduced {-} other {}}{hours}h {minutes}m {seconds}s
+duration.units.hoursMinutes = {change, select, added {+} reduced {-} other {}}{hours}h {minutes}m
+duration.units.hoursSeconds = {change, select, added {+} reduced {-} other {}}{hours}h {seconds}s
+duration.units.hours = {change, select, added {+} reduced {-} other {}}{hours}h
+duration.units.minutesSeconds = {change, select, added {+} reduced {-} other {}}{minutes}m {seconds}s
+duration.units.minutes = {change, select, added {+} reduced {-} other {}}{minutes}m
+duration.units.seconds = {change, select, added {+} reduced {-} other {}}{seconds}s
+chatMessage.localCommandMissing = [TMP] Please enter a command after the {prefix} symbol.
+chatMessage.localCommandUnknown = [TMP] Unknown local command: "{command}".
+chatMessage.localCommandInvalidUsage = [TMP] Invalid usage!
+chatMessage.localCommandUsage = [TMP] Usage:
+chatMessage.localCommandNoUsage = [TMP] No usage info found for command "{command}".
+chatMessage.localCommandHelpHeader = [TMP] Available commands:
+chatMessage.localCommandHelpEntry = [TMP] - {command}: {description}
+chatMessage.localCommandNoDescription = [TMP] N/A
+chatMessage.localCommandException = [TMP] Exception running command "{command}": {message}
+disconnect.notInMatch = [TMP] You are not in this match. Queue on the Minigames page to play.
+openLinkModal.title = Open External Website?
+openLinkModal.text = You are about to open the website "{url}" in a web browser. \n\
+\n\
+Be cautious when visiting links from other players, especially if they ask for personal information.\n\
+\n\
+Are you sure you want to proceed?
+openLinkModal.confirm = Open Website

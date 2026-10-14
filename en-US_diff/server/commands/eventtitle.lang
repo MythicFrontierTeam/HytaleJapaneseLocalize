@@ -4,3 +4,5 @@ secondary.desc = The secondary title text
 secondary.defaultDesc = Event
 title.desc = The primary title text
 titleRequired = A title must be provided
+style.desc = The event title style
+style.defaultDesc = Default Style

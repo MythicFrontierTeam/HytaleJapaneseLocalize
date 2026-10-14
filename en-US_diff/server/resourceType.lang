@@ -115,7 +115,7 @@ Wood_Ice.name = Frostwood
 Wood_Lightwood.name = Lightwood
 Wood_Lightwood_Softwood.name = Lightwood or Softwood
 Wood_Lightwood_Trunk.name = Lightwood Log
-Wood_Lightwood_Trunk.description = Lightwood Trees:\n• <color is="#ffffff">Birch</color>\n• <color is="#ffffff">Camphor</color>\n• <color is="#ffffff">Gumboab</color>
+Wood_Lightwood_Trunk.description = Lightwood Trees:\n• <color is="#ffffff">Birch</color>\n• <color is="#ffffff">Camphor</color>\n• <color is="#ffffff">Gumboab</color>\n• <color is="#ffffff">Sadwillow</color>
 Wood_Planks.name = Any Planks
 Wood_Redwood.name = Redwood
 Wood_Redwood_Trunk.name = Redwood Log

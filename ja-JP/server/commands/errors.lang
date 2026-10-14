@@ -23,3 +23,5 @@ npc.unknown_role = 不明なNPCロールです: {role}
 npc.unknown_debug_preset = 不明なデバッグプリセットです: {preset}
 spawnIndexOutOfRange = スポーン番号が範囲外です
 playerOnly = このコマンドはプレイヤーのみ使用できます
+sectionNotLoaded = ワールド "{world}" の {chunkX}, {chunkY}, {chunkZ} にあるチャンクセクションは読み込まれていません
+spawnUnavailable = ワールド "{world}" のスポーン地点を特定できませんでした。

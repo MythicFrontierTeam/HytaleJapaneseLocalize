@@ -33,3 +33,5 @@ playerListEntry.tooltip.mute = プレイヤーをミュート
 marker.localPlayer = 自分
 marker.targetLocation = 目標地点
 returnToCrossroads = クロスロードに戻る
+worldEvents.title = ワールドイベント
+worldEvents.startsIn = {time}後に開始

@@ -1,8 +1,16 @@
 Default.name = Neutral
-Makeup.name = Makeup
+PronouncedLips.name = Pronounced Lips
+PronouncedLips_Thin.name = Thin Pronounced Lips
 Mouth_Thin.name = Thin Mouth
 Mouth_Tiny.name = Tiny Mouth
 Mouth_Long.name = Large Mouth
 Mouth_Vampire.name = Vampire Mouth
 Mouth_Cute.name = Cute Mouth
 Mouth_Orc.name = Orc Mouth
+Mouth_Smirk.name = Smirk
+Mouth_SoftSmile.name = Soft Smile
+Mouth_TinySmile.name = Tiny Smile
+Mouth_Lipgloss.name = Lip Gloss
+Mouth_Lipstick.name = Lipstick
+Mouth_Fangs.name = Fangs
+Mouth_Goblin.name = Goblin Teeth

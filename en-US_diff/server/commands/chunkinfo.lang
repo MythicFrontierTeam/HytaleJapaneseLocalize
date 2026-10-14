@@ -1,10 +1,8 @@
-load.usage = Use the command `/chunk load {chunkX} {chunkZ}` to load the chunk.
+load.usage = Use the command "/chunk load {chunkX} {chunkZ}" to load the chunk.
 serialized = Serialized chunk data to console.
 serialized.failed = Failed to serialize chunk. Please check console.
 chunk = Chunk {chunkX}, {chunkZ}:\n\
   \tFlags: \n\
-    \t\tStart Init: {startInit}\n\
-    \t\tInit: {init}\n\
     \t\tNewly Generated: {newlyGenerated}\n\
     \t\tOn Disk: {onDisk}\n\
     \t\tTicking: {ticking}\n\

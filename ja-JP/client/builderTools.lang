@@ -1085,3 +1085,4 @@ pasteTool.positionLock.locked = 固定
 pasteTool.positionLock.unlocked = 固定解除
 pasteTool.pasting = 貼り付け中...
 selectionTool.tooLargeForTransform = 選択範囲が大きすぎて変形できません。ペーストツールを使用してください。
+settings.ActivateTriggerVolumes.description = 無効にすると、クリエイティブモード中にトリガーボリュームを起動しなくなります

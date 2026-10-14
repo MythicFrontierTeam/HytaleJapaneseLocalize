@@ -113,3 +113,39 @@ p2p.tryManualPortForwarding = 手動でポート転送を設定するか、Tails
 p2p.failedToOpenWorldTimeout = ワールドの開放に失敗しました: 接続の確立がタイムアウトしました。
 flyCamera.nowControllingPlayer = プレイヤーを操作しています。
 flyCamera.nowControllingCamera = カメラを操作しています。
+duration.clock.days = {change, select, added {+} reduced {-} other {}}{days}:{hours}:{minutes}:{seconds}
+duration.clock.hours = {change, select, added {+} reduced {-} other {}}{hours}:{minutes}:{seconds}
+duration.clock.minutes = {change, select, added {+} reduced {-} other {}}{minutes}:{seconds}
+duration.clock.seconds = {change, select, added {+} reduced {-} other {}}{seconds}
+duration.units.daysHoursMinutesSeconds = {change, select, added {+} reduced {-} other {}}{days}日 {hours}時間 {minutes}分 {seconds}秒
+duration.units.daysHoursMinutes = {change, select, added {+} reduced {-} other {}}{days}日 {hours}時間 {minutes}分
+duration.units.daysHoursSeconds = {change, select, added {+} reduced {-} other {}}{days}日 {hours}時間 {seconds}秒
+duration.units.daysHours = {change, select, added {+} reduced {-} other {}}{days}日 {hours}時間
+duration.units.daysMinutesSeconds = {change, select, added {+} reduced {-} other {}}{days}日 {minutes}分 {seconds}秒
+duration.units.daysMinutes = {change, select, added {+} reduced {-} other {}}{days}日 {minutes}分
+duration.units.daysSeconds = {change, select, added {+} reduced {-} other {}}{days}日 {seconds}秒
+duration.units.days = {change, select, added {+} reduced {-} other {}}{days}日
+duration.units.hoursMinutesSeconds = {change, select, added {+} reduced {-} other {}}{hours}時間 {minutes}分 {seconds}秒
+duration.units.hoursMinutes = {change, select, added {+} reduced {-} other {}}{hours}時間 {minutes}分
+duration.units.hoursSeconds = {change, select, added {+} reduced {-} other {}}{hours}時間 {seconds}秒
+duration.units.hours = {change, select, added {+} reduced {-} other {}}{hours}時間
+duration.units.minutesSeconds = {change, select, added {+} reduced {-} other {}}{minutes}分 {seconds}秒
+duration.units.minutes = {change, select, added {+} reduced {-} other {}}{minutes}分
+duration.units.seconds = {change, select, added {+} reduced {-} other {}}{seconds}秒
+chatMessage.localCommandMissing = [TMP] {prefix} 記号の後にコマンドを入力してください。
+chatMessage.localCommandUnknown = [TMP] 不明なローカルコマンドです: "{command}"。
+chatMessage.localCommandInvalidUsage = [TMP] 使い方が正しくありません！
+chatMessage.localCommandUsage = [TMP] 使い方:
+chatMessage.localCommandNoUsage = [TMP] コマンド "{command}" の使い方の情報が見つかりません。
+chatMessage.localCommandHelpHeader = [TMP] 使用可能なコマンド:
+chatMessage.localCommandHelpEntry = [TMP] - {command}: {description}
+chatMessage.localCommandNoDescription = [TMP] なし
+chatMessage.localCommandException = [TMP] コマンド "{command}" の実行中に例外が発生しました: {message}
+disconnect.notInMatch = [TMP] このマッチには参加していません。プレイするには、ミニゲームのページでキューに参加してください。
+openLinkModal.title = 外部サイトを開きますか？
+openLinkModal.text = ウェブブラウザーでサイト "{url}" を開こうとしています。\n\
+\n\
+他のプレイヤーから送られたリンク、特に個人情報を求めるものには十分ご注意ください。\n\
+\n\
+続行してもよろしいですか？
+openLinkModal.confirm = サイトを開く

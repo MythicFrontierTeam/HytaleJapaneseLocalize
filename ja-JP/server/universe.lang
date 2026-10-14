@@ -1,4 +1,4 @@
-failedToFindWorld = {lastWorldName} が見つかりませんでした。ワールドを {name} にリセットしました
+failedToFindWorld = "{lastWorldName}" が見つかりませんでした。ワールドを "{name}" にリセットしました
 addWorld.alreadyExists = "{worldName}" という名前のワールドはすでに存在します！
 addWorld.alreadyExistsDisk = "{worldName}" という名前のワールドはディスク上にすでに存在します！
 addWorld.worldCreated = ジェネレータータイプ "{generator}"、ストレージタイプ "{storage}" でワールド "{worldName}" を作成しました！
@@ -13,7 +13,7 @@ copychunk.redo = ワールド {worldTo} のチャンク {chunkXTo}, {chunkZTo} �
 blockStateCreationFailed = BlockStateの作成に失敗しました！
 removeworld.notFound = ワールドが存在しません！
 removeworld.onlyOneWorldLoaded = このサーバーには1つのワールドしか読み込まれていません！
-removeworld.changeDefaultWorld = これはデフォルトのワールドです！先に /world setdefault でデフォルトのワールドを変更してください
+removeworld.changeDefaultWorld = これはデフォルトのワールドです！先に "/world setdefault" でデフォルトのワールドを変更してください
 removeworld.success = ワールド {worldName} を削除しました
 seed.info = シード: {seed}
 setpvp.info = {worldName} のPvPを{enabled, select, true {有効} other {無効}}にしました

@@ -1,10 +1,8 @@
-load.usage = チャンクを読み込むには `/chunk load {chunkX} {chunkZ}` コマンドを使用してください。
+load.usage = チャンクを読み込むには "/chunk load {chunkX} {chunkZ}" コマンドを使用してください。
 serialized = チャンクデータをコンソールにシリアライズしました。
 serialized.failed = チャンクのシリアライズに失敗しました。コンソールを確認してください。
 chunk = チャンク {chunkX}, {chunkZ}:\n\
   \tフラグ: \n\
-    \t\t初期化開始: {startInit}\n\
-    \t\t初期化済み: {init}\n\
     \t\t新規生成: {newlyGenerated}\n\
     \t\tディスク上: {onDisk}\n\
     \t\tティック中: {ticking}\n\

@@ -6,3 +6,4 @@ buttons.ContentCreation.disabledTooltip.title = クリエイティブモード
 buttons.ContentCreation.disabledTooltip.description = クリエイティブモードでは強力な編集ツールを使用できます。切り替えるには、自分には "/op self"、フレンドには "/setgroup WorldEditor" を実行し、"{key}" キーでゲームモードを切り替えてください。
 buttons.ContentCreation.disabledTooltipUnassigned.description = クリエイティブモードでは強力な編集ツールを使用できます。切り替えるには、自分には "/op self"、フレンドには "/setgroup WorldEditor" を実行し、"/gm c" と入力してください。
 earlyAccess = アーリーアクセス
+buttons.Chapters = チャプター

@@ -115,7 +115,7 @@ Wood_Ice.name = フロストウッド
 Wood_Lightwood.name = ライトウッド
 Wood_Lightwood_Softwood.name = ライトウッドまたはソフトウッド
 Wood_Lightwood_Trunk.name = ライトウッドの原木
-Wood_Lightwood_Trunk.description = ライトウッドの木:\n• <color is="#ffffff">シラカバ</color>\n• <color is="#ffffff">クスノキ</color>\n• <color is="#ffffff">ガンボアブ</color>
+Wood_Lightwood_Trunk.description = ライトウッドの木:\n• <color is="#ffffff">シラカバ</color>\n• <color is="#ffffff">クスノキ</color>\n• <color is="#ffffff">ガンボアブ</color>\n• <color is="#ffffff">サッドウィロー</color>
 Wood_Planks.name = 任意の板材
 Wood_Redwood.name = レッドウッド
 Wood_Redwood_Trunk.name = レッドウッドの原木

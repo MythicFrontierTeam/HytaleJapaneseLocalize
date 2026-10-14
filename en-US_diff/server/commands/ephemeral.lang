@@ -1,0 +1,3 @@
+desc = Turns the held item into an ephemeral (Veilbound) item.
+needItemInHand = You need to hold an item to use this command.
+success = The item is now ephemeral (Veilbound)!

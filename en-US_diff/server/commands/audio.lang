@@ -17,5 +17,5 @@ state.set.arg.players.desc = Players to target when --scope=Players
 state.set.success = AudioState "{audioState}" set to "{value}" on {count, plural, one {1 player} other {{count, number} players}}
 state.set.error.clientAuthority = AudioState "{audioState}" has Authority: Client. Set from client code instead
 state.set.error.unknownValue = AudioState "{audioState}" has no value named "{value}"
-state.set.error.noSender = Scope Self requires a player sender
-state.set.error.playersRequired = Scope Players requires a --players argument naming at least one target
+state.set.error.noSender = Scope "Self" requires a player sender
+state.set.error.playersRequired = Scope "Players" requires a --players argument naming at least one target

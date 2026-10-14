@@ -1,6 +1,6 @@
 invalidBlockState = 未対応のBlockStateの種類 {blockState} には {interaction} の操作を実行できません
 teleporter.failedCollectMore = 設置数の上限に達しました。記憶をさらに集めると上限が増えます！
-teleporter.failed = 設置数の上限に達しました
+teleporter.failed = 設置数の上限に達しました。
 didNotMount = 不明な騎乗エラーです: {state}
 sleep.disabled = このワールドでは睡眠が無効です。
 sleep.gameTimePaused = このワールドではゲーム内時間が停止しているため、睡眠は無効です！

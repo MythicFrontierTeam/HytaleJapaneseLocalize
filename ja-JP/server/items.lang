@@ -509,9 +509,9 @@ Deco_Tankard.description = [TMP] <color is="#ffffff">水</color>を入れて料�
 Deco_Tankard_Water.name = ジョッキ (水)
 Deco_Tankard_Water.description = [TMP] 料理に使える<color is="#ffffff">水</color>が入っています。
 Deco_Target.name = 藁の的
-Deco_Trash.name = ゴミ
-Deco_Trash_Pile_Large.name = 大きなゴミの山
-Deco_Trash_Pile_Small.name = 小さなゴミの山
+Deco_Trash.name = 小さなスクラップの山
+Deco_Trash_Pile_Large.name = 大きなスクラップの山
+Deco_Trash_Pile_Small.name = スクラップの山
 Deco_Treasure.name = 財宝
 Deco_Treasure_Pile_Large.name = 大きな財宝の山
 Deco_Treasure_Pile_Small.name = 小さな財宝の山
@@ -625,7 +625,7 @@ Furniture_Crude_Bed.name = 粗末な寝袋
 Furniture_Crude_Brazier.name = 小さな焚き火
 Furniture_Crude_Candle.name = ロウソク
 Furniture_Crude_Chest_Large.name = 粗末な大型チェスト
-Furniture_Crude_Chest_Small.name = 木のチェスト
+Furniture_Crude_Chest_Small.name = 粗末な小型チェスト
 Furniture_Crude_Door.name = 粗末な扉
 Furniture_Crude_Ladder.name = 粗末なはしご
 Furniture_Crude_Platform.name = 粗末な足場
@@ -642,7 +642,7 @@ Furniture_Crude_Windows_1X2_Test.name = プロトタイプ 粗末な窓 1x2
 Furniture_Crude_Windows_2X2_Test.name = プロトタイプ 粗末な窓 2x2
 Furniture_Desert_Bed.name = サンドスウェプトのベッド
 Furniture_Desert_Chair.name = サンドスウェプトの椅子
-Furniture_Desert_Chest_Large.name = サンドスウェプトのチェスト
+Furniture_Desert_Chest_Large.name = サンドスウェプトの大型チェスト
 Furniture_Desert_Chest_Small.name = 小さなサンドスウェプトのチェスト
 Furniture_Desert_Door.name = サンドスウェプトの扉
 Furniture_Desert_Ladder.name = サンドスウェプトのはしご
@@ -701,7 +701,7 @@ Furniture_Frozen_Castle_Table.name = 氷の城のテーブル
 Furniture_Frozen_Castle_Trapdoor.name = 氷の城の跳ね上げ戸
 Furniture_Frozen_Castle_Wardrobe.name = 氷の城の衣装棚
 Furniture_Frozen_Castle_Window.name = 氷の城の窓
-Furniture_Goblin_Chest_Small.name = ゴブリンのチェスト
+Furniture_Goblin_Chest_Small.name = ゴブリンの小型チェスト
 Furniture_Human_Ruins_Banner.name = 失われた文明の旗
 Furniture_Human_Ruins_Banner_Double.name = プロトタイプ - 失われた文明の二連の旗
 Furniture_Human_Ruins_Banner_Triple.name = プロトタイプ - 失われた文明の三連の旗
@@ -930,7 +930,7 @@ Furniture_Village_Bookcase.name = 簡素な木の本棚
 Furniture_Village_Brazier.name = 簡素な石の火鉢
 Furniture_Village_Chair.name = 簡素な木の椅子
 Furniture_Village_Chest_Large.name = 大きな鉄のチェスト
-Furniture_Village_Chest_Small.name = 小さなチェスト
+Furniture_Village_Chest_Small.name = 鉄の小型チェスト
 Furniture_Village_Coffin.name = 石の棺
 Furniture_Village_Counter.name = 簡素な木のカウンター
 Furniture_Village_Crate.name = 簡素な木箱
@@ -946,7 +946,7 @@ Furniture_Village_Platform.name = 簡素な木の足場
 Furniture_Village_Pot.name = 素焼きの壺
 Furniture_Village_Shelf_Full.name = 簡素な木の棚
 Furniture_Village_Sign.name = 簡素な木の看板
-Furniture_Village_Statue.name = 古の騎士の像
+Furniture_Village_Statue.name = 古の守護者の像
 Furniture_Village_Stool.name = 簡素な木のスツール
 Furniture_Village_Table.name = 簡素な木のテーブル
 Furniture_Village_Tombstone.name = 墓石
@@ -1330,7 +1330,7 @@ Plant_Crop_Mushroom_Flatcap_Blue.name = 青い平ガサのキノコ
 Plant_Crop_Mushroom_Flatcap_Green.name = 緑の平ガサのキノコ
 Plant_Crop_Mushroom_Glowing_Blue.name = 青い光るキノコ
 Plant_Crop_Mushroom_Glowing_Green.name = 緑の光るキノコ
-Plant_Crop_Mushroom_Glowing_Orange.name = オレンジの光るキノコ
+Plant_Crop_Mushroom_Glowing_Orange.name = ベビーブームシュルーム
 Plant_Crop_Mushroom_Glowing_Purple.name = 紫の光るキノコ
 Plant_Crop_Mushroom_Glowing_Red.name = 赤い光るキノコ
 Plant_Crop_Mushroom_Glowing_Violet.name = すみれ色の光るキノコ
@@ -1569,7 +1569,7 @@ Plant_Leaves_Sallow.name = サロウの葉
 Plant_Leaves_Snow.name = 雪をかぶった葉
 Plant_Leaves_Spiral.name = スパイラルの葉
 Plant_Leaves_Stormbark.name = ストームバークの葉
-Plant_Leaves_Windwillow.name = ヤナギの葉
+Plant_Leaves_Windwillow.name = ウィンドウィローの葉
 Plant_Leaves_Wisteria_Wild.name = 野生のフジの葉
 Plant_Moss_Block_Blue.name = 青いコケブロック
 Plant_Moss_Block_Green.name = 緑のコケブロック
@@ -1710,8 +1710,8 @@ Plant_Sapling_Spruce_Frozen.description = [TMP] 成長すると<color is="#fffff
 Plant_Sapling_Wisteria_Wild.name = 野生のフジの苗木
 Plant_Sapling_Wisteria_Wild.description = [TMP] 成長すると<color is="#ffffff">野生のフジの木</color>になります。\n• <color is="#ffffff">ゴールデンウッド</color>が採れます\n\n成長時間:\n• <color is="#4ade80">4</color> <color is="#ffffff">段階</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">日</color>
 Plant_Seeds_Wisteria_Wild.name = 野生のフジの種袋
-Plant_Sapling_Windwillow.name = ヤナギの苗木
-Plant_Sapling_Windwillow.description = [TMP] 成長すると<color is="#ffffff">ヤナギの木</color>になります。\n• <color is="#ffffff">木材</color>が採れます\n\n成長時間:\n• <color is="#4ade80">2</color> <color is="#ffffff">段階</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">日</color>
+Plant_Sapling_Windwillow.name = ウィンドウィローの苗木
+Plant_Sapling_Windwillow.description = [TMP] 成長すると<color is="#ffffff">ウィンドウィローの木</color>になります。\n• <color is="#ffffff">木材</color>が採れます\n\n成長時間:\n• <color is="#4ade80">2</color> <color is="#ffffff">段階</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">日</color>
 Plant_Seaweed_Arid_Red.name = 赤い乾いた土地の海藻
 Plant_Seaweed_Arid_Short.name = 短い乾いた土地の海藻
 Plant_Seaweed_Arid_Stack.name = 乾いた土地の海藻の茂り
@@ -1840,7 +1840,7 @@ Plant_Seeds_Wheat_Eternal.name = 小麦の種袋 (無限)
 Plant_Seeds_Wheat_Eternal.description = 小麦が育ちます
 Plant_Seeds_Wild.name = 野草の種袋
 Plant_Seeds_Wild.description = 野草が育ちます
-Plant_Seeds_Willow.name = ヤナギの種袋
+Plant_Seeds_Willow.name = ウィンドウィローの種袋
 Plant_Sunflower_Stage_0.name = ヒマワリの種
 Plant_Test_Tree_Stage_0.name = テスト用の木 0
 Plant_Vine.name = 壁のツタ
@@ -1926,37 +1926,37 @@ Potion_Regen_Stamina_Large.name = 大きな装飾用ポーション (オレン�
 Potion_Regen_Stamina_Small.name = 小さな装飾用ポーション (オレンジ)
 Potion_Template.name = テンプレートのポーション
 Potion_Health_Lesser.name = 下級の体力ポーション
-Potion_Health_Lesser.description = [TMP] 体力を即座に15%回復し、5秒後にさらに15%回復します。ダメージを受けると効果は失われます。
+Potion_Health_Lesser.description = [TMP] 体力を即座に<color is="#ffffff">15%</color>回復し、5秒後にさらに<color is="#ffffff">15%</color>回復します。ダメージを受けると効果は失われます。\n\nクールダウン: <color is="#ffffff">15秒</color>
 Potion_Health_Small.name = 小さな体力ポーション
-Potion_Health_Small.description = [TMP] 体力を即座に15%回復し、5秒後にさらに30%回復します。ダメージを受けると効果は失われます。
+Potion_Health_Small.description = [TMP] 体力を即座に<color is="#ffffff">15%</color>回復し、5秒後にさらに<color is="#ffffff">30%</color>回復します。ダメージを受けると効果は失われます。\n\nクールダウン: <color is="#ffffff">15秒</color>
 Potion_Health.name = 体力ポーション
-Potion_Health.description = [TMP] 体力を即座に25%回復し、5秒後にさらに35%回復します。ダメージを受けると効果は失われます。
+Potion_Health.description = [TMP] 体力を即座に<color is="#ffffff">25%</color>回復し、5秒後にさらに<color is="#ffffff">35%</color>回復します。ダメージを受けると効果は失われます。\n\nクールダウン: <color is="#ffffff">15秒</color>
 Potion_Health_Greater.name = 上級の体力ポーション
-Potion_Health_Greater.description = [TMP] 体力を即座に25%回復し、5秒後にさらに50%回復します。ダメージを受けると効果は失われます。
+Potion_Health_Greater.description = [TMP] 体力を即座に<color is="#ffffff">25%</color>回復し、5秒後にさらに<color is="#ffffff">50%</color>回復します。ダメージを受けると効果は失われます。\n\nクールダウン: <color is="#ffffff">15秒</color>
 Potion_Health_Large.name = 大きな体力ポーション
-Potion_Health_Large.description = 体力を即座に35%回復し、5秒後にさらに55%回復します。ダメージを受けると効果は失われます。
+Potion_Health_Large.description = 体力を即座に<color is="#ffffff">35%</color>回復し、5秒後にさらに<color is="#ffffff">55%</color>回復します。ダメージを受けると効果は失われます。\n\nクールダウン: <color is="#ffffff">15秒</color>
 Potion_Stamina_Lesser.name = 下級のスタミナポーション
-Potion_Stamina_Lesser.description = [TMP] スタミナを即座に30%回復します。クールダウン15秒。
+Potion_Stamina_Lesser.description = [TMP] スタミナを即座に<color is="#ffffff">30%</color>回復します。\n\nクールダウン: <color is="#ffffff">30秒</color>
 Potion_Stamina_Small.name = 小さなスタミナポーション
-Potion_Stamina_Small.description = [TMP] スタミナを即座に45%回復します。クールダウン15秒。
+Potion_Stamina_Small.description = [TMP] スタミナを即座に<color is="#ffffff">45%</color>回復します。\n\nクールダウン: <color is="#ffffff">30秒</color>
 Potion_Stamina.name = スタミナポーション
-Potion_Stamina.description = [TMP] スタミナを即座に60%回復します。クールダウン15秒。
+Potion_Stamina.description = [TMP] スタミナを即座に<color is="#ffffff">60%</color>回復します。\n\nクールダウン: <color is="#ffffff">30秒</color>
 Potion_Stamina_Greater.name = 上級のスタミナポーション
-Potion_Stamina_Greater.description = [TMP] スタミナを即座に75%回復します。クールダウン15秒。
+Potion_Stamina_Greater.description = [TMP] スタミナを即座に<color is="#ffffff">75%</color>回復します。\n\nクールダウン: <color is="#ffffff">30秒</color>
 Potion_Stamina_Large.name = 大きなスタミナポーション
-Potion_Stamina_Large.description = [TMP] スタミナを即座に90%回復します。クールダウン15秒。
+Potion_Stamina_Large.description = [TMP] スタミナを即座に<color is="#ffffff">90%</color>回復します。\n\nクールダウン: <color is="#ffffff">30秒</color>
 Potion_Signature_Lesser.name = 下級のエネルギーポーション
-Potion_Signature_Lesser.description = [TMP] 30秒かけて武器のシグネチャーエネルギーを30%ためます。
+Potion_Signature_Lesser.description = [TMP] <color is="#ffffff">30</color>秒かけて武器のシグネチャーエネルギーを<color is="#ffffff">30%</color>ためます。
 Potion_Signature_Small.name = 小さなエネルギーポーション
-Potion_Signature_Small.description = [TMP] 30秒かけて武器のシグネチャーエネルギーを45%ためます。
+Potion_Signature_Small.description = [TMP] <color is="#ffffff">30</color>秒かけて武器のシグネチャーエネルギーを<color is="#ffffff">45%</color>ためます。
 Potion_Signature.name = エネルギーポーション
-Potion_Signature.description = [TMP] 30秒かけて武器のシグネチャーエネルギーを60%ためます。
+Potion_Signature.description = [TMP] <color is="#ffffff">30</color>秒かけて武器のシグネチャーエネルギーを<color is="#ffffff">60%</color>ためます。
 Potion_Signature_Greater.name = 上級のエネルギーポーション
-Potion_Signature_Greater.description = [TMP] 30秒かけて武器のシグネチャーエネルギーを75%ためます。
+Potion_Signature_Greater.description = [TMP] <color is="#ffffff">30</color>秒かけて武器のシグネチャーエネルギーを<color is="#ffffff">75%</color>ためます。
 Potion_Signature_Large.name = 大きなエネルギーポーション
-Potion_Signature_Large.description = [TMP] 30秒かけて武器のシグネチャーエネルギーを90%ためます。
+Potion_Signature_Large.description = [TMP] <color is="#ffffff">30</color>秒かけて武器のシグネチャーエネルギーを<color is="#ffffff">90%</color>ためます。
 Prefab_Spawner_Block.name = プレハブスポナー
-Prefab_Spawner_Block.description = ワールド生成時にプレハブを生成します。このブロックを操作すると設定を編集できます。/prefabspawner コマンドでも設定できます。\n\nプレハブのパスは /prefabspawner set <prefabPath> で設定します。
+Prefab_Spawner_Block.description = ワールド生成時にプレハブを生成します。このブロックを操作すると設定を編集できます。"/prefabspawner" コマンドでも設定できます。\n\nプレハブのパスは "/prefabspawner set <prefabPath>" で設定します。
 Prototype_Ancient_Sign_Hanging.name = プロトタイプ - 古代の吊り看板
 Prototype_Bookshelf_Bottom_Edge.name = プロトタイプ - 本棚 - 下端
 Prototype_Bookshelf_Bottom_Left_Corner.name = プロトタイプ - 本棚 - 左下の角
@@ -2875,7 +2875,7 @@ Tool_Pickaxe_Adamantite.name = アダマンタイトのツルハシ
 Tool_Pickaxe_Cobalt.name = コバルトのツルハシ
 Tool_Pickaxe_Copper.name = 銅のツルハシ
 Tool_Pickaxe_Crude.name = 粗末なツルハシ
-Tool_Pickaxe_Crude.description = 石や鉱石のブロックを掘るのに向いています。\n\n<i>ゴブリン公たちが地下世界を完全に支配できずにいる唯一の理由は、この道具が何なのかをいまだに理解していないことだ。</i>
+Tool_Pickaxe_Crude.description = 石や鉱石のブロックを掘るのに向いています。
 Tool_Pickaxe_Iron.name = 鉄のツルハシ
 Tool_Pickaxe_Mithril.name = ミスリルのツルハシ
 Tool_Pickaxe_Onyxium.name = オニキシウムのツルハシ
@@ -2919,9 +2919,9 @@ Trigger_Block.name = トリガーブロック
 UpgradeBackpack_1.name = バックパックの解放
 UpgradeBackpack_1.description = 使用するとバックパックが使えるようになります。
 UpgradeBackpack_2.name = バックパック強化 I
-UpgradeBackpack_2.description = バックパックの容量を増やします。
+UpgradeBackpack_2.description = バックパックの容量を増やします。\n\nバックパック強化の各レベルは1回しか使用できません。
 UpgradeBackpack_3.name = バックパック強化 II
-UpgradeBackpack_3.description = バックパックの容量をさらに増やします。
+UpgradeBackpack_3.description = バックパックの容量をさらに増やします。\n\nバックパック強化の各レベルは1回しか使用できません。
 Utility_Bag_Seed.name = 種の袋
 Utility_Bag_Seed.description = 試験的な収納容器です。自己責任でご使用ください。
 Utility_Helipack.name = ヘリパック
@@ -3066,7 +3066,7 @@ Weapon_Longsword_Katana.name = 刀
 Weapon_Longsword_Mithril.name = ミスリルの長剣
 Weapon_Longsword_Onyxium.name = オニキシウムの長剣
 Weapon_Longsword_Praetorian.name = 近衛の長剣
-Weapon_Longsword_Praetorian_NPC.name = スケルトン近衛兵の長剣
+Weapon_Longsword_Praetorian_NPC.name = スケルトン近衛兵の剣
 Weapon_Longsword_Prisma.name = プリズマの長剣
 Weapon_Longsword_Scarab.name = スカラベの長剣
 Weapon_Longsword_Spectral.name = 幽鬼の長剣
@@ -3814,57 +3814,57 @@ Rock_Salt.name = 塩ブロック
 Rock_Salt.description = <item is="Bench_Cooking"/> で精製できます。
 Rock_Salt_Half.name = 塩 - ハーフスラブ
 Rock_Slate_Cobble_Corner.name = 粘板岩の丸石 - 角
-Plant_Fruit_Apple.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>\n<color is="#ffffff">ヤギ</color>、<color is="#ffffff">オス羊</color>、<color is="#ffffff">ムフロン</color>の好物です。
-Plant_Fruit_Berries_Red.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Plant_Fruit_Berries_Blue.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Plant_Fruit_Orange.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Plant_Fruit_Pear.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Plant_Fruit_Azure.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Plant_Fruit_Coconut.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Plant_Fruit_Mango.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Plant_Fruit_Pinkberry.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Plant_Fruit_Poison.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Plant_Fruit_Spiral.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Plant_Fruit_Windwillow.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Plant_Crop_Carrot_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>\n<color is="#ffffff">ウサギ</color>、<color is="#ffffff">子ウサギ</color>、<color is="#ffffff">ウマ</color>の好物です。
-Plant_Crop_Corn_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>\n<color is="#ffffff">ニワトリ</color>と<color is="#ffffff">シチメンチョウ</color>の好物です。
-Plant_Crop_Potato_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>\n<color is="#ffffff">モスホーン</color>の好物です。
-Plant_Crop_Pumpkin_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>\n<color is="#ffffff">イノシシ</color>の好物です。
-Plant_Crop_Onion_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>\n<color is="#ffffff">イボイノシシ</color>の好物です。
-Plant_Crop_Lettuce_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>\n<color is="#ffffff">ウシ</color>と<color is="#ffffff">ヒツジ</color>の好物です。
-Plant_Crop_Turnip_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>\n<color is="#ffffff">ブタ</color>の好物です。
-Plant_Crop_Tomato_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>\n<color is="#ffffff">ラクダ</color>の好物です。
-Plant_Crop_Rice_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Plant_Crop_Cauliflower_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>\n<color is="#ffffff">バイソン</color>の好物です。
-Plant_Crop_Chilli_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>\n<color is="#ffffff">スクリル</color>の好物です。
-Plant_Crop_Aubergine_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>\n<color is="#ffffff">野生のブタ</color>の好物です。
-Plant_Mushroom_Brown.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Plant_Mushroom_Red.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Food_Vegetable_Cooked.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n• <color is="#ffffff">スタミナ上昇 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Food_Kebab_Fruit.description = [TMP] 体力を即座に<color is="#ffffff">10%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 II</color>\n• <color is="#ffffff">スタミナ上昇 II</color>\n\n持続時間: <color is="#ffffff">2:30</color>
-Food_Kebab_Vegetable.description = [TMP] 体力を即座に<color is="#ffffff">10%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 II</color>\n• <color is="#ffffff">スタミナ上昇 II</color>\n\n持続時間: <color is="#ffffff">2:30</color>
-Food_Kebab_Mushroom.description = [TMP] 体力を即座に<color is="#ffffff">10%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 II</color>\n• <color is="#ffffff">スタミナ上昇 II</color>\n\n持続時間: <color is="#ffffff">2:30</color>
-Food_Salad_Berry.description = [TMP] 体力を即座に<color is="#ffffff">10%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 II</color>\n• <color is="#ffffff">スタミナ上昇 II</color>\n\n持続時間: <color is="#ffffff">2:30</color>
-Food_Salad_Mushroom.description = [TMP] 体力を即座に<color is="#ffffff">10%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 II</color>\n• <color is="#ffffff">スタミナ上昇 II</color>\n\n持続時間: <color is="#ffffff">2:30</color>
-Food_Salad_Caesar.description = [TMP] 体力を即座に<color is="#ffffff">15%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">スタミナ上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
-Food_Pie_Apple.description = [TMP] 体力を即座に<color is="#ffffff">15%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">スタミナ上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
-Recipe_Food_Pie_Apple.description = [TMP] <item is="Food_Pie_Apple"/> のレシピを覚えます。\n\n体力を即座に<color is="#ffffff">15%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">スタミナ上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
-Recipe_Food_Pie_Pumpkin.description = [TMP] <item is="Food_Pie_Pumpkin"/> のレシピを覚えます。\n\n体力を即座に<color is="#ffffff">15%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">スタミナ上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
-Recipe_Food_Pie_Meat.description = [TMP] <item is="Food_Pie_Meat"/> のレシピを覚えます。\n\n体力を即座に<color is="#ffffff">15%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">体力上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
-Recipe_Food_Salad_Caesar.description = [TMP] <item is="Food_Salad_Caesar"/> のレシピを覚えます。\n\n体力を即座に<color is="#ffffff">15%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">スタミナ上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
-Food_Pie_Pumpkin.description = [TMP] 体力を即座に<color is="#ffffff">15%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">スタミナ上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
-Food_Wildmeat_Cooked.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n• <color is="#ffffff">体力上昇 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Food_Fish_Grilled.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n• <color is="#ffffff">体力上昇 I</color>\n\n持続時間: <color is="#ffffff">0:45</color>
-Food_Kebab_Meat.description = [TMP] 体力を即座に<color is="#ffffff">10%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 II</color>\n• <color is="#ffffff">体力上昇 II</color>\n\n持続時間: <color is="#ffffff">2:30</color>
-Food_Pie_Meat.description = [TMP] 体力を即座に<color is="#ffffff">15%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">体力上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Plant_Fruit_Apple.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>\n<color is="#ffffff">ヤギ</color>、<color is="#ffffff">オス羊</color>、<color is="#ffffff">ムフロン</color>の好物です。
+Plant_Fruit_Berries_Red.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>
+Plant_Fruit_Berries_Blue.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Plant_Fruit_Orange.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Plant_Fruit_Pear.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Plant_Fruit_Azure.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>
+Plant_Fruit_Coconut.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>
+Plant_Fruit_Mango.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>
+Plant_Fruit_Pinkberry.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>
+Plant_Fruit_Poison.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>
+Plant_Fruit_Spiral.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>
+Plant_Fruit_Windwillow.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>
+Plant_Crop_Carrot_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>\n<color is="#ffffff">ウサギ</color>、<color is="#ffffff">子ウサギ</color>、<color is="#ffffff">ウマ</color>の好物です。
+Plant_Crop_Corn_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>\n<color is="#ffffff">ニワトリ</color>と<color is="#ffffff">シチメンチョウ</color>の好物です。
+Plant_Crop_Potato_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>\n<color is="#ffffff">モスホーン</color>の好物です。
+Plant_Crop_Pumpkin_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>\n<color is="#ffffff">イノシシ</color>の好物です。
+Plant_Crop_Onion_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>\n<color is="#ffffff">イボイノシシ</color>の好物です。
+Plant_Crop_Lettuce_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>\n<color is="#ffffff">ウシ</color>と<color is="#ffffff">ヒツジ</color>の好物です。
+Plant_Crop_Turnip_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>\n<color is="#ffffff">ブタ</color>の好物です。
+Plant_Crop_Tomato_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>\n<color is="#ffffff">ラクダ</color>の好物です。
+Plant_Crop_Rice_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>
+Plant_Crop_Cauliflower_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>\n<color is="#ffffff">バイソン</color>の好物です。
+Plant_Crop_Chilli_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>\n<color is="#ffffff">スクリル</color>の好物です。
+Plant_Crop_Aubergine_Item.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">1:00</color>\n<color is="#ffffff">野生のブタ</color>の好物です。
+Plant_Mushroom_Brown.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Plant_Mushroom_Red.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Food_Vegetable_Cooked.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n• <color is="#ffffff">スタミナ上昇 I</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Food_Kebab_Fruit.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 II</color>\n• <color is="#ffffff">スタミナ上昇 II</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Food_Kebab_Vegetable.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 II</color>\n• <color is="#ffffff">スタミナ上昇 II</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Food_Kebab_Mushroom.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 II</color>\n• <color is="#ffffff">スタミナ上昇 II</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Food_Salad_Berry.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 II</color>\n• <color is="#ffffff">スタミナ上昇 II</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Food_Salad_Mushroom.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 II</color>\n• <color is="#ffffff">スタミナ上昇 II</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Food_Salad_Caesar.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">スタミナ上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Food_Pie_Apple.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">スタミナ上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Recipe_Food_Pie_Apple.description = [TMP] <item is="Food_Pie_Apple"/> のレシピを覚えます。\n\n体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">スタミナ上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Recipe_Food_Pie_Pumpkin.description = [TMP] <item is="Food_Pie_Pumpkin"/> のレシピを覚えます。\n\n体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">スタミナ上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Recipe_Food_Pie_Meat.description = [TMP] <item is="Food_Pie_Meat"/> のレシピを覚えます。\n\n体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">体力上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Recipe_Food_Salad_Caesar.description = [TMP] <item is="Food_Salad_Caesar"/> のレシピを覚えます。\n\n体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">スタミナ上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Food_Pie_Pumpkin.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">スタミナ上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Food_Wildmeat_Cooked.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n• <color is="#ffffff">体力上昇 I</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Food_Fish_Grilled.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 I</color>\n• <color is="#ffffff">体力上昇 I</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Food_Kebab_Meat.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 II</color>\n• <color is="#ffffff">体力上昇 II</color>\n\n持続時間: <color is="#ffffff">6:00</color>
+Food_Pie_Meat.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復し、次の効果を得ます:\n\n• <color is="#ffffff">体力再生 III</color>\n• <color is="#ffffff">体力上昇 III</color>\n\n持続時間: <color is="#ffffff">6:00</color>
 Food_Wildmeat_Raw.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復します。
 Food_Fish_Raw.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復します。
 Food_Pork_Raw.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復します。
 Food_Chicken_Raw.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復します。
 Food_Beef_Raw.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復します。
-Food_Bread.description = [TMP] 体力を即座に<color is="#ffffff">15%</color>回復します。
-Food_Popcorn.description = [TMP] 体力を即座に<color is="#ffffff">15%</color>回復します。
-Food_Cheese.description = [TMP] 体力を即座に<color is="#ffffff">15%</color>回復します。
+Food_Bread.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復します。
+Food_Popcorn.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復します。
+Food_Cheese.description = [TMP] 体力を即座に<color is="#ffffff">5%</color>回復します。
 Furniture_Cybercity_Windows_Purple.name = プロトタイプ - サイバーシティの窓 - 上下 紫
 Furniture_Cybercity_Windows_Red.name = プロトタイプ - サイバーシティの窓 - 上下 赤
 Furniture_Cybercity_Windows_Yellow.name = プロトタイプ - サイバーシティの窓 - 上下 黄色
@@ -3877,63 +3877,63 @@ Furniture_Cybercity_Windows_LR.name = プロトタイプ - サイバーシティ
 Furniture_Cybercity_Windows_Right.name = プロトタイプ - サイバーシティの窓 - 右
 Furniture_Cybercity_Windows_TopBot.name = プロトタイプ - サイバーシティの窓 - 上下
 Furniture_Cybercity_Windows_U.name = プロトタイプ - サイバーシティの窓 - U字
-Metal_Bronze.name = ブロンズ
-Metal_Bronze_Decorative.name = ブロンズ - 装飾
+Metal_Bronze.name = サイバーシティのブロンズ
+Metal_Bronze_Decorative.name = サイバーシティのブロンズ - 装飾
 Metal_Bronze_Gutter_Corner.name = ブロンズの雨どい - 右の角
 Metal_Bronze_Gutter_Horizontal.name = ブロンズの雨どい - 水平
 Metal_Bronze_Gutter_Vertical.name = ブロンズの雨どい - 垂直
 Metal_Bronze_Gutter_WaterFilter.name = ブロンズの雨どい - 水フィルター
-Metal_Bronze_Half.name = ブロンズ - ハーフスラブ
-Metal_Bronze_Pipe_Chimney.name = ブロンズの管 - 煙突
-Metal_Bronze_Pipe_Corner.name = ブロンズの管 - 角
-Metal_Bronze_Pipe_Large.name = ブロンズの管 - 大
-Metal_Bronze_Pipe_Large_Corner.name = ブロンズの管 - 大きな角
-Metal_Bronze_Pipe_Large_Mouthpiece.name = ブロンズの管 - 大きな注ぎ口
-Metal_Bronze_Pipe_Long.name = ブロンズの管 - 長
-Metal_Bronze_Pipe_Short.name = ブロンズの管 - 短
-Metal_Bronze_Stairs.name = ブロンズ - 階段
-Metal_Copper.name = 銅
-Metal_Copper_Decorative.name = 銅 - 装飾
+Metal_Bronze_Half.name = サイバーシティのブロンズ - ハーフスラブ
+Metal_Bronze_Pipe_Chimney.name = サイバーシティのブロンズの管 - 煙突
+Metal_Bronze_Pipe_Corner.name = サイバーシティのブロンズの管 - 角
+Metal_Bronze_Pipe_Large.name = サイバーシティのブロンズの管 - 大
+Metal_Bronze_Pipe_Large_Corner.name = サイバーシティのブロンズの管 - 大きな角
+Metal_Bronze_Pipe_Large_Mouthpiece.name = サイバーシティのブロンズの管 - 大きな注ぎ口
+Metal_Bronze_Pipe_Long.name = サイバーシティのブロンズの管 - 長
+Metal_Bronze_Pipe_Short.name = サイバーシティのブロンズの管 - 短
+Metal_Bronze_Stairs.name = サイバーシティのブロンズ - 階段
+Metal_Copper.name = サイバーシティの銅
+Metal_Copper_Decorative.name = サイバーシティの銅 - 装飾
 Metal_Copper_Gutter_Corner.name = 銅の雨どい - 右の角
 Metal_Copper_Gutter_Horizontal.name = 銅の雨どい - 水平
 Metal_Copper_Gutter_Vertical.name = 銅の雨どい - 垂直
 Metal_Copper_Gutter_WaterFilter.name = 銅の雨どい - 水フィルター
-Metal_Copper_Half.name = 銅 - ハーフスラブ
-Metal_Copper_Pipe_Chimney.name = 銅の管 - 煙突
-Metal_Copper_Pipe_Corner.name = 銅の管 - 角
-Metal_Copper_Pipe_Large.name = 銅の管 - 大
-Metal_Copper_Pipe_Large_Corner.name = 銅の管 - 大きな角
-Metal_Copper_Pipe_Large_Mouthpiece.name = 銅の管 - 大きな注ぎ口
-Metal_Copper_Pipe_Long.name = 銅の管 - 長
-Metal_Copper_Pipe_Short.name = 銅の管 - 短
-Metal_Copper_Stairs.name = 銅 - 階段
-Metal_Iron.name = 鉄
-Metal_Iron_Decorative.name = 鉄 - 装飾
+Metal_Copper_Half.name = サイバーシティの銅 - ハーフスラブ
+Metal_Copper_Pipe_Chimney.name = サイバーシティの銅の管 - 煙突
+Metal_Copper_Pipe_Corner.name = サイバーシティの銅の管 - 角
+Metal_Copper_Pipe_Large.name = サイバーシティの銅の管 - 大
+Metal_Copper_Pipe_Large_Corner.name = サイバーシティの銅の管 - 大きな角
+Metal_Copper_Pipe_Large_Mouthpiece.name = サイバーシティの銅の管 - 大きな注ぎ口
+Metal_Copper_Pipe_Long.name = サイバーシティの銅の管 - 長
+Metal_Copper_Pipe_Short.name = サイバーシティの銅の管 - 短
+Metal_Copper_Stairs.name = サイバーシティの銅 - 階段
+Metal_Iron.name = サイバーシティの鉄
+Metal_Iron_Decorative.name = サイバーシティの鉄 - 装飾
 Metal_Iron_Gutter_Corner.name = 鉄の雨どい - 右の角
 Metal_Iron_Gutter_Horizontal.name = 鉄の雨どい - 水平
 Metal_Iron_Gutter_Vertical.name = 鉄の雨どい - 垂直
 Metal_Iron_Gutter_WaterFilter.name = 鉄の雨どい - 水フィルター
-Metal_Iron_Half.name = 鉄 - ハーフスラブ
-Metal_Iron_Pipe_Chimney.name = 鉄の管 - 煙突
-Metal_Iron_Pipe_Corner.name = 鉄の管 - 角
-Metal_Iron_Pipe_Large.name = 鉄の管 - 大
-Metal_Iron_Pipe_Large_Corner.name = 鉄の管 - 大きな角
-Metal_Iron_Pipe_Large_Mouthpiece.name = 鉄の管 - 大きな注ぎ口
-Metal_Iron_Pipe_Long.name = 鉄の管 - 長
-Metal_Iron_Pipe_Short.name = 鉄の管 - 短
-Metal_Iron_Roof.name = 鉄の屋根 - 傾斜
-Metal_Iron_Roof_Flat.name = 鉄の屋根 - 平ら
-Metal_Iron_Roof_Shallow.name = 鉄の屋根 - 緩やか
-Metal_Iron_Roof_Steep.name = 鉄の屋根 - 急
-Metal_Iron_Stairs.name = 鉄 - 階段
-Metal_Zinc.name = 亜鉛
-Metal_Zinc_Decorative.name = 亜鉛 - 装飾
-Metal_Zinc_Fence.name = 亜鉛 - 柵
+Metal_Iron_Half.name = サイバーシティの鉄 - ハーフスラブ
+Metal_Iron_Pipe_Chimney.name = サイバーシティの鉄の管 - 煙突
+Metal_Iron_Pipe_Corner.name = サイバーシティの鉄の管 - 角
+Metal_Iron_Pipe_Large.name = サイバーシティの鉄の管 - 大
+Metal_Iron_Pipe_Large_Corner.name = サイバーシティの鉄の管 - 大きな角
+Metal_Iron_Pipe_Large_Mouthpiece.name = サイバーシティの鉄の管 - 大きな注ぎ口
+Metal_Iron_Pipe_Long.name = サイバーシティの鉄の管 - 長
+Metal_Iron_Pipe_Short.name = サイバーシティの鉄の管 - 短
+Metal_Iron_Roof.name = サイバーシティの鉄の屋根 - 傾斜
+Metal_Iron_Roof_Flat.name = サイバーシティの鉄の屋根 - 平ら
+Metal_Iron_Roof_Shallow.name = サイバーシティの鉄の屋根 - 緩やか
+Metal_Iron_Roof_Steep.name = サイバーシティの鉄の屋根 - 急
+Metal_Iron_Stairs.name = サイバーシティの鉄 - 階段
+Metal_Zinc.name = サイバーシティの亜鉛
+Metal_Zinc_Decorative.name = サイバーシティの亜鉛 - 装飾
+Metal_Zinc_Fence.name = サイバーシティの亜鉛 - 柵
 Metal_Zinc_Gutter_Corner.name = 亜鉛の雨どい - 右の角
 Metal_Zinc_Gutter_Horizontal.name = 亜鉛の雨どい - 水平
 Metal_Zinc_Gutter_Vertical.name = 亜鉛の雨どい - 垂直
 Metal_Zinc_Gutter_WaterFilter.name = 亜鉛の雨どい - 水フィルター
-Metal_Zinc_Half.name = 亜鉛 - ハーフスラブ
+Metal_Zinc_Half.name = サイバーシティの亜鉛 - ハーフスラブ
 Metal_Gold_Pipe_Chimney.name = 金の管 - 煙突
 Metal_Gold_Pipe_Corner.name = 金の管 - 角
 Metal_Gold_Pipe_Large_Corner.name = 金の管 - 大きな角
@@ -3941,18 +3941,18 @@ Metal_Gold_Pipe_Short.name = 金の管 - 短
 Metal_Gold_Pipe_Long.name = 金の管 - 長
 Metal_Gold_Pipe_Large.name = 金の管 - 大
 Metal_Gold_Pipe_Large_Mouthpiece.name = 金の管 - 大きな注ぎ口
-Metal_Zinc_Pipe_Chimney.name = 亜鉛の管 - 煙突
-Metal_Zinc_Pipe_Corner.name = 亜鉛の管 - 角
-Metal_Zinc_Pipe_Large.name = 亜鉛の管 - 大
-Metal_Zinc_Pipe_Large_Corner.name = 亜鉛の管 - 大きな角
-Metal_Zinc_Pipe_Large_Mouthpiece.name = 亜鉛の管 - 大きな注ぎ口
-Metal_Zinc_Pipe_Long.name = 亜鉛の管 - 長
-Metal_Zinc_Pipe_Short.name = 亜鉛の管 - 短
-Metal_Zinc_Roof.name = 亜鉛の屋根 - 傾斜
-Metal_Zinc_Roof_Flat.name = 亜鉛の屋根 - 平ら
-Metal_Zinc_Roof_Shallow.name = 亜鉛の屋根 - 緩やか
-Metal_Zinc_Roof_Steep.name = 亜鉛の屋根 - 急
-Metal_Zinc_Stairs.name = 亜鉛 - 階段
+Metal_Zinc_Pipe_Chimney.name = サイバーシティの亜鉛の管 - 煙突
+Metal_Zinc_Pipe_Corner.name = サイバーシティの亜鉛の管 - 角
+Metal_Zinc_Pipe_Large.name = サイバーシティの亜鉛の管 - 大
+Metal_Zinc_Pipe_Large_Corner.name = サイバーシティの亜鉛の管 - 大きな角
+Metal_Zinc_Pipe_Large_Mouthpiece.name = サイバーシティの亜鉛の管 - 大きな注ぎ口
+Metal_Zinc_Pipe_Long.name = サイバーシティの亜鉛の管 - 長
+Metal_Zinc_Pipe_Short.name = サイバーシティの亜鉛の管 - 短
+Metal_Zinc_Roof.name = サイバーシティの亜鉛の屋根 - 傾斜
+Metal_Zinc_Roof_Flat.name = サイバーシティの亜鉛の屋根 - 平ら
+Metal_Zinc_Roof_Shallow.name = サイバーシティの亜鉛の屋根 - 緩やか
+Metal_Zinc_Roof_Steep.name = サイバーシティの亜鉛の屋根 - 急
+Metal_Zinc_Stairs.name = サイバーシティの亜鉛 - 階段
 Build_Black_Cube.name =黒いビルドキューブ
 Build_Black_Half.name =黒いビルド - ハーフスラブ
 Build_Black_Stairs.name =黒いビルド - 階段
@@ -4099,28 +4099,536 @@ Soil_Clay_Smooth_Yellow_Stairs.name = 黄色い粘土 - 滑らかな階段
 Soil_Clay_Smooth_Yellow_Half.name = 黄色い粘土 - 滑らかなハーフスラブ
 Soil_Clay_Smooth_Yellow2_Stairs.name = オレンジの粘土 - 滑らかな階段
 Soil_Clay_Smooth_Yellow2_Half.name = オレンジの粘土 - 滑らかなハーフスラブ
-Metal_Zinc_Ornate.name = 亜鉛 - 華飾
-Metal_Zinc_Smooth.name = 亜鉛 - 滑らか
-Metal_Zinc_Smooth_Half.name = 亜鉛 - 滑らかなハーフスラブ
-Metal_Iron_Ornate.name = 鉄 - 華飾
-Metal_Iron_Smooth.name = 鉄 - 滑らか
-Metal_Iron_Smooth_Half.name = 鉄 - 滑らかなハーフスラブ
-Metal_Bronze_Ornate.name = ブロンズ - 華飾
-Metal_Bronze_Smooth.name = ブロンズ - 滑らか
-Metal_Bronze_Smooth_Half.name = ブロンズ - 滑らかなハーフスラブ
-Metal_Bronze_Roof.name = ブロンズの屋根 - 傾斜
-Metal_Bronze_Roof_Steep.name = ブロンズの屋根 - 急
-Metal_Bronze_Roof_Shallow.name = ブロンズの屋根 - 緩やか
-Metal_Bronze_Roof_Flat.name = ブロンズの屋根 - 平ら
-Metal_Copper_Ornate.name = 銅 - 華飾
-Metal_Copper_Smooth.name = 銅 - 滑らか
-Metal_Copper_Smooth_Half.name = 銅 - 滑らかなハーフスラブ
-Metal_Copper_Roof.name = 銅の屋根 - 傾斜
-Metal_Copper_Roof_Steep.name = 銅の屋根 - 急
-Metal_Copper_Roof_Shallow.name = 銅の屋根 - 緩やか
-Metal_Copper_Roof_Flat.name = 銅の屋根 - 平ら
-Metal_Iron_Fence.name = 鉄 - 柵
-Metal_Bronze_Fence.name = ブロンズ - 柵
-Metal_Copper_Fence.name = 銅 - 柵
+Metal_Zinc_Ornate.name = サイバーシティの亜鉛 - 華飾
+Metal_Zinc_Smooth.name = サイバーシティの亜鉛 - 滑らか
+Metal_Zinc_Smooth_Half.name = サイバーシティの亜鉛 - 滑らかなハーフスラブ
+Metal_Iron_Ornate.name = サイバーシティの鉄 - 華飾
+Metal_Iron_Smooth.name = サイバーシティの鉄 - 滑らか
+Metal_Iron_Smooth_Half.name = サイバーシティの鉄 - 滑らかなハーフスラブ
+Metal_Bronze_Ornate.name = サイバーシティのブロンズ - 華飾
+Metal_Bronze_Smooth.name = サイバーシティのブロンズ - 滑らか
+Metal_Bronze_Smooth_Half.name = サイバーシティのブロンズ - 滑らかなハーフスラブ
+Metal_Bronze_Roof.name = サイバーシティのブロンズの屋根 - 傾斜
+Metal_Bronze_Roof_Steep.name = サイバーシティのブロンズの屋根 - 急
+Metal_Bronze_Roof_Shallow.name = サイバーシティのブロンズの屋根 - 緩やか
+Metal_Bronze_Roof_Flat.name = サイバーシティのブロンズの屋根 - 平ら
+Metal_Copper_Ornate.name = サイバーシティの銅 - 華飾
+Metal_Copper_Smooth.name = サイバーシティの銅 - 滑らか
+Metal_Copper_Smooth_Half.name = サイバーシティの銅 - 滑らかなハーフスラブ
+Metal_Copper_Roof.name = サイバーシティの銅の屋根 - 傾斜
+Metal_Copper_Roof_Steep.name = サイバーシティの銅の屋根 - 急
+Metal_Copper_Roof_Shallow.name = サイバーシティの銅の屋根 - 緩やか
+Metal_Copper_Roof_Flat.name = サイバーシティの銅の屋根 - 平ら
+Metal_Iron_Fence.name = サイバーシティの鉄 - 柵
+Metal_Bronze_Fence.name = サイバーシティのブロンズ - 柵
+Metal_Copper_Fence.name = サイバーシティの銅 - 柵
 Unknown.name = 不明
 Debug_Movement_Boots.name = デバッグ 移動ブーツ
+Block_Spawner_TempleGoblinExplosion.name = ゴブリンの爆発スポナー
+Block_Spawner_TempleGoblinFirework.name = ゴブリンの花火スポナー
+Block_Spawner_TempleGoblinFireworkCloser.name = ゴブリンの締めの花火スポナー
+Block_Spawner_TempleGoblinGeyser.name = ゴブリンの間欠泉スポナー
+Block_Spawner_TempleGoblinLightning.name = ゴブリンの稲妻スポナー
+Block_Spawner_TempleGoblinSludge.name = ゴブリンのヘドロスポナー
+Block_Spawner_TempleGoblinSludge2.name = ゴブリンのヘドロスポナー2
+Block_Spawner_TempleGoblinSmoke.name = ゴブリンの煙スポナー
+Block_Spawner_TempleGoblinSparks.name = ゴブリンの火花スポナー
+Block_Spawner_TempleGoblinSparksBurst.name = ゴブリンの火花バーストスポナー
+Block_Spawner_GoblinBreachSpark.name = ゴブリンの侵食の火花スポナー
+Block_Spawner_GoblinInitialBreachMarker.name = ゴブリンの初回侵食マップマーカー
+Dungeon_Checkpoint_Statue.name = ダンジョンのチェックポイントの像
+VFX_Dungeon_Goblin_Bouncy_Mushroom.name = ゴブリンの弾むキノコスポナー
+VFX_Dungeon_Goblin_Cauldron.name = ゴブリンの大釜スポナー
+VFX_Dungeon_Goblin_Cave_Drips.name = ゴブリンの洞窟の水滴スポナー
+VFX_Dungeon_Goblin_Cave_Drips_Stalactite.name = ゴブリンの洞窟の鍾乳石の水滴スポナー
+VFX_Dungeon_Goblin_Electric_Fence.name = ゴブリンの電気柵スポナー
+VFX_Dungeon_Goblin_Energy_Barrier.name = ゴブリンのエネルギー障壁スポナー
+VFX_Dungeon_Goblin_Leaking_Pipe.name = ゴブリンの水漏れパイプスポナー
+VFX_Dungeon_Goblin_Leaking_Pipe_Fast.name = ゴブリンの水漏れパイプ(高速)スポナー
+VFX_Dungeon_Goblin_Polluted_Water.name = ゴブリンの汚染水スポナー
+VFX_Dungeon_Goblin_Polluted_Water_Small.name = ゴブリンの汚染水(小)スポナー
+VFX_Dungeon_Goblin_Puddle_Goo.name = ゴブリンのねばねばの水たまりスポナー
+VFX_Dungeon_Goblin_Puddle_Slime.name = ゴブリンのスライムの水たまりスポナー
+VFX_Dungeon_Goblin_Puddle_Water.name = ゴブリンの水たまりスポナー
+VFX_Dungeon_Goblin_Smoke_Pipe_Large.name = ゴブリンの煙突(大)スポナー
+VFX_Dungeon_Goblin_Smoke_Pipe_Small.name = ゴブリンの煙突(小)スポナー
+VFX_Dungeon_Goblin_Spores_Blue.name = ゴブリンの青い胞子スポナー
+VFX_Dungeon_Goblin_Spores_Green.name = ゴブリンの緑の胞子スポナー
+VFX_Dungeon_Goblin_Spores_Orange.name = ゴブリンのオレンジの胞子スポナー
+VFX_Dungeon_Goblin_Spores_Orange_Dense.name = ゴブリンの濃いオレンジの胞子スポナー
+VFX_Dungeon_Goblin_Spores_Purple.name = ゴブリンの紫の胞子スポナー
+VFX_Dungeon_Goblin_Spores_Skylight.name = ゴブリンの天窓の胞子スポナー
+VFX_Dungeon_Goblin_Stinky_Pile.name = ゴブリンの悪臭の山スポナー
+VFX_Dungeon_Goblin_Stinky_Pile_Small.name = ゴブリンの悪臭の山(小)スポナー
+VFX_Dungeon_Goblin_Sun_Shafts_Large.name = ゴブリンの光芒(大)スポナー
+VFX_Dungeon_Goblin_Sun_Shafts_Small.name = ゴブリンの光芒(小)スポナー
+VFX_Dungeon_Goblin_Sun_Shafts_Tiny.name = ゴブリンの光芒(極小)スポナー
+VFX_Dungeon_Goblin_Temple_Motes.name = ゴブリンの神殿の光の粒スポナー
+VFX_Dungeon_Goblin_Temple_Motes_Floor.name = ゴブリンの神殿の床の光の粒スポナー
+VFX_Dungeon_Goblin_Toxic_Water.name = ゴブリンの有毒な水スポナー
+VFX_Dungeon_Goblin_Toxic_Water_Small.name = ゴブリンの有毒な水(小)スポナー
+VFX_Dungeon_Goblin_Void_Cinematic_Portal.name = ゴブリンのヴォイドのシネマティックポータルスポナー
+VFX_Dungeon_Goblin_Void_Motes_Cluster.name = ゴブリンのヴォイドの粒の集まりスポナー
+VFX_Dungeon_Goblin_Void_Rift.name = ゴブリンのヴォイドの裂け目スポナー
+VFX_Dungeon_Goblin_Void_Rift_Wind.name = ゴブリンのヴォイドの裂け目の風スポナー
+VFX_Dungeon_Goblin_Water_Spout.name = ゴブリンの噴水スポナー
+VFX_Dungeon_Goblin_Water_Spout_Splash.name = ゴブリンの噴水のしぶきスポナー
+Spawn_Temple_Goblin_Fence.name = ゴブリンの電気柵スポナー
+Dead_Fish.name = 死んだ魚
+Rune_Fireball.name = ファイアボール
+Rune_Fireball.description = 着弾時に爆発する火球を放ちます。
+Debug_Rune_Tornado.name = [TMP] デバッグアビリティ: トルネード
+Debug_Rune_Tornado.description = [TMP] アビリティ2/3で竜巻を放ちます。
+Debug_Rune_Test.name = [TMP] デバッグアビリティ: サポートテスト
+Debug_Rune_Test.description = [TMP] サポートスロット専用。まだ効果はありません。
+Debug_Rune_Burning.name = [TMP] デバッグアビリティ: 炎上サポート
+Debug_Rune_Burning.description = [TMP] サポートスロット専用。リンクしたダメージアビリティが命中するたびに、対象に火をつけます。
+Debug_Rune_Speed.name = [TMP] デバッグアビリティ: 修飾サポート
+Debug_Rune_Speed.description = [TMP] サポートスロット専用。投射物の速度と引き換えに、サイズ、衝撃、効率を高めます。
+Debug_Rune_Fork.name = [TMP] デバッグアビリティ: 分裂サポート
+Debug_Rune_Fork.description = [TMP] サポートスロット専用。リンクした投射物は最初の命中時に3つに分裂します。分裂後の投射物はそれぞれサイズが半分になり、与えるダメージも半分になります。
+Rune_GroundSlam.name = グラウンドスラム
+Rune_GroundSlam.description = 地面を打ち砕き、石の杭で敵を空中に打ち上げます。
+Debug_Rune_Frostbolt.name = [TMP] デバッグアビリティ: フロストボルト
+Debug_Rune_Frostbolt.description = [TMP] 氷の矢を放ち、着弾地点の周囲の敵にダメージを与えて動きを遅くします。
+Rune_Aoe_Up.name = 巨大化
+Rune_Aoe_Up.description = サポート対象のアビリティのサイズと威力を高めますが、投射物の速度は低下します。
+Rune_Duration_Up.name = 持続
+Rune_Duration_Up.description = サポート対象のアビリティが付与する効果の持続時間を延ばします。
+Rune_Damage_Up.name = ダメージ増幅
+Rune_Damage_Up.description = サポート対象のアビリティの直接ダメージを高めます。
+Rune_Convert_Wind.name = 風への変換
+Rune_Convert_Wind.description = サポート対象のアビリティのダメージの種類を風に変換します。
+Rune_Convert_Lightning.name = 雷への変換
+Rune_Convert_Lightning.description = サポート対象のアビリティのダメージの種類を雷に変換します。
+Rune_ChainHook.name = チェーンフック
+Rune_ChainHook.description = 鎖を放ち、最初に命中した敵を引き寄せて、短時間その動きを遅くします。
+Rune_Empty.name = 空のルーンストーン
+Bench_Abilities.name = ルーンバインダーの格子
+Bench_Abilities.description = この石と交信して、アビリティとルーンストーンを配置します。\n\
+\n\
+<i>かつてある文明は、アバターの力を我がものにしようとした。ルーンバインダーの道が成功していれば、彼らはもっと暗い道を歩まずに済んだのかもしれない。</i>
+Bench_Abilities.mapMarker = ルーンバインダーの格子
+Rune_WindStrike.name = ウィンドストライク
+Rune_WindStrike.description = 武器に風の元素の力を宿します。次の3回の攻撃で、貫通する風の弧を放ちます。
+Rune_Enrage.name = 激昂
+Rune_Enrage.description = 8秒間、物理・元素・投射物ダメージが30%増加しますが、武器攻撃と元素攻撃に対して脆弱になります。
+Rune_PoisonImbue.name = 毒付与
+Rune_PoisonImbue.description = 8秒間、武器に毒を宿します。近接攻撃と遠距離攻撃の命中で最大3スタックを付与し、各スタックは6秒間、2秒ごとに4の毒ダメージを与えます。
+Rune_Fork.name = 分裂
+Rune_Fork.description = サポート対象のアビリティの投射物が、最初の命中時に分裂します。分裂した投射物は、分裂や跳弾のたびに小さくなり、与えるダメージも減少します。チャージショットはフルチャージが必要です。
+Rune_Ricochet.name = 跳弾
+Rune_Ricochet.description = サポート対象のアビリティの投射物が敵の間を跳ね返り、跳ね返りや分裂のたびに与えるダメージが減少します。チャージショットはフルチャージが必要です。
+Rune_Quickening.name = 加速
+Rune_Quickening.description = サポート対象のアビリティを、より少ないマナでより頻繁に使用できるようになります。投射物の速度は上がりますが、直撃のダメージが減り、効果の持続も短くなります。
+Rune_Thrift.name = 倹約
+Rune_Thrift.description = サポート対象のアビリティのマナコストが減りますが、直撃のダメージも減少します。
+Rune_Rend.name = 裂傷
+Rune_Rend.description = サポート対象のアビリティの命中時に裂傷を付与し、6秒間敵を負傷させます。負傷した敵は2秒ごとに4の物理ダメージを受け、物理耐性が15%低下します。
+Rune_Wither.name = 衰弱
+Rune_Wither.description = サポート対象のアビリティの命中時に衰弱を付与し、2秒間敵を弱体化させます。弱体化した敵は、与える物理・元素・投射物ダメージが15%減少し、移動速度が10%低下します。
+Rune_ChargedShot.name = チャージショット
+Rune_ChargedShot.description = 長押しで凍てつく矢をチャージします。チャージが長いほど対象をより強く冷やし、凍らせることもあります。フルチャージした矢は氷柱に分裂します。
+Deco_Goblin_Plush.name = ゴブリンのぬいぐるみ
+Deco_SpiderWeb_Diagonal.name = クモの巣のロープ - 斜め
+Goblin_Gobliterator_Difficulty_Button.name = ゴブリテレーターの難易度ボタン
+Goblin_Gobliterator_Difficulty_Lever.name = ゴブリテレーターの難易度レバー
+Goblin_Gobliterator_Difficulty_Lever_Hard.name = ゴブリテレーターの難易度レバー(ハード)
+Goblin_Graffiti_Fire.name = 火災警告の落書き
+Goblin_Graffiti_Spider.name = クモ警告の落書き
+Goblin_Graffiti_Large_Spider.name = 大きなクモ警告の落書き
+Goblin_Graffiti_Skeleton.name = スケルトン警告の落書き
+Goblin_Graffiti_Large_Overheat.name = 大きな過熱警告の落書き
+Goblin_Painting_Orbis.name = ゴブリンの絵画: ヴォイドのヴェール
+Goblin_Painting_Orbis.description = <i>何もかもおかしい。空が紫すぎる。\n\
+\n\
+ここにいてはいけない。\n\
+\n\
+マキノマギストラはやり遂げる。</i>
+Goblin_Painting_Orbis_Replica.name = ゴブリンの絵画: ヴォイドのヴェール(複製)
+Goblin_Painting_Orbis_Replica.description = <msg key="server.items.Goblin_Painting_Orbis.description"/>
+Goblin_Painting_Portal.name = ゴブリンの絵画: 旅するゴブリン
+Goblin_Painting_Portal.description = <i>動いた！</i>
+Goblin_Painting_Portal_Replica.name = ゴブリンの絵画: 旅するゴブリン(複製)
+Goblin_Painting_Portal_Replica.description = <msg key="server.items.Goblin_Painting_Portal.description"/>
+Goblin_Painting_Fail.name = ゴブリンの絵画: 失敗した遠征
+Goblin_Painting_Fail.description = <i>失敗が多すぎる。\n\
+\n\
+紫の壁はすべてを跳ね返す。\n\
+\n\
+方法はあるはず。永遠に閉じ込めておけるわけがない。</i>
+Goblin_Painting_Fail_Replica.name = ゴブリンの絵画: 失敗した遠征(複製)
+Goblin_Painting_Fail_Replica.description = <msg key="server.items.Goblin_Painting_Fail.description"/>
+Goblin_Painting_ForgottenTemple.name = ゴブリンの絵画: 奇妙な場所
+Goblin_Painting_ForgottenTemple.description = <i>ここにはクウィーベックがいるけど、オービスじゃない。\n\
+\n\
+似ているけど、同じじゃない。空も紫じゃない。</i>
+Goblin_Painting_ForgottenTemple_Replica.name = ゴブリンの絵画: 奇妙な場所(複製)
+Goblin_Painting_ForgottenTemple_Replica.description = <msg key="server.items.Goblin_Painting_ForgottenTemple.description"/>
+Goblin_Painting_Repair.name = ゴブリンの絵画: 必要な修理
+Goblin_Painting_Repair.description = <i>門はもう動かない。先へ進む方法がない。\n\
+\n\
+部品は向こう側にある。あの紫の空の下に。</i>
+Goblin_Painting_Repair_Replica.name = ゴブリンの絵画: 必要な修理(複製)
+Goblin_Painting_Repair_Replica.description = <msg key="server.items.Goblin_Painting_Repair.description"/>
+Klops_Away_Sign.name = 閉店中
+Klops_Away_Sign.description = 依頼人のためにアイテムを取りに出かけています。
+Goblin_Painting_Breach.name = ゴブリンの絵画: 侵食
+Goblin_Painting_Breach.description = <i>他のゴブリンも来る。みんなが友好的なわけじゃない。\n\
+\n\
+ここには新しいものがある。ここのほうが安全。\n\
+\n\
+でも必要な部品はあっちにある。</i>
+Goblin_Painting_Breach_Replica.name = ゴブリンの絵画: 侵食(複製)
+Goblin_Painting_Breach_Replica.description = <msg key="server.items.Goblin_Painting_Breach.description"/>
+GoblinLab_Console.description = 断片内の制限時間を延ばします。修理するたびに時間が追加されます。
+Dungeon_Signal_Generator.name = ディープワークスの発電機
+Dungeon_Signal_Generator.description = オンとオフを切り替えます。切り替えるたびに、RequiresPower=true のタグが付いた近くのボリュームへ、シグナルキー Power でシグナルを送ります。
+GoblinLab_Console.name = ゴブリンの侵食コンソール
+GoblinLab_Power_Switch.name = ゴブリンの発電機
+GoblinLab_Teleporter.name = [TMP] ゴブリンラボのテレポーター
+GoblinLab_Teleporter.description = [TMP] 忘れられた神殿の入口とゴブリンラボを結ぶテレポーター。ラボの発電機からの電力が必要です。
+GoblinLab_Power_Switch.description = ラボ内の他の装置に電力を供給します。
+GoblinLab_Generator.FirstUse.message = 忘れられた神殿の先、あなたのエコーで異変を感じます。
+GoblinLab_Generator.FirstUse.title.primary = エコーが震えている
+GoblinLab_Generator.FirstUse.title.secondary = 神殿の先の異変を探そう
+GoblinLab_Tinkering_Bench_Fixed.name = ゴブリンの細工師の作業台
+GoblinLab_Tinkering_Bench_Fixed.description = ゴブリンの細工師たちが好んで使う作業台。特定のアイテムをクラフトするには、追加で稼働する装置が必要です。
+GoblinLab_Tinkering_Bench_Recipeset_A.name = ボイラー
+GoblinLab_Tinkering_Bench_Recipeset_A.description = <item is="GoblinLab_Tinkering_Bench"/> で作れるレシピが増えます。
+GoblinLab_Tinkering_Bench_Recipeset_B.name = エンジン
+GoblinLab_Tinkering_Bench_Recipeset_B.description = <item is="GoblinLab_Tinkering_Bench"/> で作れるレシピが増えます。
+GoblinLab_Tinkering_Bench_Recipeset_C.name = コンプレッサー
+GoblinLab_Tinkering_Bench_Recipeset_C.description = <item is="GoblinLab_Tinkering_Bench"/> で作れるレシピが増えます。
+tooltips.crafting.augmentTagRequired.goblin_lab_recipe_a = [TMP] <color is="#be1717">このレシピを解放するには、<item is="GoblinLab_Tinkering_Bench_Recipeset_A"/> を修理してください。</color>
+tooltips.crafting.augmentTagRequired.goblin_lab_recipe_b = [TMP] <color is="#be1717">このレシピを解放するには、<item is="GoblinLab_Tinkering_Bench_Recipeset_B"/> を修理してください。</color>
+tooltips.crafting.augmentTagRequired.goblin_lab_recipe_c = [TMP] <color is="#be1717">このレシピを解放するには、<item is="GoblinLab_Tinkering_Bench_Recipeset_C"/> を修理してください。</color>
+GoblinLab_Fragment_Portal.name = ゴブリンの門
+GoblinLab_Fragment_Portal.description = オービスを封じるヴォイドのヴェールを突破します。
+Cocoon_Spider_Cave.name = 洞窟グモの繭
+Rocket_Boots.name = ロケットブーツ
+Rocket_Boots.description = 設計図の片隅にメモが走り書きされています:\n\
+\n\
+<i>爆発で被験体が吹き飛ぶ。岩を掘るには弱すぎる。不採用。</i>
+Spider_Cocoon_Falling.name = プロトタイプ - 落下するクモの繭
+Deco_Trash_Banana_Peel.name = 食べかけのバナナ
+Deco_Trash_Eaten_Fish.name = 食べかけの魚
+Deco_Scrap_Pile_Shiny.name = きらめくスクラップの山
+Fluid_Tar_Void.name = ヴォイドのタール
+Furniture_Goblin_Bed.name = ゴブリンのベッド
+Furniture_Goblin_Brazier.name = ゴブリンの火鉢
+Furniture_Goblin_Candle.name = ゴブリンのロウソク
+Furniture_Goblin_Chest_Large.name = ゴブリンの大型チェスト
+Furniture_Goblin_Chest_Stolen.name = 盗まれたチェスト
+Furniture_Goblin_Coffer.name = ヴェールバウンドの宝箱
+Furniture_Goblin_Door_Medium.name = ゴブリンの中型の扉
+Furniture_Goblin_Door.name = ゴブリンの扉
+Furniture_Goblin_Ladder.name = ゴブリンのはしご
+Furniture_Goblin_Sign.name = ゴブリンの看板
+Furniture_Goblin_Stool.name = ゴブリンのスツール
+Furniture_Goblin_Table.name = ゴブリンのテーブル
+Furniture_Goblin_Window.name = ゴブリンの窓
+Furniture_Goblin_Pot_Loot.name = ゴブリンの戦利品の壺
+Furniture_Goblin_Statue_Graffiti.name = 落書きされた守護者の像
+Furniture_Human_Ruins_Statue.name = 炎の担い手の像
+Deco_SpiderWeb_Straight.name = クモの巣のロープ
+Furniture_Temple_Emerald_Statue_Head.name = 古代の統治者の像 - 頭部
+Glider_Scrap.name = スクラップのグライダー
+Glider_Scrap.description = 設計図の片隅にメモが走り書きされています:\n\
+\n\
+<i>被験体が何度も洞窟の壁に激突する。不採用。</i>
+Glass_Test_Red.name = テスト用ガラス(赤)
+Glass_Test_Green.name = テスト用ガラス(緑)
+Glass_Test_Blue.name = テスト用ガラス(青)
+Glass_Test_Yellow.name = テスト用ガラス(黄)
+Glass_Test_Purple.name = テスト用ガラス(紫)
+Glass_Test_White.name = テスト用ガラス(白)
+Ingredient_Crystal_Void.name = ヴォイドクリスタルの破片
+Ingredient_Crystal_Void.description = <i>真のオービスを覆うヴェールの下では、凝縮したヴォイドが結晶構造さえも生命のねじれた模造品へと歪める。砕けた今もなお、この破片にはそのエネルギーの痕跡が残っている。</i>
+Ingredient_Spider_Silk.name = クモの糸
+Ingredient_Enkindled_Resource.name = エンキンドルドの紋章
+Ingredient_Enkindled_Resource.description = <i>この紋章は、オービスに傷跡を残した大災厄によって失われた文明を物語る。不死の甦りし守護者の中でも特に屈強な者たちは、かつて心臓があった場所の近くにこれを携えている。</i>
+Ingredient_Deep_Resource.name = 束ねられた財宝
+Ingredient_Deep_Resource.description = <i>これらの光り物の用途を理解しているゴブリンはほとんどいない。フィーストマスターでさえ、単なる飾りくらいにしか思っていないことで知られている。</i>
+Ingredient_Voidtaken_Grizzly_Hide.name = ヴォイドテイクンのハイイログマの毛皮
+Ingredient_Voidtaken_Grizzly_Hide.description = <i>ヴォイドに汚染されたこの毛皮には、堕落の前にも後にも繰り返された無数の闘いの跡が刻まれている。ヴォイドのヴェールが最も濃い場所には、この獣たちがうろついているという。</i>
+Ingredient_Gadget_Assembly.name = 怪しげな組立品
+Ingredient_Gadget_Assembly.description = <i>これは動くのだろうか？ 単純なゴブリン製なので自分でも作れそうだが、何のためのものなのかはさっぱりわからない。</i>
+Ingredient_Gobliterator_Core.name = ゴブリテレーターのコア
+Ingredient_Gobliterator_Core.description = <i>機械そのものは重すぎて持ち帰れないが、この謎めいた機械のコアは立派な戦利品になる。</i>
+Ingredient_Rune_Shard.name = ルーンストーンの欠片
+Ingredient_Rune_Shard.description = <item is="GoblinLab_Tinkering_Bench"/> でルーンストーンをクラフトするのに使います。\n\
+\n\
+<i>これらの欠片の中には、遠い昔に絶えたルーンバインダーの時代にまで遡るものもあるかもしれない。だが大半は、強大な者が所持するうちに、強力な魔法がありふれた石に刻み込まれて生まれたものだ。</i>
+Ingredient_Powder_Boom.description = <i>慎重さに欠けるゴブリンたちが重宝する騒乱の重要な源。この小さな袋には、見た目からは想像もつかない爆発力が秘められている。作るには細心の注意が必要で、ゴブリン屈指の発明家でさえ、ブームシュルームの実験に失敗したときの傷跡を残している。</i>
+Ingredient_Fishbone.name = 魚の骨
+Lore_Note_Died_Improperly.name = まともに死ななかった者たち
+Lore_Note_Died_Improperly.description = このぼろぼろのゴブリンの文書の断片は、最近のもののようです。\n\
+\n\
+<i>まともに死ななかった者たち\n\
+\n\
+うぬぼれ屋に気をつけろ。あいつは俺たちを自分みたいにねじ曲げようとする。\n\
+ちびに気をつけろ。あいつの機械に比べたら、俺たちのはお粗末だ。\n\
+力持ちに気をつけろ。あいつは物が壊れると笑う。\n\
+覆われた者に気をつけろ-</i>
+Lore_Note_Enkindled_Journal_Vermin.name = 古いエンキンドルドの日誌: 害獣
+Lore_Note_Enkindled_Journal_Vermin.description = <i>下から聞こえる。毎日。毎日。\n\
+\n\
+ガチャガチャという音が止まらない。\n\
+\n\
+あれは何なんだ？ ネズミか？ もっと大きいに違いない。\n\
+\n\
+クモでなければいいが。\n\
+\n\
+守護者たちが下へ向かうはずだったが、昨日クルーシブルから使者が来てから混乱している。評議員とスカラクがどうとか - よく聞き取れなかった。\n\
+\n\
+とにかく、早くなんとかしてくれるといいのだが。</i>
+Lore_Note_Enkindled_Journal_Rite.name = 古いエンキンドルドの日誌: 儀式
+Lore_Note_Enkindled_Journal_Rite.description = <i>私も一緒に行くべきだったのかもしれない。戦争以来、道は安全ではなくなった。\n\
+\n\
+だが、誰かが残って見張りを続けなければならないし、残っている者はあまりに少ない。皆がアウトランダーに対する防衛線を守りに出払っている今、トロークがいつ大胆にも攻めてくるかわかったものではない。\n\
+\n\
+ああ、彼女のエンキンドリングの儀式に立ち会いたかった。</i>
+Lore_Note_Enkindled_Research_Gateways.name = 破れたエンキンドルドの研究記録: 奇妙な門
+Lore_Note_Enkindled_Research_Gateways.description = 古い研究日誌と思われるものから、短い抜粋がいくつか残っているだけです。\n\
+\n\
+<i>...見たことのない記号が刻まれた古い遺跡...\n\
+\n\
+...何らかの巨大な門。記録保管庫には何の記述もないが、我々の調査によれば、触媒があれば使用者を空間的に転移させられるかもしれない。</i>\n\
+\n\
+下部には、ゴブリンの筆跡で追記が走り書きされています:\n\
+\n\
+<i>見つけた！ 荒くれ者たちがディープワークスに持ち帰る。</i>
+Lore_Note_Enkindled_Letter_Workshops.name = エンキンドルドの手紙: 戦争の工房
+Lore_Note_Enkindled_Letter_Workshops.description = この焦げた手紙は、小さな切れ端しか残っていません。\n\
+\n\
+<i>...そもそもそれを作るべきではないと彼らは言った。魔法に専念すべきだと。技術ではなく。魔法は純粋だ。魔法に機構を加えれば、魔法は汚れる。かつて賢い老賢者がそう言った。\n\
+\n\
+その単純な言葉に、我々は長いあいだ悩まされてきた。\n\
+\n\
+それなのに今度は、戦争のためにそれを作るべきだと言う。私は...</i>
+Lore_Note_Enkindled_Ledger_Trade.name = エンキンドルドの交易台帳
+Lore_Note_Enkindled_Ledger_Trade.description = この台帳の余白に、短いメモが走り書きされています。\n\
+\n\
+<i>よく聞け。二度とクウィーベックに伐った木材を差し出すな。私は何年もかけて彼らの信頼を得たのだ。薪の山ごときでそれを台無しにされるのを、黙って見ているつもりはない。</i>
+Lore_Note_Goblin_Commission_Abandoned_Parts.name = ゴブリンの依頼書: 放棄された部品
+Lore_Note_Goblin_Commission_Abandoned_Parts.description = <i>ディープワークスにある。大きな橋の向こう。\n\
+\n\
+重い。でかい。\n\
+\n\
+全部じゃない - コアだけ。\n\
+\n\
+必要なら壊していい。\n\
+\n\
+スクラップから作り直すほうが簡単かも。</i>
+Lore_Note_Goblin_Musings_Too_Heavy.name = ゴブリンの思索: 重すぎる
+Lore_Note_Goblin_Musings_Too_Heavy.description = <i>重すぎて動かせない。\n\
+\n\
+うーん。金属を減らす？\n\
+\n\
+ノコギリもいらない。\n\
+\n\
+まだ通れないけど、危険があるかも。\n\
+\n\
+門は大きくできない。少なくとも今はまだ。\n\
+\n\
+置いていくしかない。それでも行って大丈夫かもしれない。</i>
+Lore_Note_Goblin_Musings_Translocation.name = ゴブリンの思索: 魔法による転移
+Lore_Note_Goblin_Musings_Translocation.description = <i>1回目の実験は失敗。被験体の痕跡なし。新しい被験体が必要。\n\
+\n\
+2回目の実験は失敗。門が閉じたとき、被験体は脚を置いてきた。新しい被験体が必要。\n\
+\n\
+3回目の実験、一部成功。被験体は完全に転移したが、高すぎた。新しい被験体が必要。\n\
+\n\
+4回目の実験、一部成功。被験体の声が硬い壁の中から聞こえるようだ。新しい被験体がたぶん必要。\n\
+\n\
+5回目の実験、成功！ 被験体は五体満足で戻った。さらなる実験が必要。</i>
+Lore_Note_Goblin_Poem.name = ゴブリンの詩
+Lore_Note_Goblin_Poem.description = このぼろぼろの羊皮紙は数百年前のもののようですが、走り書きされた文章は最近のものです。アバターの洞察で翻訳しても、言葉の意味はまったく明らかになりません。もしかすると芸術のつもりだったのかもしれません。\n\
+\n\
+<i>我らの目標\n\
+\n\
+エンキンドルドは去った\n\
+炎に包まれて、\n\
+忘れられた残り火。\n\
+\n\
+我らのでっかい、でっかい使命-\n\
+\n\
+あれに、なれる？\n\
+ただ - どうやって</i>
+Lore_Note_Goblin_Feastmaster_Menu.name = フィーストマスターの本日のメニュー
+Lore_Note_Goblin_Feastmaster_Menu.description = <i>一品目: 鉄くずのスープ\n\
+\n\
+<s>二品目: 牛肉のロースト ジャガイモ添え</s>\n\
+\n\
+二品目: 木と奇妙な葉っぱを載せた、赤く塗られた丸い円盤(新レシピ: トロークのおすすめ!!)\n\
+\n\
+三品目: よく熟成させた靴下のパイ焼き</i>
+Lore_Note_Goblin_Why_Purple.name = なぜ紫？
+Lore_Note_Goblin_Why_Purple.description = <i>なぜ空は紫なの？\n\
+\n\
+昔は赤か青だったと言い伝えにある。\n\
+\n\
+植物も紫になり始めている。草も草らしく見えなくなる。\n\
+\n\
+紫は嫌い。紫は何かおかしい。少なくとも炎なら黒くしてくれる。\n\
+\n\
+黒のほうがずっといい。</i>
+Ingredient_Scraps.name = スクラップ
+Ingredient_Scraps.description = <i>ありふれた素材のくず。ゴブリンはほかの何よりもこれを重んじる。</i>
+Plant_Leaves_Sadwillow.name = サッドウィローの葉
+Plant_Sapling_Sadwillow.name = サッドウィローの苗木
+Plant_Sapling_Sadwillow.description = [TMP] 成長すると<color is="#ffffff">サッドウィローの木</color>になります。\n• <color is="#ffffff">ライトウッド</color>が採れます
+Plant_Seeds_Sadwillow.name = サッドウィローの種袋
+Plant_Vine_Sadwillow_Hanging.name = サッドウィローの垂れ枝
+Plant_Liana_Void.name = ヴォイドのリアナ
+PortalKey.usage = この断片を訪れるには <item is="Portal_Device"/> にセットしてください。
+PortalKey_Goblin_Breach.name = 断片: オービス - 灯火揺らぐ洞穴
+PortalKey_Goblin_Breach.description = <msg key="server.items.PortalKey.usage"/>\n\n<i>失われたエンキンドルドの集落の廃墟で、混沌がうごめいている。</i>
+PortalKey_The_Deepworks.name = 断片: オービス - ディープワークス
+PortalKey_The_Deepworks.description = <msg key="server.items.PortalKey.usage"/>\n\n<i>ディープワークスは長きにわたり、ゴブリン屈指の頭脳たちの拠点となってきた。彼らの発明は、どのゴブリンの記憶よりも長いあいだ、広間を騒音で満たしてきたのだ。混沌と破局は常にすぐそばにある。</i>
+Goblin_Breach_Portal.name = ゴブリンの侵食
+Dungeon_Portal_Early_Exit.name = 脱出ポータル
+Dungeon_Portal_Early_Exit.description = 報酬を受け取らずにダンジョンから出ます。
+Dungeon_Portal_End.name = ダンジョンクリアのポータル
+Dungeon_Portal_End.description = 報酬を受け取ってダンジョンから出ます。
+Rock_Anomaly_Shard_Void.name = ヴォイドの異常クリスタル
+Rock_Crystal_Void_Block.name = [TMP]ヴォイドクリスタル
+Rock_Crystal_Void_Large.name = [TMP]ヴォイドクリスタル - 大
+Rock_Crystal_Void_Medium.name = [TMP]ヴォイドクリスタル - 中
+Rock_Crystal_Void_Small.name = [TMP]ヴォイドクリスタル - 小
+Rock_Kenolite.name = ケノライトの岩
+Rock_Kenolite_Stalactite_Large.name = ケノライトの鍾乳石 - 大
+Scrap_Hook.name = フックアンカー
+Scrap_Hook.description = <item is="Tool_Hookshot"/> を引っかけて移動に使えます。
+Throwable_Explosive_Barrel.name = ゴブリンのドカン樽
+Template_Lore_Note.name = テンプレートの伝承メモ
+Template_Lore_Note_Pages_A.name = テンプレートの伝承メモ - ページA
+Template_Lore_Note_Pages_B.name = テンプレートの伝承メモ - ページB
+Template_Lore_Note_Goblin_Pages.name = テンプレートの伝承メモ - ゴブリンのページ
+Template_Lore_Note_Goblin_Journal_Open.name = テンプレートの伝承メモ - 開いたゴブリンの日誌
+Tool_Drill_Scrap.name = スクラップのドリル
+Tool_Drill_Scrap.description = トンネルを掘ったり、金属ブロックを解体したりでき、解体したブロックはそのまま回収できます。通常の道具より近づいて使う必要があります。\n\
+\n\
+設計図の片隅にメモが走り書きされています:\n\
+\n\
+<i>回転が激しすぎて混ぜるのに向かない。器にスープが残らない。不採用。</i>
+Tool_Hookshot.name = フックショット
+Tool_Hookshot.description = 対象のブロックへ自分を引き寄せたり、対象を自分のほうへ引き寄せたりできます。\n\
+\n\
+設計図の片隅にメモが走り書きされています:\n\
+\n\
+<i>ロープが細すぎる。隙間を渡るときに歩きにくい。不採用。</i>
+Tool_Pickaxe_Scrap.description = <i>ゴブリン公たちが地下世界を完全に支配できずにいる唯一の理由は、この道具が何なのかをいまだに理解していないことだ。</i>
+Tool_Repair_Kit_Goblin.name = ゴブリンの修理キット
+Tool_Repair_Kit_Goblin.description = 道具、武器、防具の修理に使います。修理したアイテムの最大耐久値は減りません。
+Tool_Spyglass.name = 望遠鏡
+Tool_Spyglass.description = 潜んでいるヴォイドテイクンの獣の位置を特定するのに使えます。\n\
+\n\
+設計図の片隅にメモが走り書きされています:\n\
+\n\
+<i>物が大きく見えすぎる。不採用。</i>
+UpgradeBackpack_4.name = バックパック強化 III
+UpgradeBackpack_4.description = バックパックの容量をさらに増やします。\n\nバックパック強化の各レベルは1回しか使用できません。
+Weapon_Bangstick.name = ドカン棒
+Weapon_Bangstick.description = 頑丈な金属ブロックも吹き飛ばせる、非常に不安定な爆発物。ゴブリン最大の発明だと言う者もいれば、最悪の発明だと言う者もいます。
+Weapon_Club_Scrap_Washboard.name = スクラップの洗濯板棍棒
+Weapon_Daggers_Void_Crystal.name = ヴォイドクリスタルの短剣
+Weapon_Flamethrower_Scrap.name = スクラップの火炎放射器
+Weapon_Longsword_Ruined_Giant.name = 朽ちた巨大な長剣
+Weapon_Longsword_Ruined_Giant_NPC.name = 甦りし守護者の朽ちた剣
+Weapon_Longsword_Ruined_Giant_Dual_NPC.name = 甦りし守護者の朽ちた双剣
+Weapon_Longsword_Praetorian_Dual_NPC.name = スケルトン近衛兵の双剣
+Weapon_Shield_Ruined_Giant.name = 朽ちた巨大な盾
+Weapon_Staff_Scrap_Lightbulb.name = スクラップの電球の杖
+Weapon_Staff_Voidcrystal.name = ヴォイドクリスタルの杖
+Wood_Sadwillow_Trunk_Half.name = サッドウィローの原木 - ハーフスラブ
+Wood_Sadwillow_Trunk_Stairs.name = サッドウィローの原木 - 階段
+Wood_Sadwillow_Branch_Corner.name = サッドウィローの枝 - 角
+Wood_Sadwillow_Branch_Long.name = サッドウィローの枝 - 長
+Wood_Sadwillow_Branch_Short.name = サッドウィローの枝 - 短
+Wood_Sadwillow_Roots.name = サッドウィローの根
+Wood_Sadwillow_Trunk.name = サッドウィローの原木
+Wood_Sadwillow_Trunk.description = 建築者の作業台でライトウッドに加工できます
+Wood_Sadwillow_Trunk_Full.name = サッドウィローの木の幹
+Recipe_Goblin_Painting_Replica.description = [TMP] <i>原画は大きすぎて持ち帰れなかった。誰か複製を作れる人が見つかるといいけど...</i>
+Recipe_Goblin_Painting_Orbis_Replica.description = [TMP] <item is="Goblin_Painting_Orbis_Replica"/> のレシピを覚えます。\n\n<msg key="server.items.Recipe_Goblin_Painting_Replica.description"/>
+Recipe_Goblin_Painting_Fail_Replica.description = [TMP] <item is="Goblin_Painting_Fail_Replica"/> のレシピを覚えます。\n\n<msg key="server.items.Recipe_Goblin_Painting_Replica.description"/>
+Recipe_Goblin_Painting_Portal_Replica.description = [TMP] <item is="Goblin_Painting_Portal_Replica"/> のレシピを覚えます。\n\n<msg key="server.items.Recipe_Goblin_Painting_Replica.description"/>
+Recipe_Goblin_Painting_ForgottenTemple_Replica.description = [TMP] <item is="Goblin_Painting_ForgottenTemple_Replica"/> のレシピを覚えます。\n\n<msg key="server.items.Recipe_Goblin_Painting_Replica.description"/>
+Recipe_Goblin_Painting_Repair_Replica.description = [TMP] <item is="Goblin_Painting_Repair_Replica"/> のレシピを覚えます。\n\n<msg key="server.items.Recipe_Goblin_Painting_Replica.description"/>
+Recipe_Goblin_Painting_Breach_Replica.description = [TMP] <item is="Goblin_Painting_Breach_Replica"/> のレシピを覚えます。\n\n<msg key="server.items.Recipe_Goblin_Painting_Replica.description"/>
+Metal_Orbis_Iron.name = エンキンドルドの鉄
+Metal_Orbis_Iron_Decorative.name = エンキンドルドの鉄 - 装飾
+Metal_Orbis_Iron_Ornate.name = エンキンドルドの鉄 - 華飾
+Metal_Orbis_Iron_Half.name = エンキンドルドの鉄 - ハーフスラブ
+Metal_Orbis_Iron_Pipe_Chimney.name = エンキンドルドの鉄の管 - 煙突
+Metal_Orbis_Iron_Pipe_Corner.name = エンキンドルドの鉄の管 - 角
+Metal_Orbis_Iron_Pipe_Large.name = エンキンドルドの鉄の管 - 大
+Metal_Orbis_Iron_Pipe_Large_Corner.name = エンキンドルドの鉄の管 - 大きな角
+Metal_Orbis_Iron_Pipe_Large_Mouthpiece.name = エンキンドルドの鉄の管 - 大きな注ぎ口
+Metal_Orbis_Iron_Pipe_Long.name = エンキンドルドの鉄の管 - 長
+Metal_Orbis_Iron_Pipe_Short.name = エンキンドルドの鉄の管 - 短
+Metal_Orbis_Iron_Roof.name = エンキンドルドの鉄の屋根 - 傾斜
+Metal_Orbis_Iron_Roof_Flat.name = エンキンドルドの鉄の屋根 - 平ら
+Metal_Orbis_Iron_Roof_Shallow.name = エンキンドルドの鉄の屋根 - 緩やか
+Metal_Orbis_Iron_Roof_Steep.name = エンキンドルドの鉄の屋根 - 急
+Metal_Orbis_Iron_Stairs.name = エンキンドルドの鉄 - 階段
+Metal_Orbis_Iron_Smooth.name = エンキンドルドの鉄 - 滑らか
+Metal_Orbis_Iron_Smooth_Half.name = エンキンドルドの鉄 - 滑らかなハーフスラブ
+Metal_Orbis_Copper.name = エンキンドルドの銅
+Metal_Orbis_Copper_Decorative.name = エンキンドルドの銅 - 装飾
+Metal_Orbis_Copper_Ornate.name = エンキンドルドの銅 - 華飾
+Metal_Orbis_Copper_Fence.name = エンキンドルドの銅 - 格子
+Metal_Orbis_Copper_Half.name = エンキンドルドの銅 - ハーフスラブ
+Metal_Orbis_Copper_Pipe_Chimney.name = エンキンドルドの銅の管 - 煙突
+Metal_Orbis_Copper_Pipe_Corner.name = エンキンドルドの銅の管 - 角
+Metal_Orbis_Copper_Pipe_Large.name = エンキンドルドの銅の管 - 大
+Metal_Orbis_Copper_Pipe_Large_Corner.name = エンキンドルドの銅の管 - 大きな角
+Metal_Orbis_Copper_Pipe_Large_Mouthpiece.name = エンキンドルドの銅の管 - 大きな注ぎ口
+Metal_Orbis_Copper_Pipe_Long.name = エンキンドルドの銅の管 - 長
+Metal_Orbis_Copper_Pipe_Short.name = エンキンドルドの銅の管 - 短
+Metal_Orbis_Copper_Roof.name = エンキンドルドの銅の屋根 - 傾斜
+Metal_Orbis_Copper_Roof_Flat.name = エンキンドルドの銅の屋根 - 平ら
+Metal_Orbis_Copper_Roof_Shallow.name = エンキンドルドの銅の屋根 - 緩やか
+Metal_Orbis_Copper_Roof_Steep.name = エンキンドルドの銅の屋根 - 急
+Metal_Orbis_Copper_Stairs.name = エンキンドルドの銅 - 階段
+Metal_Orbis_Copper_Smooth.name = エンキンドルドの銅 - 滑らか
+Metal_Orbis_Copper_Smooth_Half.name = エンキンドルドの銅 - 滑らかなハーフスラブ
+Metal_Goblin_Iron.name = ゴブリンの鉄
+Metal_Goblin_Iron_Decorative.name = ゴブリンの鉄 - 装飾
+Metal_Goblin_Iron_Ornate.name = ゴブリンの鉄 - 華飾
+Metal_Goblin_Iron_Half.name = ゴブリンの鉄 - ハーフスラブ
+Metal_Goblin_Iron_Pipe_Chimney.name = ゴブリンの鉄の管 - 煙突
+Metal_Goblin_Iron_Pipe_Corner.name = ゴブリンの鉄の管 - 角
+Metal_Goblin_Iron_Pipe_Large.name = ゴブリンの鉄の管 - 大
+Metal_Goblin_Iron_Pipe_Large_Corner.name = ゴブリンの鉄の管 - 大きな角
+Metal_Goblin_Iron_Pipe_Large_Mouthpiece.name = ゴブリンの鉄の管 - 大きな注ぎ口
+Metal_Goblin_Iron_Pipe_Glowy.name = 光るゴブリンの鉄の管
+Metal_Goblin_Iron_Pipe_Large_Glowy.name = 光るゴブリンの鉄の管 - 大
+Metal_Goblin_Iron_Pipe_Large_Glowy_Corner.name = 光るゴブリンの鉄の管 - 大きな角
+Metal_Goblin_Iron_Pipe_Large_Glowy_Mouthpiece.name = 光るゴブリンの鉄の管 - 大きな注ぎ口
+Metal_Goblin_Iron_Pipe_Long.name = ゴブリンの鉄の管 - 長
+Metal_Goblin_Iron_Pipe_Short.name = ゴブリンの鉄の管 - 短
+Metal_Goblin_Iron_Roof.name = ゴブリンの鉄の屋根 - 傾斜
+Metal_Goblin_Iron_Roof_Flat.name = ゴブリンの鉄の屋根 - 平ら
+Metal_Goblin_Iron_Roof_Shallow.name = ゴブリンの鉄の屋根 - 緩やか
+Metal_Goblin_Iron_Roof_Steep.name = ゴブリンの鉄の屋根 - 急
+Metal_Goblin_Iron_Stairs.name = ゴブリンの鉄 - 階段
+Metal_Goblin_Iron_Smooth.name = ゴブリンの鉄 - 滑らか
+Metal_Goblin_Iron_Smooth_Half.name = ゴブリンの鉄 - 滑らかなハーフスラブ
+Metal_Goblin_Iron_Fence.name = ゴブリンの鉄 - 柵
+Metal_Goblin_Iron_Bars.name = ゴブリンの鉄格子
+Metal_Goblin_Iron_Bars_Corner.name = ゴブリンの鉄格子 - 角
+Metal_Goblin_Iron_Bars_Platforms.name = ゴブリンの鉄格子 - 水平
+Metal_Goblin_Iron_Chain_Small.name = ゴブリンの鉄の鎖 - 小
+Metal_Goblin_Iron_Chains.name = ゴブリンの鉄の鎖 - 傾斜
+Metal_Goblin_Iron_Chains_Vertical.name = ゴブリンの鉄の鎖
+Metal_Goblin_Iron_Stack.name = ゴブリンの鉄インゴットの山
+Coffer_Key.name = ヴェールバウンドの鍵
+Coffer_Key.description = <i>この謎めいた鍵は、異様なエネルギーで脈打っている。脈打つたびに、まるで開けるべく作られた錠前付きの宝箱に引き寄せられるかのように動く。</i>\n\
+\n\
+<color is="#be1717">ヴェールバウンドのアイテムは、断片を離れると失われます。</color>
+Hunt_Trap.name = [TMP] ヴォイドの心臓のトラバサミ
+Hunt_Footprint.name = 捕食者の足跡
+Hunt_Clawmark.name = 爪痕

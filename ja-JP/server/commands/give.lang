@@ -8,3 +8,4 @@ durability.desc = アイテムの耐久値
 invalidMetadata = メタデータの形式が無効です: {error}
 desc = プレイヤーにアイテムを渡す
 other.desc = 他のプレイヤーにアイテムを渡す
+quality.desc = アイテムのデフォルトの品質の代わりに使用する品質

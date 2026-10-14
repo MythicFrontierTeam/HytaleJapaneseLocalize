@@ -42,3 +42,4 @@ Objective_KillSpawnMarker.title = スポーンマーカー討伐目標
 Objective_KillSpawnMarker.taskSet.0.task.0 = 近くのトロークたちを倒す。
 Objective_ReachLocation.title = 地点到達目標
 Objective_ReachLocation.taskSet.0.task.0 = 目標地点に到達する。
+Objective_Bounty.taskSet.1.task.0 = NPC Test_Complete_Interaction_Bounty と交流する。

@@ -52,3 +52,6 @@ success.submitMore = 続けて送信
 redirect.support = アカウントや支払いに関する問題は support.hytale.com をご覧ください。
 redirect.button = サポートを開く
 bugReportButton.tooltip = バグ報告・フィードバック
+category.minigames = ミニゲーム
+success.copyId = レポートIDをコピー
+success.copiedId = コピーしました！

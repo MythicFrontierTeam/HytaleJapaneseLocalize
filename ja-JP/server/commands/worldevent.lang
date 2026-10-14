@@ -35,3 +35,7 @@ list.entry =   {asset} [{uuid}]
 panel.desc = ワールドイベントの管理パネルを開く
 reset.desc = すべてのワールドイベントを中止し、ゲームプレイとグローバルイベントの状態をリセットする
 reset.complete = ワールドイベントのリセットが完了しました
+enable.desc = 現在のワールドでワールドイベントを有効または無効にする。
+enable.enableArg.desc = trueでワールドイベントを有効、falseで無効にします。省略すると切り替えます。
+enable.info = "{worldName}" のワールドイベントを{enabled, select, true {有効} other {無効}}にしました。
+enable.alreadySet = "{worldName}" のワールドイベントはすでに{enabled, select, true {有効} other {無効}}です。

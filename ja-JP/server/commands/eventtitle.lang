@@ -4,3 +4,5 @@ secondary.desc = サブタイトルのテキスト
 secondary.defaultDesc = イベント
 title.desc = メインタイトルのテキスト
 titleRequired = タイトルを指定する必要があります
+style.desc = イベントタイトルのスタイル
+style.defaultDesc = デフォルトのスタイル

@@ -1,0 +1,5 @@
+desc = アビリティベンチを開く
+give.desc = デバッグ用のアビリティとサポートルーンをすべて1つずつ渡す
+give.done = デバッグ用アビリティの{count, plural, one {アイテム} other {アイテム}}を{count, number}個受け取りました。
+resetintro.desc = アビリティベンチの導入演出をリセットして、再度再生されるようにする。
+resetintro.done = アビリティベンチの導入演出が再度再生されます。

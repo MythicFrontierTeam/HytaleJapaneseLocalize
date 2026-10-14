@@ -5,3 +5,4 @@ start.overrode = ワールドをポータルワールドとして扱うよう上
 start.botchedConfig = ゲームプレイ設定 {config} にポータル情報がないため、上書きに失敗しました
 start.success = ヴォイドイベントが開始されたかもしれません！
 start.overrideArg = 現在のワールドを上書きして、ポータルワールドとして扱う
+start.disabled = この断片にはヴォイドイベントがありません。VoidInvasionEnabled と制限時間が必要です。

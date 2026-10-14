@@ -53,3 +53,25 @@ device.adjusted = The portal device was invalid and has been adjusted!
 attuningToWorld = The portal is still attuning to your new presence in this world...
 portalWorld.unnamed = Unnamed
 exit.marker = Fragment Exit
+goblinBreach = The Guttering Hollows
+theDeepworks = The Deepworks
+goblinBreach.closing.title = The Veil of Void has closed once more
+goblinBreach.closing.subtitle = Your presence is no longer permitted
+voidSurge.title = The Veil draws in and the Void stirs.
+goblinBreach.description = Chaos stirs in the ruins of a lost Enkindled settlement.\n\
+\n\
+The old caverns resound with the clamor of Goblins who hold court in their murky depths, mistaking a graveyard for a kingdom, and every scrap of ruin for an artifact worth hoarding.\n\
+\n\
+Orbis hides many secrets and treasures, but the Veil of Void that seals it is quick to recover and on closing will eject those who do not belong.
+theDeepworks.description = The Deepworks has long played host to the greatest of Goblin minds, and their inventions have filled the halls with cacophony for longer than any Goblin can remember. Chaos and catastrophe are never far away.\n\
+\n\
+Yet today's mayhem comes from another source - the latest of these great minds has recently vanished, leaving the scrappers to run amok in her absence. With her inventions running wild in the hands of the clueless, it's only a matter of time before the ruins collapse.\n\
+\n\
+And when machine and Goblin alike fall silent, other murmurs might begin to emerge.
+dungeon.earlyExit.title = Are you sure you want to leave?
+dungeon.earlyExit.message = [TMP] Your progress will be lost once you stop the server.
+dungeon.complete.title = Thank you for playing!
+dungeon.complete.subtitle = Your efforts have been rewarded.
+dungeon.leave = Exit Dungeon
+dungeon.stay = Stay
+timeLimitReached = The Veil of Void has closed once more. You have been returned to your Echo.

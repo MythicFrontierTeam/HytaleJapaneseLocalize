@@ -1,0 +1,5 @@
+desc = Open your ability bench
+give.desc = Give one of every debug ability and support rune
+give.done = Received {count, number} debug ability {count, plural, one {item} other {items}}.
+resetintro.desc = Clear the ability bench intro so it plays again.
+resetintro.done = The ability bench intro will play again.

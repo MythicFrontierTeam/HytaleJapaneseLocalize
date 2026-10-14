@@ -9,3 +9,4 @@ set.position.desc = The position to set the spawn point to (defaults to your cur
 set.rotation.desc = The rotation to set the spawn point to (defaults to your current rotation or forward)
 set.rotation.default.desc = Forward
 set.default.desc = Set the spawn point of the world to the default/original spawn from when world was created
+indexUnresolved = Spawn point {index} has no height yet. Use the command without an index.

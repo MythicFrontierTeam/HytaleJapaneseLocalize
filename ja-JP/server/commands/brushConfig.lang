@@ -1,4 +1,4 @@
-cannotUseCommandDuringExec = 設定の実行中はこのコマンドを使用できません。'/sb exit' で実行を停止してください。
+cannotUseCommandDuringExec = 設定の実行中はこのコマンドを使用できません。"/sb exit" で実行を停止してください。
 noHotbarComponent = プレイヤーエンティティに Hotbar コンポーネントがありません。
 cleared = スクリプタブルブラシをクリアしました。
 debug.notStarted = デバッグでステップ実行する前に、実行を開始する必要があります。

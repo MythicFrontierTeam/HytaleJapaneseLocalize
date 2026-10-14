@@ -1,0 +1,7 @@
+desc = 未開地のデバッグツール
+debug.desc = プレイヤーの未開地デバッグ表示を切り替える
+debug.enabled.desc = 切り替えではなく、デバッグ表示をオンまたはオフに設定する
+debug.toggled = {player} の未開地デバッグ表示を{enabled, select, true {オン} other {オフ}}にしました。ワールドマップ上とワールド内で、緑は未開地チャンク、赤は拠点チャンクを示します。
+debug.unchanged = {player} の未開地デバッグ表示はすでに{enabled, select, true {オン} other {オフ}}です。
+debug.noWorldMap = このワールドではワールドマップが無効なため、デバッグ用の立方体のみ表示されます。
+debug.trackingDisabled = このワールドでは未開地の追跡が無効です。トラッカーが位置を保持していないため、デバッグ表示は行われません。

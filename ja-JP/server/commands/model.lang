@@ -1,5 +1,5 @@
-noAuthSkin = {name} には認証によるスキンが設定されていません！'/model [player] {model}' でデフォルトのプレイヤースキンに設定できます
-noAuthSkinForPlayer = 認証によるスキンが設定されていません！'/model [player] {model}' でデフォルトのプレイヤースキンに設定できます
+noAuthSkin = {name} には認証によるスキンが設定されていません！"/model [player] {model}" でデフォルトのプレイヤースキンに設定できます
+noAuthSkinForPlayer = 認証によるスキンが設定されていません！"/model [player] {model}" でデフォルトのプレイヤースキンに設定できます
 modelReset = {name} のモデルをリセットしました！
 modelResetForPlayer = モデルをリセットしました！
 modelSet = {playerName} のモデルを {modelName} に設定しました

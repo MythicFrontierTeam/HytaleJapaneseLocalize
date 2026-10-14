@@ -1,4 +1,4 @@
-cannotUseCommandDuringExec = You cannot use this command while the config is executing. Use '/sb exit' to stop execution.
+cannotUseCommandDuringExec = You cannot use this command while the config is executing. Use "/sb exit" to stop execution.
 noHotbarComponent = Your player entity is missing the Hotbar component.
 cleared = Scripted brush cleared.
 debug.notStarted = You must begin execution before debug stepping.

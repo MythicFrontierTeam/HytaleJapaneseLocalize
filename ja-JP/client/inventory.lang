@@ -83,3 +83,7 @@ action.resizeMod = サイズ変更 x5
 action.resizeUp = サイズ +
 action.resizeDown = サイズ -
 hint.switchPanel = パネル切り替え
+abilityBench.title = ルーンバインダーの格子
+abilityBench.ability1 = アビリティ1
+abilityBench.ability2 = アビリティ2
+abilityBench.runeBag = ルーンストーン収納

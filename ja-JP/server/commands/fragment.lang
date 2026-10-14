@@ -8,3 +8,7 @@ toggletimer.resumed = {playerUsername} が断片のタイマーを再開しま�
 toggleui.desc = 断片のタイマーUIを表示/非表示にする
 toggleui.hidden = 断片のタイマーUIを非表示にしました
 toggleui.visible = 断片のタイマーUIを表示しました
+timer.add.desc = 断片のタイマーに秒数を追加する
+timer.add.arg.seconds.desc = 追加する秒数
+timer.add.unchanged = 断片のタイマーは変更されませんでした。
+timer.noTimeLimit = この断片には制限時間がありません。

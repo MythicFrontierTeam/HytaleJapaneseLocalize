@@ -1,4 +1,4 @@
-failedToFindWorld = Failed to find {lastWorldName}. World has been reset to {name}
+failedToFindWorld = Failed to find "{lastWorldName}". World has been reset to "{name}"
 addWorld.alreadyExists = World with the name "{worldName}" already exists!
 addWorld.alreadyExistsDisk = World with the name "{worldName}" already exists on disk!
 addWorld.worldCreated = Created world "{worldName}" with generator type "{generator}" and storage type "{storage}"!
@@ -13,7 +13,7 @@ copychunk.redo = Rerun the command with --confirm to confirm you really want to 
 blockStateCreationFailed = Failed to create BlockState!
 removeworld.notFound = World doesn't exist!
 removeworld.onlyOneWorldLoaded = There's only one world loaded on this server!
-removeworld.changeDefaultWorld = This is the default world! You must change the default world first with /world setdefault
+removeworld.changeDefaultWorld = This is the default world! You must change the default world first with "/world setdefault"
 removeworld.success = Removed world {worldName}
 seed.info = Seed: {seed}
 setpvp.info = PvP {enabled, select, true {enabled} other {disabled}} for {worldName}

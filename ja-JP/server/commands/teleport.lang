@@ -50,3 +50,4 @@ teleportedForwardToCoordinates = ({x, number}, {y, number}, {z, number}) に進�
 history.empty = テレポート履歴は空です。
 history.info = テレポート履歴: 前へ {backCount, number}、先へ {forwardCount, number}
 teleportedToWorld = ワールド "{worldName}" の ({x, number}, {y, number}, {z, number}) にテレポートしました。
+top.noSurface = 現在の位置にはテレポート先となる地表がありません。

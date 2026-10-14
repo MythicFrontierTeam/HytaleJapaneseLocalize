@@ -1,0 +1,7 @@
+desc = Wilderness debug tools
+debug.desc = Toggle the wilderness debug visuals for a player
+debug.enabled.desc = Turn the debug visuals on or off instead of toggling them
+debug.toggled = Wilderness debug visuals for {player} are now {enabled, select, true {on} other {off}}. Green marks wilderness chunks, red marks home chunks, on the world map and in the world.
+debug.unchanged = The wilderness debug visuals for {player} are already {enabled, select, true {on} other {off}}.
+debug.noWorldMap = The world map is disabled in this world, so only the debug cubes are shown.
+debug.trackingDisabled = Wilderness tracking is disabled in this world. The tracker holds no position, so no debug visuals are shown.

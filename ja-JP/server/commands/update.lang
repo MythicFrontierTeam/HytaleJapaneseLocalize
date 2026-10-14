@@ -10,19 +10,19 @@ patchline.arg.desc = 切り替え先のパッチライン(例: release、stage)
 patchline.set.desc = 更新のパッチラインを設定する
 patchline.current = 現在のパッチライン: {patchline}
 patchline.changed = パッチラインを次に変更しました: {patchline}
-not_authenticated = サーバーが認証されていないため、更新を確認できません。先に /auth login を実行してください。
+not_authenticated = サーバーが認証されていないため、更新を確認できません。先に "/auth login" を実行してください。
 check_failed = 更新の確認に失敗しました。詳細はサーバーログを確認してください。
 no_update = すでに最新バージョンで動作しています。
 download_failed = 更新のダウンロードに失敗しました。詳細はサーバーログを確認してください。
-download_complete = 更新をダウンロードしてステージングしました。\n'/update apply --confirm' で適用して再起動してください。
-download_in_progress = すでにダウンロードが進行中です。中止するには '/update cancel' を使用してください。
-invalid_layout_download = 更新をダウンロードできません: フォルダー構成が自動更新に対応していません。\n親ディレクトリに Assets.zip とランチャースクリプトが必要です。\nそれでもダウンロードするには '/update download --force' を使用してください。
+download_complete = 更新をダウンロードしてステージングしました。\n"/update apply --confirm" で適用して再起動してください。
+download_in_progress = すでにダウンロードが進行中です。中止するには "/update cancel" を使用してください。
+invalid_layout_download = 更新をダウンロードできません: フォルダー構成が自動更新に対応していません。\n親ディレクトリに Assets.zip とランチャースクリプトが必要です。\nそれでもダウンロードするには "/update download --force" を使用してください。
 download.force.desc = フォルダー構成が不正でも強制的にダウンロードする
 downloading = 更新 {version} をダウンロード中...
 download_progress = ダウンロードの進捗: {percent}%({downloaded} / {total})
 checking = 更新を確認中...
 already_latest = すでに最新バージョンで動作しています: {version}
-update_available = 更新が利用可能です: {latest}(現在: {current})\n'/update download' で更新をステージングしてください。
+update_available = 更新が利用可能です: {latest}(現在: {current})\n"/update download" で更新をステージングしてください。
 unknown = 不明
 status = バージョン: {version}\nパッチライン: {patchline}\nステージング: {staged}\n最新: {latest}\nダウンロード中: {downloading}
 status.none = なし
@@ -37,9 +37,9 @@ nothing_to_cancel = 進行中のダウンロードも、中止できるステー
 download_cancelled = ダウンロードを中止しました。
 cancel_failed = ステージング済みの更新を削除できませんでした。詳細はサーバーログを確認してください。
 cancelled = ステージング済みの更新 {version} を中止して削除しました。
-no_staged = 適用できるステージング済みの更新がありません。先に '/update download' を実行してください。
+no_staged = 適用できるステージング済みの更新がありません。先に "/update download" を実行してください。
 backup_failed = バックアップの作成に失敗しました。更新を中止します。詳細はサーバーログを確認してください。
-apply_confirm_required = 更新 {version} を適用してサーバーを再起動しようとしています。\n続行するには '/update apply --confirm' を実行してください。
+apply_confirm_required = 更新 {version} を適用してサーバーを再起動しようとしています。\n続行するには "/update apply --confirm" を実行してください。
 applying_no_launcher = 更新 {version} を適用中...\n警告: ランチャースクリプトが検出されませんでした。シャットダウン後に更新ファイルを手動で移動する必要があります。
 applying = 更新 {version} を適用中...\nサーバーをシャットダウンし、新しいバージョンで再起動します。
 disabled = 更新コマンドはサーバーの運営者によって無効化されています。
@@ -52,13 +52,13 @@ setup.force.desc = ディレクトリ名が想定外でも、スクリプトが�
 setup.not_jar = セットアップを実行できません: JARファイルから実行されていません(開発/IDEモード)。
 setup.invalid_directory = 警告: サーバーが 'Server/' という名前のディレクトリから実行されていません。\n\
     ラッパースクリプトは、サーバーJARが 'Server/' サブディレクトリにあることを前提としています。\n\
-    それでもスクリプトを書き出すには '/update setup --force' を使用してください。
+    それでもスクリプトを書き出すには "/update setup --force" を使用してください。
 setup.already_exist = ラッパースクリプトはすでに親ディレクトリに存在します。\n\
-    上書きするには '/update setup --force' を使用してください。
+    上書きするには "/update setup --force" を使用してください。
 setup.complete = ランチャースクリプト(start.sh、start.bat)を親ディレクトリに書き出しました。\n\
     サーバーを停止し、今後は start.sh または start.bat で起動してください。
 setup.failed = ラッパースクリプトの展開に失敗しました。詳細はサーバーログを確認してください。
 setup.no_assets = 警告: 親ディレクトリに Assets.zip が見つかりません。\n\
     ランチャースクリプトは start.sh/start.bat と同じ場所に Assets.zip があることを前提としています。\n\
-    Assets.zip をそこにコピーするか、'/update download --force' で完全なパッケージをダウンロードしてください。
+    Assets.zip をそこにコピーするか、"/update download --force" で完全なパッケージをダウンロードしてください。
 bootstrap_complete = ブートストラップのインストールが完了しました。現在のディレクトリから start.sh または start.bat でサーバーを起動してください。

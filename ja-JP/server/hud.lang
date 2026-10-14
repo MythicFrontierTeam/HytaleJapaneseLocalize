@@ -2,3 +2,4 @@ spectating.title = 観戦中
 inputBinding.spectateFreeCamera = フリーカメラ
 inputBinding.spectateNextPlayer = 次のプレイヤー
 inputBinding.spectatePreviousPlayer = 前のプレイヤー
+inputBinding.reload = リロード

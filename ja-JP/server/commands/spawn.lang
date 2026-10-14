@@ -9,3 +9,4 @@ set.position.desc = スポーン地点に設定する位置(既定では現在�
 set.rotation.desc = スポーン地点に設定する向き(既定では現在の向き、または正面)
 set.rotation.default.desc = 正面
 set.default.desc = ワールドのスポーン地点を、作成時の既定の位置に戻す
+indexUnresolved = スポーン地点 {index} の高さはまだ決まっていません。番号を指定せずにコマンドを使用してください。

@@ -77,3 +77,6 @@ storagestats.rates.header = \t{op} のレート:
 storagestats.rates.row = \t\t{period}: {summary}
 storagestats.group.header = \t{label}:
 storagestats.group.row = \t\t{key}: {value}
+height.desc = デバッグ用にチャンクのハイトマップ(HeightmapColumn)を出力する
+height.position.desc = チャンクの位置(x, z)
+fixHeightMap.unsupported = このチャンクはキュービックハイトマップを使用しているため、再構築できません: 再スキャンには列全体を一度に読み込む必要があります。

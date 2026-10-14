@@ -2,3 +2,4 @@ forgotten_temple.title = Forgotten Temple
 forgotten_temple.subtitle = Edge of the Echo
 creative_hub.title = Crossroads
 creative_hub.subtitle = Cosmos of Creativity
+creative_hub.returnHint = Use the button in the map to return to the Crossroads or use the "/crossroads" command

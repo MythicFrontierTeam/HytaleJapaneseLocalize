@@ -1,8 +1,16 @@
 Default.name = ノーマル
-Makeup.name = メイク
 Mouth_Thin.name = 薄い口
 Mouth_Tiny.name = 小さな口
 Mouth_Long.name = 大きな口
 Mouth_Vampire.name = 吸血鬼の口
 Mouth_Cute.name = キュートな口
 Mouth_Orc.name = オークの口
+PronouncedLips.name = ぷっくり唇
+PronouncedLips_Thin.name = 薄めのぷっくり唇
+Mouth_Smirk.name = にやり
+Mouth_SoftSmile.name = やわらかな笑み
+Mouth_TinySmile.name = 小さな笑み
+Mouth_Lipgloss.name = リップグロス
+Mouth_Lipstick.name = 口紅
+Mouth_Fangs.name = 牙
+Mouth_Goblin.name = ゴブリンの歯

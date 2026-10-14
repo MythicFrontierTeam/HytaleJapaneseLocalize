@@ -1,5 +1,5 @@
 desc = Set the model animation speed for the block that you target
-speed.desc = The animation speed from 0 up to but not including 100
+speed.desc = The animation speed from 0 to 99
 phase.desc = The optional animation phase in frames
 success = Set the block animation speed to {speed, number} at {position}
 failed = The block animation speed could not be set

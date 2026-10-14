@@ -83,3 +83,7 @@ action.resizeMod = Resize x5
 action.resizeUp = Resize +
 action.resizeDown = Resize -
 hint.switchPanel = Switch Panel
+abilityBench.title = Runebinder's Lattice
+abilityBench.ability1 = Ability 1
+abilityBench.ability2 = Ability 2
+abilityBench.runeBag = Runestone Storage
