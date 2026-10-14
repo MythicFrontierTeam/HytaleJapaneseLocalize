@@ -1,0 +1,17 @@
+button.tooltip = View news
+popup.title = News
+chapterOne.title = Hytale Chapter I: Out of the Breach
+chapterOne.subtitle = Check out the highlights below!
+chapterOne.minigames.title = Minigames
+chapterOne.minigames.description = Minigames are now available! Party up with your friends and try them out - or go solo and try your luck!
+chapterOne.forgottenTemple.title = Uninvited Guests
+chapterOne.forgottenTemple.description = Chaos has descended upon the Forgotten Temple. Perhaps it's time to pay it a visit.
+chapterOne.deepworks.title = [TMP] The Deepworks
+chapterOne.deepworks.description = [TMP] Brave The Deepworks and challenge Hytale's first boss.
+chapterOne.chapters.title = Chapter Menu
+chapterOne.chapters.description = Open the new chapter menu for hints on how to proceed and a sneak peek of the rewards waiting for you!
+chapterOne.abilities.title = Runic Abilities Unlocked
+chapterOne.abilities.description = Outfit yourself with a selection of runes to add a new dimension to your combat style!
+translation.title = [TMP] Hytale Translation
+translation.description = [TMP] You can help translate Hytale into your language by participating in our Crowdin project.
+translation.helpTranslate = [TMP] Help Translate

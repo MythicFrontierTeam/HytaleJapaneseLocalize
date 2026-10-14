@@ -1,6 +1,6 @@
 invalidBlockState = Cannot perform {interaction} interaction on unsupported BlockState type {blockState}
-teleporter.failedCollectMore = Placement limit reached, collect more Memories to increase the limit!
-teleporter.failed = Placement limit reached
+teleporter.failedCollectMore = Placement limit reached. Collect more Memories to increase the limit!
+teleporter.failed = Placement limit reached.
 didNotMount = Unknown mount error: {state}
 sleep.disabled = Sleeping is disabled in this world.
 sleep.gameTimePaused = Sleeping is disabled because game time is paused in this world!

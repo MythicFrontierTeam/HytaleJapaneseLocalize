@@ -8,3 +8,4 @@ customUI.barterPage.inStock = Stock: {count}
 customUI.barterPage.quantityStock = Have: {count}
 customUI.barterPage.invalidItem = Invalid Item
 customUI.barterPage.cost = Cost:
+dungeon_klops_scrap_trader.title = Scrap Trader

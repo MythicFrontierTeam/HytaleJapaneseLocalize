@@ -387,7 +387,7 @@ Deco_Hive.name = Hive
 Deco_Inkwell.name = Inkwell
 Deco_Iron_Bars.name = Iron Bars
 Deco_Iron_Bars_Corner.name = Iron Bars - Corner
-Deco_Iron_Bars_Platforms.name = Iron Bar - Horizontal
+Deco_Iron_Bars_Platforms.name = Iron Bars - Horizontal
 Deco_Iron_Chain_Small.name = Iron Chain - Small
 Deco_Iron_Chains.name = Iron Chain - Sloped
 Deco_Iron_Chains_Vertical.name = Iron Chain
@@ -509,9 +509,9 @@ Deco_Tankard.description = [TMP] Can be filled with <color is="#ffffff">Water</c
 Deco_Tankard_Water.name = Tankard (Water)
 Deco_Tankard_Water.description = [TMP] Contains <color is="#ffffff">Water</color> that can be used in cooking.
 Deco_Target.name = Hay Target
-Deco_Trash.name = Trash
-Deco_Trash_Pile_Large.name = Large Trash Pile
-Deco_Trash_Pile_Small.name = Small Trash Pile
+Deco_Trash.name = Small Scrap Pile
+Deco_Trash_Pile_Large.name = Large Scrap Pile
+Deco_Trash_Pile_Small.name = Scrap Pile
 Deco_Treasure.name = Treasure
 Deco_Treasure_Pile_Large.name = Large Treasure Pile
 Deco_Treasure_Pile_Small.name = Small Treasure Pile
@@ -624,8 +624,8 @@ Furniture_Crude_Bed.description = When placed, allows an Avatar to set their res
 Furniture_Crude_Bed.name = Crude Bedroll
 Furniture_Crude_Brazier.name = Small Campfire
 Furniture_Crude_Candle.name = Candle
-Furniture_Crude_Chest_Large.name = Crude Double Chest
-Furniture_Crude_Chest_Small.name = Wooden Chest
+Furniture_Crude_Chest_Large.name = Large Crude Chest
+Furniture_Crude_Chest_Small.name = Small Crude Chest
 Furniture_Crude_Door.name = Crude Door
 Furniture_Crude_Ladder.name = Crude Ladder
 Furniture_Crude_Platform.name = Crude Platform
@@ -642,7 +642,7 @@ Furniture_Crude_Windows_1X2_Test.name = Prototype Crude Window 1x2
 Furniture_Crude_Windows_2X2_Test.name = Prototype Crude Window 2x2
 Furniture_Desert_Bed.name = Sandswept Bed
 Furniture_Desert_Chair.name = Sandswept Chair
-Furniture_Desert_Chest_Large.name = Sandswept Chest
+Furniture_Desert_Chest_Large.name = Large Sandswept Chest
 Furniture_Desert_Chest_Small.name = Small Sandswept Chest
 Furniture_Desert_Door.name = Sandswept Door
 Furniture_Desert_Ladder.name = Sandswept Ladder
@@ -701,7 +701,7 @@ Furniture_Frozen_Castle_Table.name = Frozen Castle Table
 Furniture_Frozen_Castle_Trapdoor.name = Frozen Castle Trapdoor
 Furniture_Frozen_Castle_Wardrobe.name = Frozen Castle Wardrobe
 Furniture_Frozen_Castle_Window.name = Frozen Castle Window
-Furniture_Goblin_Chest_Small.name = Goblin Chest
+Furniture_Goblin_Chest_Small.name = Small Goblin Chest
 Furniture_Human_Ruins_Banner.name = Lost Civilization Banner
 Furniture_Human_Ruins_Banner_Double.name = Prototype - Lost Civilization Double Banner
 Furniture_Human_Ruins_Banner_Triple.name = Prototype - Lost Civilization Triple Banner
@@ -930,7 +930,7 @@ Furniture_Village_Bookcase.name = Simple Wooden Bookshelf
 Furniture_Village_Brazier.name = Simple Stone Brazier
 Furniture_Village_Chair.name = Simple Wooden Chair
 Furniture_Village_Chest_Large.name = Large Iron Chest
-Furniture_Village_Chest_Small.name = Small Chest
+Furniture_Village_Chest_Small.name = Small Iron Chest
 Furniture_Village_Coffin.name = Stone Coffin
 Furniture_Village_Counter.name = Simple Wooden Counter
 Furniture_Village_Crate.name = Simple Wooden Crate
@@ -946,7 +946,7 @@ Furniture_Village_Platform.name = Simple Wooden Platform
 Furniture_Village_Pot.name = Clay Pot
 Furniture_Village_Shelf_Full.name = Simple Wooden Shelf
 Furniture_Village_Sign.name = Simple Wooden Sign
-Furniture_Village_Statue.name = Statue of an Ancient Knight
+Furniture_Village_Statue.name = Statue of an Ancient Guardian
 Furniture_Village_Stool.name = Simple Wooden Stool
 Furniture_Village_Table.name = Simple Wooden Table
 Furniture_Village_Tombstone.name = Tombstone
@@ -1330,7 +1330,7 @@ Plant_Crop_Mushroom_Flatcap_Blue.name = Blue Flatcap Mushroom
 Plant_Crop_Mushroom_Flatcap_Green.name = Green Flatcap Mushroom
 Plant_Crop_Mushroom_Glowing_Blue.name = Blue Glowing Mushroom
 Plant_Crop_Mushroom_Glowing_Green.name = Green Glowing Mushroom
-Plant_Crop_Mushroom_Glowing_Orange.name = Orange Glowing Mushroom
+Plant_Crop_Mushroom_Glowing_Orange.name = Baby Boomshrooms
 Plant_Crop_Mushroom_Glowing_Purple.name = Purple Glowing Mushroom
 Plant_Crop_Mushroom_Glowing_Red.name = Red Glowing Mushroom
 Plant_Crop_Mushroom_Glowing_Violet.name = Violet Glowing Mushroom
@@ -1569,7 +1569,7 @@ Plant_Leaves_Sallow.name = Sallow Leaves
 Plant_Leaves_Snow.name = Snowy Leaves
 Plant_Leaves_Spiral.name = Spiral Leaves
 Plant_Leaves_Stormbark.name = Stormbark Leaves
-Plant_Leaves_Windwillow.name = Willow Leaves
+Plant_Leaves_Windwillow.name = Windwillow Leaves
 Plant_Leaves_Wisteria_Wild.name = Wild Wisteria Leaves
 Plant_Moss_Block_Blue.name = Blue Moss Block
 Plant_Moss_Block_Green.name = Green Moss Block
@@ -1710,8 +1710,8 @@ Plant_Sapling_Spruce_Frozen.description = [TMP] Grows into a <color is="#ffffff"
 Plant_Sapling_Wisteria_Wild.name = Wild Wisteria Sapling
 Plant_Sapling_Wisteria_Wild.description = [TMP] Grows into a <color is="#ffffff">Wild Wisteria Tree</color>.\n• Yields <color is="#ffffff">Goldenwood</color>\n\nGrowth Time:\n• <color is="#4ade80">4</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Days</color>
 Plant_Seeds_Wisteria_Wild.name = Wild Wisteria Seed Bag
-Plant_Sapling_Windwillow.name = Willow Sapling
-Plant_Sapling_Windwillow.description = [TMP] Grows into a <color is="#ffffff">Willow Tree</color>.\n• Yields <color is="#ffffff">Wood</color>\n\nGrowth Time:\n• <color is="#4ade80">2</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Day</color>
+Plant_Sapling_Windwillow.name = Windwillow Sapling
+Plant_Sapling_Windwillow.description = [TMP] Grows into a <color is="#ffffff">Windwillow Tree</color>.\n• Yields <color is="#ffffff">Wood</color>\n\nGrowth Time:\n• <color is="#4ade80">2</color> <color is="#ffffff">Stages</color>\n• <color is="#4ade80">1</color> <color is="#ffffff">Day</color>
 Plant_Seaweed_Arid_Red.name = Red Arid Seaweed
 Plant_Seaweed_Arid_Short.name = Short Arid Seaweed
 Plant_Seaweed_Arid_Stack.name = Arid Seaweed Stack
@@ -1840,7 +1840,7 @@ Plant_Seeds_Wheat_Eternal.name = Wheat Seed Bag (Eternal)
 Plant_Seeds_Wheat_Eternal.description = Grows Wheat
 Plant_Seeds_Wild.name = Wild Grass Seed Bag
 Plant_Seeds_Wild.description = Grows Wild Grass
-Plant_Seeds_Willow.name = Willow Seed Bag
+Plant_Seeds_Willow.name = Windwillow Seed Bag
 Plant_Sunflower_Stage_0.name = Sunflower Seeds
 Plant_Test_Tree_Stage_0.name = Test Tree 0
 Plant_Vine.name = Wall Ivy
@@ -1872,7 +1872,7 @@ Launchpad.name = Launch Platform
 Portal_Pad_Wind.name = Warp Platform
 Portal_Pad_Zone2.name = Dungeon Portal
 Portal_Prefab.name = Prefab Portal
-PortalKey.description = Place in the <item is="Portal_Device"/> to visit this Fragment. \nWork In Progress
+PortalKey.description = Place in an <item is="Portal_Device"/> to visit this Fragment. \nWork In Progress
 PortalKey_Windsurf_Valley.name = Fragment: Orbis - Windrider Valley
 PortalKey_Windsurf_Valley.description = <msg key="server.items.PortalKey.description"/>\n\n<i>A Feran values freedom above all else, and nowhere is that freedom embodied more than in the winds of Windrider Valley.</i>
 PortalKey_Jungles.name = Fragment: Orbis - Tal'Kesi Refuge
@@ -1926,37 +1926,37 @@ Potion_Regen_Stamina_Large.name = Large Decorative Potion (Orange)
 Potion_Regen_Stamina_Small.name = Small Decorative Potion (Orange)
 Potion_Template.name = Template Potion
 Potion_Health_Lesser.name = Lesser Health Potion
-Potion_Health_Lesser.description = [TMP] Restores 15% health instantly and another 15% after 5 seconds. Effect is removed when taking damage.
+Potion_Health_Lesser.description = [TMP] Restores <color is="#ffffff">15%</color> health instantly and another <color is="#ffffff">15%</color> after 5 seconds. Effect is removed when taking damage.\n\nCooldown: <color is="#ffffff">15s</color>
 Potion_Health_Small.name = Small Health Potion
-Potion_Health_Small.description = [TMP] Restores 15% health instantly and another 30% after 5 seconds. Effect is removed when taking damage.
+Potion_Health_Small.description = [TMP] Restores <color is="#ffffff">15%</color> health instantly and another <color is="#ffffff">30%</color> after 5 seconds. Effect is removed when taking damage.\n\nCooldown: <color is="#ffffff">15s</color>
 Potion_Health.name = Health Potion
-Potion_Health.description = [TMP] Restores 25% health instantly and another 35% after 5 seconds. Effect is removed when taking damage.
+Potion_Health.description = [TMP] Restores <color is="#ffffff">25%</color> health instantly and another <color is="#ffffff">35%</color> after 5 seconds. Effect is removed when taking damage.\n\nCooldown: <color is="#ffffff">15s</color>
 Potion_Health_Greater.name = Greater Health Potion
-Potion_Health_Greater.description = [TMP] Restores 25% health instantly and another 50% after 5 seconds. Effect is removed when taking damage.
+Potion_Health_Greater.description = [TMP] Restores <color is="#ffffff">25%</color> health instantly and another <color is="#ffffff">50%</color> after 5 seconds. Effect is removed when taking damage.\n\nCooldown: <color is="#ffffff">15s</color>
 Potion_Health_Large.name = Large Health Potion
-Potion_Health_Large.description = Restores 35% health instantly and another 55% after 5 seconds. Effect is removed when taking damage.
+Potion_Health_Large.description = Restores <color is="#ffffff">35%</color> health instantly and another <color is="#ffffff">55%</color> after 5 seconds. Effect is removed when taking damage.\n\nCooldown: <color is="#ffffff">15s</color>
 Potion_Stamina_Lesser.name = Lesser Stamina Potion
-Potion_Stamina_Lesser.description = [TMP] Restores 30% stamina instantly. 15s Cooldown.
+Potion_Stamina_Lesser.description = [TMP] Restores <color is="#ffffff">30%</color> stamina instantly.\n\nCooldown: <color is="#ffffff">30s</color>
 Potion_Stamina_Small.name = Small Stamina Potion
-Potion_Stamina_Small.description = [TMP] Restores 45% stamina instantly. 15s Cooldown.
+Potion_Stamina_Small.description = [TMP] Restores <color is="#ffffff">45%</color> stamina instantly.\n\nCooldown: <color is="#ffffff">30s</color>
 Potion_Stamina.name = Stamina Potion
-Potion_Stamina.description = [TMP] Restores 60% stamina instantly. 15s Cooldown.
+Potion_Stamina.description = [TMP] Restores <color is="#ffffff">60%</color> stamina instantly.\n\nCooldown: <color is="#ffffff">30s</color>
 Potion_Stamina_Greater.name = Greater Stamina Potion
-Potion_Stamina_Greater.description = [TMP] Restores 75% stamina instantly. 15s Cooldown.
+Potion_Stamina_Greater.description = [TMP] Restores <color is="#ffffff">75%</color> stamina instantly.\n\nCooldown: <color is="#ffffff">30s</color>
 Potion_Stamina_Large.name = Large Stamina Potion
-Potion_Stamina_Large.description = [TMP] Restores 90% stamina instantly. 15s Cooldown.
+Potion_Stamina_Large.description = [TMP] Restores <color is="#ffffff">90%</color> stamina instantly.\n\nCooldown: <color is="#ffffff">30s</color>
 Potion_Signature_Lesser.name = Lesser Energy Potion
-Potion_Signature_Lesser.description = [TMP] Generates 30% weapon signature energy over 30 seconds.
+Potion_Signature_Lesser.description = [TMP] Generates <color is="#ffffff">30%</color> weapon signature energy over <color is="#ffffff">30</color> seconds.
 Potion_Signature_Small.name = Small Energy Potion
-Potion_Signature_Small.description = [TMP] Generates 45% weapon signature energy over 30 seconds.
+Potion_Signature_Small.description = [TMP] Generates <color is="#ffffff">45%</color> weapon signature energy over <color is="#ffffff">30</color> seconds.
 Potion_Signature.name = Energy Potion
-Potion_Signature.description = [TMP] Generates 60% weapon signature energy over 30 seconds.
+Potion_Signature.description = [TMP] Generates <color is="#ffffff">60%</color> weapon signature energy over <color is="#ffffff">30</color> seconds.
 Potion_Signature_Greater.name = Greater Energy Potion
-Potion_Signature_Greater.description = [TMP] Generates 75% weapon signature energy over 30 seconds.
+Potion_Signature_Greater.description = [TMP] Generates <color is="#ffffff">75%</color> weapon signature energy over <color is="#ffffff">30</color> seconds.
 Potion_Signature_Large.name = Large Energy Potion
-Potion_Signature_Large.description = [TMP] Generates 90% weapon signature energy over 30 seconds.
+Potion_Signature_Large.description = [TMP] Generates <color is="#ffffff">90%</color> weapon signature energy over <color is="#ffffff">30</color> seconds.
 Prefab_Spawner_Block.name = Prefab Spawner
-Prefab_Spawner_Block.description = Spawns prefabs during world generation. Interact with the block to edit settings, or use /prefabspawner commands.\n\nUse /prefabspawner set <prefabPath> to configure the prefab path.
+Prefab_Spawner_Block.description = Spawns prefabs during world generation. Interact with the block to edit settings, or use "/prefabspawner" commands.\n\nUse "/prefabspawner set <prefabPath>" to configure the prefab path.
 Prototype_Ancient_Sign_Hanging.name = Prototype - Ancient Hanging Sign
 Prototype_Bookshelf_Bottom_Edge.name = Prototype - Bookshelf - Bottom Edge
 Prototype_Bookshelf_Bottom_Left_Corner.name = Prototype - Bookshelf - Bottom Left Corner
@@ -2875,7 +2875,7 @@ Tool_Pickaxe_Adamantite.name = Adamantite Pickaxe
 Tool_Pickaxe_Cobalt.name = Cobalt Pickaxe
 Tool_Pickaxe_Copper.name = Copper Pickaxe
 Tool_Pickaxe_Crude.name = Crude Pickaxe
-Tool_Pickaxe_Crude.description = Great at breaking stone and ore blocks.\n\n<i>All that stands between the Goblin Dukes and total domination of the underground regions is that they have yet to understand what this tool is.</i>
+Tool_Pickaxe_Crude.description = Great at breaking stone and ore blocks.
 Tool_Pickaxe_Iron.name = Iron Pickaxe
 Tool_Pickaxe_Mithril.name = Mithril Pickaxe
 Tool_Pickaxe_Onyxium.name = Onyxium Pickaxe
@@ -2919,9 +2919,9 @@ Trigger_Block.name = Trigger Block
 UpgradeBackpack_1.name = Unlock Backpack
 UpgradeBackpack_1.description = Unlocks the backpack when consumed.
 UpgradeBackpack_2.name = Backpack Upgrade I
-UpgradeBackpack_2.description = Increases backpack capacity.
+UpgradeBackpack_2.description = Increases backpack capacity.\n\nEach backpack upgrade level can only be used once.
 UpgradeBackpack_3.name = Backpack Upgrade II
-UpgradeBackpack_3.description = Further Increases the backpack capacity.
+UpgradeBackpack_3.description = Further increases the backpack capacity.\n\nEach backpack upgrade level can only be used once.
 Utility_Bag_Seed.name = Seed Bag
 Utility_Bag_Seed.description = Experimental container, use at your own risk.
 Utility_Helipack.name = Helipack
@@ -2985,7 +2985,7 @@ Weapon_Shortbow_Cobalt.name = Cobalt Shortbow
 Weapon_Shortbow_Combat.name = Combat Shortbow
 Weapon_Shortbow_Copper.name = Copper Shortbow
 Weapon_Shortbow_Crude.name = Crude Shortbow
-Weapon_Shortbow_Doomed.name = Outlander Doomed Shortbow
+Weapon_Shortbow_Doomed.name = Doomed Outlander Shortbow
 Weapon_Shortbow_Flame.name = Flame Shortbow
 Weapon_Shortbow_Frost.name = Frost Shortbow
 Weapon_Shortbow_Iron.name = Iron Shortbow
@@ -3066,7 +3066,7 @@ Weapon_Longsword_Katana.name = Katana
 Weapon_Longsword_Mithril.name = Mithril Longsword
 Weapon_Longsword_Onyxium.name = Onyxium Longsword
 Weapon_Longsword_Praetorian.name = Praetorian Longsword
-Weapon_Longsword_Praetorian_NPC.name = Skeleton Praetorian's Longsword
+Weapon_Longsword_Praetorian_NPC.name = Skeleton Praetorian's Sword
 Weapon_Longsword_Prisma.name = Prisma Longsword
 Weapon_Longsword_Scarab.name = Scarab Longsword
 Weapon_Longsword_Spectral.name = Spectral Longsword
@@ -3131,8 +3131,8 @@ Weapon_Spellbook_Rekindle_Embers.description = Raises skeletal minions from near
 • Minions despawn when their summoner is lost, or after 5 minutes.\n\
 \n<color is="#ccaa00">Consumes 1 grimoire per minion raised.</color>
 Weapon_Staff_Adamantite.name = Adamantite Staff
-Weapon_Staff_Bo_Bamboo.name = Bamboo Bo Staff
-Weapon_Staff_Bo_Wood.name = Wooden Bo Staff
+Weapon_Staff_Bo_Bamboo.name = Bamboo Bō Staff
+Weapon_Staff_Bo_Wood.name = Wooden Bō Staff
 Weapon_Staff_Bone.name = Bone Staff
 Weapon_Staff_Bronze.name = Bronze Staff
 Weapon_Staff_Cane.name = Cane
@@ -3814,57 +3814,57 @@ Rock_Salt.name = Salt Block
 Rock_Salt.description = Can be refined at the <item is="Bench_Cooking"/>.
 Rock_Salt_Half.name = Salt - Half Slab
 Rock_Slate_Cobble_Corner.name = Slate Cobble - Corner
-Plant_Fruit_Apple.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>\nLiked by <color is="#ffffff">Goats</color>, <color is="#ffffff">Rams</color> and <color is="#ffffff">Mouflons</color>.
-Plant_Fruit_Berries_Red.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Plant_Fruit_Berries_Blue.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Plant_Fruit_Orange.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Plant_Fruit_Pear.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Plant_Fruit_Azure.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Plant_Fruit_Coconut.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Plant_Fruit_Mango.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Plant_Fruit_Pinkberry.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Plant_Fruit_Poison.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Plant_Fruit_Spiral.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Plant_Fruit_Windwillow.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Plant_Crop_Carrot_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>\nLiked by <color is="#ffffff">Rabbits</color>, <color is="#ffffff">Bunnies</color> and <color is="#ffffff">Horses</color>.
-Plant_Crop_Corn_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>\nLiked by <color is="#ffffff">Chickens</color> and <color is="#ffffff">Turkeys</color>.
-Plant_Crop_Potato_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>\nLiked by <color is="#ffffff">Mosshorns</color>.
-Plant_Crop_Pumpkin_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>\nLiked by <color is="#ffffff">Boars</color>.
-Plant_Crop_Onion_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>\nLiked by <color is="#ffffff">Warthogs</color>.
-Plant_Crop_Lettuce_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>\nLiked by <color is="#ffffff">Cows</color> and <color is="#ffffff">Sheep</color>.
-Plant_Crop_Turnip_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>\nLiked by <color is="#ffffff">Pigs</color>.
-Plant_Crop_Tomato_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>\nLiked by <color is="#ffffff">Camels</color>.
-Plant_Crop_Rice_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Plant_Crop_Cauliflower_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>\nLiked by <color is="#ffffff">Bison</color>.
-Plant_Crop_Chilli_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>\nLiked by <color is="#ffffff">Skrills</color>.
-Plant_Crop_Aubergine_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>\nLiked by <color is="#ffffff">Wild Pigs</color>.
-Plant_Mushroom_Brown.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Plant_Mushroom_Red.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Food_Vegetable_Cooked.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Food_Kebab_Fruit.description = [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-Food_Kebab_Vegetable.description = [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-Food_Kebab_Mushroom.description = [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-Food_Salad_Berry.description = [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-Food_Salad_Mushroom.description = [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-Food_Salad_Caesar.description = [TMP] Instantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
-Food_Pie_Apple.description = [TMP] Instantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
-Recipe_Food_Pie_Apple.description = [TMP] Teaches the <item is="Food_Pie_Apple"/> recipe.\n\nInstantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
-Recipe_Food_Pie_Pumpkin.description = [TMP] Teaches the <item is="Food_Pie_Pumpkin"/> recipe.\n\nInstantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
-Recipe_Food_Pie_Meat.description = [TMP] Teaches the <item is="Food_Pie_Meat"/> recipe.\n\nInstantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Health Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
-Recipe_Food_Salad_Caesar.description = [TMP] Teaches the <item is="Food_Salad_Caesar"/> recipe.\n\nInstantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
-Food_Pie_Pumpkin.description = [TMP] Instantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
-Food_Wildmeat_Cooked.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Health Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Food_Fish_Grilled.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Health Boost I</color>\n\nDuration: <color is="#ffffff">0:45</color>
-Food_Kebab_Meat.description = [TMP] Instantly restores <color is="#ffffff">10%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Health Boost II</color>\n\nDuration: <color is="#ffffff">2:30</color>
-Food_Pie_Meat.description = [TMP] Instantly restores <color is="#ffffff">15%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Health Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Plant_Fruit_Apple.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>\nLiked by <color is="#ffffff">Goats</color>, <color is="#ffffff">Rams</color> and <color is="#ffffff">Mouflons</color>.
+Plant_Fruit_Berries_Red.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>
+Plant_Fruit_Berries_Blue.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Plant_Fruit_Orange.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Plant_Fruit_Pear.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Plant_Fruit_Azure.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>
+Plant_Fruit_Coconut.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>
+Plant_Fruit_Mango.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>
+Plant_Fruit_Pinkberry.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>
+Plant_Fruit_Poison.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>
+Plant_Fruit_Spiral.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>
+Plant_Fruit_Windwillow.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>
+Plant_Crop_Carrot_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>\nLiked by <color is="#ffffff">Rabbits</color>, <color is="#ffffff">Bunnies</color> and <color is="#ffffff">Horses</color>.
+Plant_Crop_Corn_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>\nLiked by <color is="#ffffff">Chickens</color> and <color is="#ffffff">Turkeys</color>.
+Plant_Crop_Potato_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>\nLiked by <color is="#ffffff">Mosshorns</color>.
+Plant_Crop_Pumpkin_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>\nLiked by <color is="#ffffff">Boars</color>.
+Plant_Crop_Onion_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>\nLiked by <color is="#ffffff">Warthogs</color>.
+Plant_Crop_Lettuce_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>\nLiked by <color is="#ffffff">Cows</color> and <color is="#ffffff">Sheep</color>.
+Plant_Crop_Turnip_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>\nLiked by <color is="#ffffff">Pigs</color>.
+Plant_Crop_Tomato_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>\nLiked by <color is="#ffffff">Camels</color>.
+Plant_Crop_Rice_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>
+Plant_Crop_Cauliflower_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>\nLiked by <color is="#ffffff">Bison</color>.
+Plant_Crop_Chilli_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>\nLiked by <color is="#ffffff">Skrills</color>.
+Plant_Crop_Aubergine_Item.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">1:00</color>\nLiked by <color is="#ffffff">Wild Pigs</color>.
+Plant_Mushroom_Brown.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Plant_Mushroom_Red.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Food_Vegetable_Cooked.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Stamina Boost I</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Food_Kebab_Fruit.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Food_Kebab_Vegetable.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Food_Kebab_Mushroom.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Food_Salad_Berry.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Food_Salad_Mushroom.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Stamina Boost II</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Food_Salad_Caesar.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Food_Pie_Apple.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Recipe_Food_Pie_Apple.description = [TMP] Teaches the <item is="Food_Pie_Apple"/> recipe.\n\nInstantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Recipe_Food_Pie_Pumpkin.description = [TMP] Teaches the <item is="Food_Pie_Pumpkin"/> recipe.\n\nInstantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Recipe_Food_Pie_Meat.description = [TMP] Teaches the <item is="Food_Pie_Meat"/> recipe.\n\nInstantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Health Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Recipe_Food_Salad_Caesar.description = [TMP] Teaches the <item is="Food_Salad_Caesar"/> recipe.\n\nInstantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Food_Pie_Pumpkin.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Stamina Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Food_Wildmeat_Cooked.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Health Boost I</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Food_Fish_Grilled.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen I</color>\n• <color is="#ffffff">Health Boost I</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Food_Kebab_Meat.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen II</color>\n• <color is="#ffffff">Health Boost II</color>\n\nDuration: <color is="#ffffff">6:00</color>
+Food_Pie_Meat.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health and grants:\n\n• <color is="#ffffff">Health Regen III</color>\n• <color is="#ffffff">Health Boost III</color>\n\nDuration: <color is="#ffffff">6:00</color>
 Food_Wildmeat_Raw.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health.
 Food_Fish_Raw.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health.
 Food_Pork_Raw.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health.
 Food_Chicken_Raw.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health.
 Food_Beef_Raw.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health.
-Food_Bread.description = [TMP] Instantly restores <color is="#ffffff">15%</color> health.
-Food_Popcorn.description = [TMP] Instantly restores <color is="#ffffff">15%</color> health.
-Food_Cheese.description = [TMP] Instantly restores <color is="#ffffff">15%</color> health.
+Food_Bread.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health.
+Food_Popcorn.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health.
+Food_Cheese.description = [TMP] Instantly restores <color is="#ffffff">5%</color> health.
 Furniture_Cybercity_Windows_Purple.name = Prototype - Cybercity Window - Top Bottom Purple
 Furniture_Cybercity_Windows_Red.name = Prototype - Cybercity Window - Top Bottom Red
 Furniture_Cybercity_Windows_Yellow.name = Prototype - Cybercity Window - Top Bottom Yellow
@@ -3877,63 +3877,63 @@ Furniture_Cybercity_Windows_LR.name = Prototype - Cybercity Window - Left Right
 Furniture_Cybercity_Windows_Right.name = Prototype - Cybercity Window - Right
 Furniture_Cybercity_Windows_TopBot.name = Prototype - Cybercity Window - Top Bottom
 Furniture_Cybercity_Windows_U.name = Prototype - Cybercity Window - U Shape
-Metal_Bronze.name = Bronze
-Metal_Bronze_Decorative.name = Bronze - Decorative
+Metal_Bronze.name = Cybercity Bronze
+Metal_Bronze_Decorative.name = Cybercity Bronze - Decorative
 Metal_Bronze_Gutter_Corner.name = Bronze Gutter - Right Corner
 Metal_Bronze_Gutter_Horizontal.name = Bronze Gutter - Horizontal
 Metal_Bronze_Gutter_Vertical.name = Bronze Gutter - Vertical
 Metal_Bronze_Gutter_WaterFilter.name = Bronze Gutter - Water Filter
-Metal_Bronze_Half.name = Bronze - Half Slab
-Metal_Bronze_Pipe_Chimney.name = Bronze Pipe - Chimney
-Metal_Bronze_Pipe_Corner.name = Bronze Pipe - Corner
-Metal_Bronze_Pipe_Large.name = Bronze Pipe - Large
-Metal_Bronze_Pipe_Large_Corner.name = Bronze Pipe - Large Corner
-Metal_Bronze_Pipe_Large_Mouthpiece.name = Bronze Pipe - Large Mouthpiece
-Metal_Bronze_Pipe_Long.name = Bronze Pipe - Long
-Metal_Bronze_Pipe_Short.name = Bronze Pipe - Short
-Metal_Bronze_Stairs.name = Bronze - Stairs
-Metal_Copper.name = Copper
-Metal_Copper_Decorative.name = Copper - Decorative
+Metal_Bronze_Half.name = Cybercity Bronze - Half Slab
+Metal_Bronze_Pipe_Chimney.name = Cybercity Bronze Pipe - Chimney
+Metal_Bronze_Pipe_Corner.name = Cybercity Bronze Pipe - Corner
+Metal_Bronze_Pipe_Large.name = Cybercity Bronze Pipe - Large
+Metal_Bronze_Pipe_Large_Corner.name = Cybercity Bronze Pipe - Large Corner
+Metal_Bronze_Pipe_Large_Mouthpiece.name = Cybercity Bronze Pipe - Large Mouthpiece
+Metal_Bronze_Pipe_Long.name = Cybercity Bronze Pipe - Long
+Metal_Bronze_Pipe_Short.name = Cybercity Bronze Pipe - Short
+Metal_Bronze_Stairs.name = Cybercity Bronze - Stairs
+Metal_Copper.name = Cybercity Copper
+Metal_Copper_Decorative.name = Cybercity Copper - Decorative
 Metal_Copper_Gutter_Corner.name = Copper Gutter - Right Corner
 Metal_Copper_Gutter_Horizontal.name = Copper Gutter - Horizontal
 Metal_Copper_Gutter_Vertical.name = Copper Gutter - Vertical
 Metal_Copper_Gutter_WaterFilter.name = Copper Gutter - Water Filter
-Metal_Copper_Half.name = Copper - Half Slab
-Metal_Copper_Pipe_Chimney.name = Copper Pipe - Chimney
-Metal_Copper_Pipe_Corner.name = Copper Pipe - Corner
-Metal_Copper_Pipe_Large.name = Copper Pipe - Large
-Metal_Copper_Pipe_Large_Corner.name = Copper Pipe - Large Corner
-Metal_Copper_Pipe_Large_Mouthpiece.name = Copper Pipe - Large Mouthpiece
-Metal_Copper_Pipe_Long.name = Copper Pipe - Long
-Metal_Copper_Pipe_Short.name = Copper Pipe - Short
-Metal_Copper_Stairs.name = Copper - Stairs
-Metal_Iron.name = Iron
-Metal_Iron_Decorative.name = Iron - Decorative
+Metal_Copper_Half.name = Cybercity Copper - Half Slab
+Metal_Copper_Pipe_Chimney.name = Cybercity Copper Pipe - Chimney
+Metal_Copper_Pipe_Corner.name = Cybercity Copper Pipe - Corner
+Metal_Copper_Pipe_Large.name = Cybercity Copper Pipe - Large
+Metal_Copper_Pipe_Large_Corner.name = Cybercity Copper Pipe - Large Corner
+Metal_Copper_Pipe_Large_Mouthpiece.name = Cybercity Copper Pipe - Large Mouthpiece
+Metal_Copper_Pipe_Long.name = Cybercity Copper Pipe - Long
+Metal_Copper_Pipe_Short.name = Cybercity Copper Pipe - Short
+Metal_Copper_Stairs.name = Cybercity Copper - Stairs
+Metal_Iron.name = Cybercity Iron
+Metal_Iron_Decorative.name = Cybercity Iron - Decorative
 Metal_Iron_Gutter_Corner.name = Iron Gutter - Right Corner
 Metal_Iron_Gutter_Horizontal.name = Iron Gutter - Horizontal
 Metal_Iron_Gutter_Vertical.name = Iron Gutter - Vertical
 Metal_Iron_Gutter_WaterFilter.name = Iron Gutter - Water Filter
-Metal_Iron_Half.name = Iron - Half Slab
-Metal_Iron_Pipe_Chimney.name = Iron Pipe - Chimney
-Metal_Iron_Pipe_Corner.name = Iron Pipe - Corner
-Metal_Iron_Pipe_Large.name = Iron Pipe - Large
-Metal_Iron_Pipe_Large_Corner.name = Iron Pipe - Large Corner
-Metal_Iron_Pipe_Large_Mouthpiece.name = Iron Pipe - Large Mouthpiece
-Metal_Iron_Pipe_Long.name = Iron Pipe - Long
-Metal_Iron_Pipe_Short.name = Iron Pipe - Short
-Metal_Iron_Roof.name = Iron Roof - Sloped
-Metal_Iron_Roof_Flat.name = Iron Roof - Flat
-Metal_Iron_Roof_Shallow.name = Iron Roof - Shallow
-Metal_Iron_Roof_Steep.name = Iron Roof - Steep
-Metal_Iron_Stairs.name = Iron - Stairs
-Metal_Zinc.name = Zinc
-Metal_Zinc_Decorative.name = Zinc - Decorative
-Metal_Zinc_Fence.name = Zinc - Fence
+Metal_Iron_Half.name = Cybercity Iron - Half Slab
+Metal_Iron_Pipe_Chimney.name = Cybercity Iron Pipe - Chimney
+Metal_Iron_Pipe_Corner.name = Cybercity Iron Pipe - Corner
+Metal_Iron_Pipe_Large.name = Cybercity Iron Pipe - Large
+Metal_Iron_Pipe_Large_Corner.name = Cybercity Iron Pipe - Large Corner
+Metal_Iron_Pipe_Large_Mouthpiece.name = Cybercity Iron Pipe - Large Mouthpiece
+Metal_Iron_Pipe_Long.name = Cybercity Iron Pipe - Long
+Metal_Iron_Pipe_Short.name = Cybercity Iron Pipe - Short
+Metal_Iron_Roof.name = Cybercity Iron Roof - Sloped
+Metal_Iron_Roof_Flat.name = Cybercity Iron Roof - Flat
+Metal_Iron_Roof_Shallow.name = Cybercity Iron Roof - Shallow
+Metal_Iron_Roof_Steep.name = Cybercity Iron Roof - Steep
+Metal_Iron_Stairs.name = Cybercity Iron - Stairs
+Metal_Zinc.name = Cybercity Zinc
+Metal_Zinc_Decorative.name = Cybercity Zinc - Decorative
+Metal_Zinc_Fence.name = Cybercity Zinc - Fence
 Metal_Zinc_Gutter_Corner.name = Zinc Gutter - Right Corner
 Metal_Zinc_Gutter_Horizontal.name = Zinc Gutter - Horizontal
 Metal_Zinc_Gutter_Vertical.name = Zinc Gutter - Vertical
 Metal_Zinc_Gutter_WaterFilter.name = Zinc Gutter - Water Filter
-Metal_Zinc_Half.name = Zinc - Half Slab
+Metal_Zinc_Half.name = Cybercity Zinc - Half Slab
 Metal_Gold_Pipe_Chimney.name = Gold Pipe - Chimney
 Metal_Gold_Pipe_Corner.name = Gold Pipe - Corner
 Metal_Gold_Pipe_Large_Corner.name = Gold Pipe - Large Corner
@@ -3941,18 +3941,18 @@ Metal_Gold_Pipe_Short.name = Gold Pipe - Short
 Metal_Gold_Pipe_Long.name = Gold Pipe - Long
 Metal_Gold_Pipe_Large.name = Gold Pipe - Large
 Metal_Gold_Pipe_Large_Mouthpiece.name = Gold Pipe - Large Mouthpiece
-Metal_Zinc_Pipe_Chimney.name = Zinc Pipe - Chimney
-Metal_Zinc_Pipe_Corner.name = Zinc Pipe - Corner
-Metal_Zinc_Pipe_Large.name = Zinc Pipe - Large
-Metal_Zinc_Pipe_Large_Corner.name = Zinc Pipe - Large Corner
-Metal_Zinc_Pipe_Large_Mouthpiece.name = Zinc Pipe - Large Mouthpiece
-Metal_Zinc_Pipe_Long.name = Zinc Pipe - Long
-Metal_Zinc_Pipe_Short.name = Zinc Pipe - Short
-Metal_Zinc_Roof.name = Zinc Roof - Sloped
-Metal_Zinc_Roof_Flat.name = Zinc Roof - Flat
-Metal_Zinc_Roof_Shallow.name = Zinc Roof - Shallow
-Metal_Zinc_Roof_Steep.name = Zinc Roof - Steep
-Metal_Zinc_Stairs.name = Zinc - Stairs
+Metal_Zinc_Pipe_Chimney.name = Cybercity Zinc Pipe - Chimney
+Metal_Zinc_Pipe_Corner.name = Cybercity Zinc Pipe - Corner
+Metal_Zinc_Pipe_Large.name = Cybercity Zinc Pipe - Large
+Metal_Zinc_Pipe_Large_Corner.name = Cybercity Zinc Pipe - Large Corner
+Metal_Zinc_Pipe_Large_Mouthpiece.name = Cybercity Zinc Pipe - Large Mouthpiece
+Metal_Zinc_Pipe_Long.name = Cybercity Zinc Pipe - Long
+Metal_Zinc_Pipe_Short.name = Cybercity Zinc Pipe - Short
+Metal_Zinc_Roof.name = Cybercity Zinc Roof - Sloped
+Metal_Zinc_Roof_Flat.name = Cybercity Zinc Roof - Flat
+Metal_Zinc_Roof_Shallow.name = Cybercity Zinc Roof - Shallow
+Metal_Zinc_Roof_Steep.name = Cybercity Zinc Roof - Steep
+Metal_Zinc_Stairs.name = Cybercity Zinc - Stairs
 Build_Black_Cube.name =Black Build Cube
 Build_Black_Half.name =Black Build - Half Slab
 Build_Black_Stairs.name =Black Build - Stairs
@@ -4099,28 +4099,536 @@ Soil_Clay_Smooth_Yellow_Stairs.name = Yellow Clay - Smooth Stairs
 Soil_Clay_Smooth_Yellow_Half.name = Yellow Clay - Smooth Half Slab
 Soil_Clay_Smooth_Yellow2_Stairs.name = Orange Clay - Smooth Stairs
 Soil_Clay_Smooth_Yellow2_Half.name = Orange Clay - Smooth Half Slab
-Metal_Zinc_Ornate.name = Zinc - Ornate
-Metal_Zinc_Smooth.name = Zinc - Smooth
-Metal_Zinc_Smooth_Half.name = Zinc - Smooth Half Slab
-Metal_Iron_Ornate.name = Iron - Ornate
-Metal_Iron_Smooth.name = Iron - Smooth
-Metal_Iron_Smooth_Half.name = Iron - Smooth Half Slab
-Metal_Bronze_Ornate.name = Bronze - Ornate
-Metal_Bronze_Smooth.name = Bronze - Smooth
-Metal_Bronze_Smooth_Half.name = Bronze - Smooth Half Slab
-Metal_Bronze_Roof.name = Bronze Roof - Sloped
-Metal_Bronze_Roof_Steep.name = Bronze Roof - Steep
-Metal_Bronze_Roof_Shallow.name = Bronze Roof - Shallow
-Metal_Bronze_Roof_Flat.name = Bronze Roof - Flat
-Metal_Copper_Ornate.name = Copper - Ornate
-Metal_Copper_Smooth.name = Copper - Smooth
-Metal_Copper_Smooth_Half.name = Copper - Smooth Half Slab
-Metal_Copper_Roof.name = Copper Roof - Sloped
-Metal_Copper_Roof_Steep.name = Copper Roof - Steep
-Metal_Copper_Roof_Shallow.name = Copper Roof - Shallow
-Metal_Copper_Roof_Flat.name = Copper Roof - Flat
-Metal_Iron_Fence.name = Iron - Fence
-Metal_Bronze_Fence.name = Bronze - Fence
-Metal_Copper_Fence.name = Copper - Fence
+Metal_Zinc_Ornate.name = Cybercity Zinc - Ornate
+Metal_Zinc_Smooth.name = Cybercity Zinc - Smooth
+Metal_Zinc_Smooth_Half.name = Cybercity Zinc - Smooth Half Slab
+Metal_Iron_Ornate.name = Cybercity Iron - Ornate
+Metal_Iron_Smooth.name = Cybercity Iron - Smooth
+Metal_Iron_Smooth_Half.name = Cybercity Iron - Smooth Half Slab
+Metal_Bronze_Ornate.name = Cybercity Bronze - Ornate
+Metal_Bronze_Smooth.name = Cybercity Bronze - Smooth
+Metal_Bronze_Smooth_Half.name = Cybercity Bronze - Smooth Half Slab
+Metal_Bronze_Roof.name = Cybercity Bronze Roof - Sloped
+Metal_Bronze_Roof_Steep.name = Cybercity Bronze Roof - Steep
+Metal_Bronze_Roof_Shallow.name = Cybercity Bronze Roof - Shallow
+Metal_Bronze_Roof_Flat.name = Cybercity Bronze Roof - Flat
+Metal_Copper_Ornate.name = Cybercity Copper - Ornate
+Metal_Copper_Smooth.name = Cybercity Copper - Smooth
+Metal_Copper_Smooth_Half.name = Cybercity Copper - Smooth Half Slab
+Metal_Copper_Roof.name = Cybercity Copper Roof - Sloped
+Metal_Copper_Roof_Steep.name = Cybercity Copper Roof - Steep
+Metal_Copper_Roof_Shallow.name = Cybercity Copper Roof - Shallow
+Metal_Copper_Roof_Flat.name = Cybercity Copper Roof - Flat
+Metal_Iron_Fence.name = Cybercity Iron - Fence
+Metal_Bronze_Fence.name = Cybercity Bronze - Fence
+Metal_Copper_Fence.name = Cybercity Copper - Fence
 Unknown.name = Unknown
 Debug_Movement_Boots.name = Debug Movement Boots
+Block_Spawner_TempleGoblinExplosion.name = Goblin Explosion Spawner
+Block_Spawner_TempleGoblinFirework.name = Goblin Firework Spawner
+Block_Spawner_TempleGoblinFireworkCloser.name = Goblin Firework Closer Spawner
+Block_Spawner_TempleGoblinGeyser.name = Goblin Geyser Spawner
+Block_Spawner_TempleGoblinLightning.name = Goblin Lightning Spawner
+Block_Spawner_TempleGoblinSludge.name = Goblin Sludge Spawner
+Block_Spawner_TempleGoblinSludge2.name = Goblin Sludge Spawner 2
+Block_Spawner_TempleGoblinSmoke.name = Goblin Smoke Spawner
+Block_Spawner_TempleGoblinSparks.name = Goblin Sparks Spawner
+Block_Spawner_TempleGoblinSparksBurst.name = Goblin Sparks Burst Spawner
+Block_Spawner_GoblinBreachSpark.name = Goblin Breach Spark Spawner
+Block_Spawner_GoblinInitialBreachMarker.name = Goblin Initial Breach Map Marker
+Dungeon_Checkpoint_Statue.name = Dungeon Checkpoint Statue
+VFX_Dungeon_Goblin_Bouncy_Mushroom.name = Goblin Bouncy Mushroom Spawner
+VFX_Dungeon_Goblin_Cauldron.name = Goblin Cauldron Spawner
+VFX_Dungeon_Goblin_Cave_Drips.name = Goblin Cave Drip Spawner
+VFX_Dungeon_Goblin_Cave_Drips_Stalactite.name = Goblin Cave Drip Stalactite Spawner
+VFX_Dungeon_Goblin_Electric_Fence.name = Goblin Electric Fence Spawner
+VFX_Dungeon_Goblin_Energy_Barrier.name = Goblin Energy Barrier Spawner
+VFX_Dungeon_Goblin_Leaking_Pipe.name = Goblin Leaking Pipe Spawner
+VFX_Dungeon_Goblin_Leaking_Pipe_Fast.name = Goblin Fast Leaking Pipe Spawner
+VFX_Dungeon_Goblin_Polluted_Water.name = Goblin Polluted Water Spawner
+VFX_Dungeon_Goblin_Polluted_Water_Small.name = Goblin Small Polluted Water Spawner
+VFX_Dungeon_Goblin_Puddle_Goo.name = Goblin Goo Puddle Spawner
+VFX_Dungeon_Goblin_Puddle_Slime.name = Goblin Slime Puddle Spawner
+VFX_Dungeon_Goblin_Puddle_Water.name = Goblin Water Puddle Spawner
+VFX_Dungeon_Goblin_Smoke_Pipe_Large.name = Goblin Large Smoke Pipe Spawner
+VFX_Dungeon_Goblin_Smoke_Pipe_Small.name = Goblin Small Smoke Pipe Spawner
+VFX_Dungeon_Goblin_Spores_Blue.name = Goblin Blue Spores Spawner
+VFX_Dungeon_Goblin_Spores_Green.name = Goblin Green Spores Spawner
+VFX_Dungeon_Goblin_Spores_Orange.name = Goblin Orange Spores Spawner
+VFX_Dungeon_Goblin_Spores_Orange_Dense.name = Goblin Dense Orange Spores Spawner
+VFX_Dungeon_Goblin_Spores_Purple.name = Goblin Purple Spores Spawner
+VFX_Dungeon_Goblin_Spores_Skylight.name = Goblin Skylight Spore Spawner
+VFX_Dungeon_Goblin_Stinky_Pile.name = Goblin Stinky Pile Spawner
+VFX_Dungeon_Goblin_Stinky_Pile_Small.name = Goblin Small Stinky Pile Spawner
+VFX_Dungeon_Goblin_Sun_Shafts_Large.name = Goblin Large Sun Shaft Spawner
+VFX_Dungeon_Goblin_Sun_Shafts_Small.name = Goblin Small Sun Shaft Spawner
+VFX_Dungeon_Goblin_Sun_Shafts_Tiny.name = Goblin Tiny Sun Shaft Spawner
+VFX_Dungeon_Goblin_Temple_Motes.name = Goblin Temple Motes Spawner
+VFX_Dungeon_Goblin_Temple_Motes_Floor.name = Goblin Temple Motes Floor Spawner
+VFX_Dungeon_Goblin_Toxic_Water.name = Goblin Toxic Water Spawner
+VFX_Dungeon_Goblin_Toxic_Water_Small.name = Goblin Small Toxic Water Spawner
+VFX_Dungeon_Goblin_Void_Cinematic_Portal.name = Goblin Void Cinematic Portal Spawner
+VFX_Dungeon_Goblin_Void_Motes_Cluster.name = Goblin Void Motes Cluster Spawner
+VFX_Dungeon_Goblin_Void_Rift.name = Goblin Void Rift Spawner
+VFX_Dungeon_Goblin_Void_Rift_Wind.name = Goblin Void Rift Wind Spawner
+VFX_Dungeon_Goblin_Water_Spout.name = Goblin Water Spout Spawner
+VFX_Dungeon_Goblin_Water_Spout_Splash.name = Goblin Water Spout Splash Spawner
+Spawn_Temple_Goblin_Fence.name = Goblin Electric Fence Spawner
+Dead_Fish.name = Dead Fish
+Rune_Fireball.name = Fireball
+Rune_Fireball.description = Launch a fireball that explodes on impact.
+Debug_Rune_Tornado.name = [TMP] Debug Ability: Tornado
+Debug_Rune_Tornado.description = [TMP] Launches a tornado on Ability 2/3.
+Debug_Rune_Test.name = [TMP] Debug Ability: Support Test
+Debug_Rune_Test.description = [TMP] Fits only in support slots. No effect yet.
+Debug_Rune_Burning.name = [TMP] Debug Ability: Burning Support
+Debug_Rune_Burning.description = [TMP] Fits only in support slots. Every hit of the linked damaging ability also sets the target on fire.
+Debug_Rune_Speed.name = [TMP] Debug Ability: Modifier Support
+Debug_Rune_Speed.description = [TMP] Fits only in support slots. Trades projectile speed for size, impact and efficiency.
+Debug_Rune_Fork.name = [TMP] Debug Ability: Fork Support
+Debug_Rune_Fork.description = [TMP] Fits only in support slots. The linked projectile splits into three on its first hit; each child is half size and deals half damage.
+Rune_GroundSlam.name = Ground Slam
+Rune_GroundSlam.description = Strike the ground, sundering the earth and launching foes into the air with a stone spike.
+Debug_Rune_Frostbolt.name = [TMP] Debug Ability: Frostbolt
+Debug_Rune_Frostbolt.description = [TMP] Launches an ice bolt that damages and slows enemies around the impact.
+Rune_Aoe_Up.name = Colossal
+Rune_Aoe_Up.description = Increases the size and strength of a supported ability, but slows its projectiles.
+Rune_Duration_Up.name = Enduring
+Rune_Duration_Up.description = Increases the duration of effects applied by a supported ability.
+Rune_Damage_Up.name = Amplify Damage
+Rune_Damage_Up.description = Increases a supported ability's direct damage.
+Rune_Convert_Wind.name = Wind Conversion
+Rune_Convert_Wind.description = Converts a supported ability's damage type to wind.
+Rune_Convert_Lightning.name = Lightning Conversion
+Rune_Convert_Lightning.description = Converts a supported ability's damage type to lightning.
+Rune_ChainHook.name = Chain Hook
+Rune_ChainHook.description = Launch a chain that pulls the first enemy hit to you and briefly slows it.
+Rune_Empty.name = Empty Runestone
+Bench_Abilities.name = Runebinder's Lattice
+Bench_Abilities.description = Commune with this stone to arrange your abilities and Runestones.\n\
+\n\
+<i>A civilization once sought to claim the powers of an Avatar as their own. Had the Runebinder's way proved successful, perhaps it would have kept them from walking much darker paths.</i>
+Bench_Abilities.mapMarker = Runebinder's Lattice
+Rune_WindStrike.name = Wind Strike
+Rune_WindStrike.description = Imbue your weapon with elemental wind. Your next three attacks launch a piercing arc of wind.
+Rune_Enrage.name = Enrage
+Rune_Enrage.description = Gain 30% more physical, elemental, and projectile damage for 8 seconds, but become more vulnerable to weapon and elemental attacks.
+Rune_PoisonImbue.name = Imbue Poison
+Rune_PoisonImbue.description = Imbue your weapon with poison for 8 seconds. Melee and ranged hits apply up to three stacks, each dealing 4 poison damage every 2 seconds for 6 seconds.
+Rune_Fork.name = Splinter
+Rune_Fork.description = A supported ability's projectiles split on their first hit. Split projectiles become smaller and deal less damage with each split or ricochet. Charged Shot requires full charge.
+Rune_Ricochet.name = Rebound
+Rune_Ricochet.description = A supported ability's projectiles bounce between enemies, dealing less damage with each bounce or split. Charged Shot requires full charge.
+Rune_Quickening.name = Quickening
+Rune_Quickening.description = A supported ability can be used more often for less mana. Its projectiles move faster, but direct hits deal less damage and effects wear off sooner.
+Rune_Thrift.name = Thrift
+Rune_Thrift.description = A supported ability costs less mana, but its direct hits deal less damage.
+Rune_Rend.name = Rend
+Rune_Rend.description = Hits from a supported ability apply Rend, wounding enemies for 6 seconds. Wounded enemies take 4 physical damage every 2 seconds and have 15% less physical resistance.
+Rune_Wither.name = Wither
+Rune_Wither.description = Hits from a supported ability apply Wither, weakening enemies for 2 seconds. Weakened enemies deal 15% less physical, elemental, and projectile damage and move 10% slower.
+Rune_ChargedShot.name = Charged Shot
+Rune_ChargedShot.description = Hold to charge a freezing bolt. Longer charges chill the target more and can freeze it. A fully charged bolt splits into icicles.
+Deco_Goblin_Plush.name = Goblin Plushie
+Deco_SpiderWeb_Diagonal.name = Spiderweb Rope - Diagonal
+Goblin_Gobliterator_Difficulty_Button.name = Gobliterator Difficulty Button
+Goblin_Gobliterator_Difficulty_Lever.name = Gobliterator Difficulty Lever
+Goblin_Gobliterator_Difficulty_Lever_Hard.name = Gobliterator Difficulty Lever (Hard)
+Goblin_Graffiti_Fire.name = Fire Warning Graffiti
+Goblin_Graffiti_Spider.name = Spider Warning Graffiti
+Goblin_Graffiti_Large_Spider.name = Large Spider Warning Graffiti
+Goblin_Graffiti_Skeleton.name = Skeleton Warning Graffiti
+Goblin_Graffiti_Large_Overheat.name = Large Overheat Warning Graffiti
+Goblin_Painting_Orbis.name = Goblin Painting: The Veil of Void
+Goblin_Painting_Orbis.description = <i>Everything is wrong. Sky is too purple.\n\
+\n\
+Shouldn't stay here.\n\
+\n\
+A Makinomagistra sees work through.</i>
+Goblin_Painting_Orbis_Replica.name = Goblin Painting: The Veil of Void (Replica)
+Goblin_Painting_Orbis_Replica.description = <msg key="server.items.Goblin_Painting_Orbis.description"/>
+Goblin_Painting_Portal.name = Goblin Painting: The Traveling Goblin
+Goblin_Painting_Portal.description = <i>Works!</i>
+Goblin_Painting_Portal_Replica.name = Goblin Painting: The Traveling Goblin (Replica)
+Goblin_Painting_Portal_Replica.description = <msg key="server.items.Goblin_Painting_Portal.description"/>
+Goblin_Painting_Fail.name = Goblin Painting: The Failed Excursions
+Goblin_Painting_Fail.description = <i>Too many failed attempts.\n\
+\n\
+The purple barrier repels all.\n\
+\n\
+There has to be a way. It can't block us in forever.</i>
+Goblin_Painting_Fail_Replica.name = Goblin Painting: The Failed Excursions (Replica)
+Goblin_Painting_Fail_Replica.description = <msg key="server.items.Goblin_Painting_Fail.description"/>
+Goblin_Painting_ForgottenTemple.name = Goblin Painting: The Strange Place
+Goblin_Painting_ForgottenTemple.description = <i>There are Kweebecs here but this isn't Orbis.\n\
+\n\
+Similar, but not the same. The sky isn't purple either.</i>
+Goblin_Painting_ForgottenTemple_Replica.name = Goblin Painting: The Strange Place (Replica)
+Goblin_Painting_ForgottenTemple_Replica.description = <msg key="server.items.Goblin_Painting_ForgottenTemple.description"/>
+Goblin_Painting_Repair.name = Goblin Painting: The Required Repair
+Goblin_Painting_Repair.description = <i>The gate doesn't work anymore. There's no way to go onward.\n\
+\n\
+The parts are on the other side. Back beneath the purple sky.</i>
+Goblin_Painting_Repair_Replica.name = Goblin Painting: The Required Repair (Replica)
+Goblin_Painting_Repair_Replica.description = <msg key="server.items.Goblin_Painting_Repair.description"/>
+Klops_Away_Sign.name = CLOSED
+Klops_Away_Sign.description = Off to collect an item for a client.
+Goblin_Painting_Breach.name = Goblin Painting: The Breaches
+Goblin_Painting_Breach.description = <i>The other Goblins come too. Not all of them friendly.\n\
+\n\
+There are new things here. It's safer here.\n\
+\n\
+But the parts we need are over there.</i>
+Goblin_Painting_Breach_Replica.name = Goblin Painting: The Breaches (Replica)
+Goblin_Painting_Breach_Replica.description = <msg key="server.items.Goblin_Painting_Breach.description"/>
+GoblinLab_Console.description = Extends the time limit inside a Fragment. Each repair adds more time.
+Dungeon_Signal_Generator.name = Deepworks Power Generator
+Dungeon_Signal_Generator.description = Toggles between On and Off. Each toggle signals nearby volumes tagged RequiresPower=true with the signal key Power.
+GoblinLab_Console.name = Goblin Breach Console
+GoblinLab_Power_Switch.name = Goblin Power Generator
+GoblinLab_Teleporter.name = [TMP] Goblin Lab Teleporter
+GoblinLab_Teleporter.description = [TMP] A teleporter between the Forgotten Temple entrance and the Goblin Lab. It needs power from the lab generator.
+GoblinLab_Power_Switch.description = Feeds power to the other devices in the lab.
+GoblinLab_Generator.FirstUse.message = You sense a disturbance in your Echo, beyond the Forgotten Temple.
+GoblinLab_Generator.FirstUse.title.primary = Your Echo Trembles
+GoblinLab_Generator.FirstUse.title.secondary = Seek the disturbance beyond the temple
+GoblinLab_Tinkering_Bench_Fixed.name = Goblin Tinkerer's Workbench
+GoblinLab_Tinkering_Bench_Fixed.description = Workbench favored by Goblin Tinkerers. Additional working devices are required to craft certain items.
+GoblinLab_Tinkering_Bench_Recipeset_A.name = Boiler
+GoblinLab_Tinkering_Bench_Recipeset_A.description = Unlocks more recipes at the <item is="GoblinLab_Tinkering_Bench"/>.
+GoblinLab_Tinkering_Bench_Recipeset_B.name = Engine
+GoblinLab_Tinkering_Bench_Recipeset_B.description = Unlocks more recipes at the <item is="GoblinLab_Tinkering_Bench"/>.
+GoblinLab_Tinkering_Bench_Recipeset_C.name = Compressor
+GoblinLab_Tinkering_Bench_Recipeset_C.description = Unlocks more recipes at the <item is="GoblinLab_Tinkering_Bench"/>.
+tooltips.crafting.augmentTagRequired.goblin_lab_recipe_a = [TMP] <color is="#be1717">Repair the <item is="GoblinLab_Tinkering_Bench_Recipeset_A"/> to unlock this recipe.</color>
+tooltips.crafting.augmentTagRequired.goblin_lab_recipe_b = [TMP] <color is="#be1717">Repair the <item is="GoblinLab_Tinkering_Bench_Recipeset_B"/> to unlock this recipe.</color>
+tooltips.crafting.augmentTagRequired.goblin_lab_recipe_c = [TMP] <color is="#be1717">Repair the <item is="GoblinLab_Tinkering_Bench_Recipeset_C"/> to unlock this recipe.</color>
+GoblinLab_Fragment_Portal.name = The Goblin Gateway
+GoblinLab_Fragment_Portal.description = Breaches the Veil of Void that seals Orbis.
+Cocoon_Spider_Cave.name = Cave Spider Cocoon
+Rocket_Boots.name = Rocket Boots
+Rocket_Boots.description = A note was scrawled in one corner of the blueprint:\n\
+\n\
+<i>Explosions launch test subjects away. Too weak to mine rock. Rejected.</i>
+Spider_Cocoon_Falling.name = Prototype - Falling Spider Cocoon
+Deco_Trash_Banana_Peel.name = Half-eaten Banana
+Deco_Trash_Eaten_Fish.name = Half-eaten Fish
+Deco_Scrap_Pile_Shiny.name = Shiny Scrap Pile
+Fluid_Tar_Void.name = Void Tar
+Furniture_Goblin_Bed.name = Goblin Bed
+Furniture_Goblin_Brazier.name = Goblin Brazier
+Furniture_Goblin_Candle.name = Goblin Candle
+Furniture_Goblin_Chest_Large.name = Large Goblin Chest
+Furniture_Goblin_Chest_Stolen.name = Stolen Chest
+Furniture_Goblin_Coffer.name = Veilbound Coffer
+Furniture_Goblin_Door_Medium.name = Medium Goblin Door
+Furniture_Goblin_Door.name = Goblin Door
+Furniture_Goblin_Ladder.name = Goblin Ladder
+Furniture_Goblin_Sign.name = Goblin Sign
+Furniture_Goblin_Stool.name = Goblin Stool
+Furniture_Goblin_Table.name = Goblin Table
+Furniture_Goblin_Window.name = Goblin Window
+Furniture_Goblin_Pot_Loot.name = Goblin Loot Pot
+Furniture_Goblin_Statue_Graffiti.name = Defaced Statue of a Guardian
+Furniture_Human_Ruins_Statue.name = Bearer of Fire Statue
+Deco_SpiderWeb_Straight.name = Spiderweb Rope
+Furniture_Temple_Emerald_Statue_Head.name = Ancient Ruler Statue - Head
+Glider_Scrap.name = Scrap Glider
+Glider_Scrap.description = A note was scrawled in one corner of the blueprint:\n\
+\n\
+<i>Test subjects repeatedly collide with cave walls. Rejected.</i>
+Glass_Test_Red.name = Test Glass (Red)
+Glass_Test_Green.name = Test Glass (Green)
+Glass_Test_Blue.name = Test Glass (Blue)
+Glass_Test_Yellow.name = Test Glass (Yellow)
+Glass_Test_Purple.name = Test Glass (Purple)
+Glass_Test_White.name = Test Glass (White)
+Ingredient_Crystal_Void.name = Void Crystal Shards
+Ingredient_Crystal_Void.description = <i>Beneath the Veil that enshrouds true Orbis, concentrated Void warps even crystalline structures into twisted imitations of life. Though since shattered, these shards still retain a trace of that energy.</i>
+Ingredient_Spider_Silk.name = Spider Silk
+Ingredient_Enkindled_Resource.name = Enkindled Sigil
+Ingredient_Enkindled_Resource.description = <i>This sigil speaks of a civilization now lost to a calamity that left Orbis scarred. The toughest of the unliving Revenant Guardians keep it close to where their hearts once sat.</i>
+Ingredient_Deep_Resource.name = Bundled Treasure
+Ingredient_Deep_Resource.description = <i>Few Goblins understand the purpose of these shiny objects. Even Feastmasters have been known to see them as little more than decor.</i>
+Ingredient_Voidtaken_Grizzly_Hide.name = Voidtaken Grizzly Hide
+Ingredient_Voidtaken_Grizzly_Hide.description = <i>This Void-tainted hide bears the marks of countless struggles, both before and after its corruption. Where the Veil of Void is thickest, these beasts are known to prowl.</i>
+Ingredient_Gadget_Assembly.name = Dubious Assembly
+Ingredient_Gadget_Assembly.description = <i>Does this thing work? You could probably build one yourself based on its simple Goblin construction, but you can't quite fathom what it's meant to do.</i>
+Ingredient_Gobliterator_Core.name = Gobliterator Core
+Ingredient_Gobliterator_Core.description = <i>Though the machine itself would be too heavy to return with, this mysterious mechanical core makes for a fine trophy.</i>
+Ingredient_Rune_Shard.name = Runestone Shard
+Ingredient_Rune_Shard.description = Used to craft Runestones at the <item is="GoblinLab_Tinkering_Bench"/>.\n\
+\n\
+<i>Some of these shards might date back to the long-extinct Runebinders, but most are the products of intense magics imprinting upon common stone while in the possession of the powerful.</i>
+Ingredient_Powder_Boom.description = <i>A critical source of mayhem valued by less cautious Goblins, this small satchel holds explosive potential that belies its size. Crafting it requires great care - even the foremost Goblin inventor bears the scars of a boomshroom experiment gone wrong.</i>
+Ingredient_Fishbone.name = Fishbone
+Lore_Note_Died_Improperly.name = The Ones Who Didn't Die Properly
+Lore_Note_Died_Improperly.description = This tattered fragment of Goblin text looks to be recent.\n\
+\n\
+<i>The Ones Who Didn't Die Properly\n\
+\n\
+Beware the Vain One. He tries to twist us like him.\n\
+Beware the Small One. Her machines put ours to shame.\n\
+Beware the Strong One. He laughs while things break.\n\
+Beware the Shrouded One-</i>
+Lore_Note_Enkindled_Journal_Vermin.name = Old Enkindled Journal: Vermin
+Lore_Note_Enkindled_Journal_Vermin.description = <i>I hear them down there. Every. Day.\n\
+\n\
+The clanking doesn't stop.\n\
+\n\
+What are they? Rats? They have to be bigger than that.\n\
+\n\
+I hope it's not spiders.\n\
+\n\
+The Guardians were meant to go down there but they've been in disarray since a messenger arrived from Crucible yesterday. Something about a Councilor and the Scaraks - I didn't quite hear it.\n\
+\n\
+I just hope they do something about it soon.</i>
+Lore_Note_Enkindled_Journal_Rite.name = Old Enkindled Journal: The Rite
+Lore_Note_Enkindled_Journal_Rite.description = <i>Maybe I should have gone with them. The roads haven't been safe since the war.\n\
+\n\
+But someone has to stay to maintain the watch and there are so few of us left. With everyone gone to hold the line against the Outlanders, who can say when the Trorks will grow bold enough to strike.\n\
+\n\
+Ah, how I wanted to be there to witness her Rite of Enkindling.</i>
+Lore_Note_Enkindled_Research_Gateways.name = Torn Enkindled Research: Strange Gateways
+Lore_Note_Enkindled_Research_Gateways.description = Only a few short excerpts remain from what looks to be an old research journal.\n\
+\n\
+<i>...old ruins containing symbols we haven't seen before...\n\
+\n\
+...a big gate of some kind. There's nothing on it in the archives but our investigation suggests that with a catalyst it might spatially displace the user.</i>\n\
+\n\
+An additional note is scrawled at the bottom in a Goblin's hand:\n\
+\n\
+<i>Found it! Scrappers will take it back to the Deepworks.</i>
+Lore_Note_Enkindled_Letter_Workshops.name = Enkindled Letter: Workshops of War
+Lore_Note_Enkindled_Letter_Workshops.description = Only a small scrap of this charred letter survives.\n\
+\n\
+<i>...they said we shouldn't build it at all. We should focus on magic. Not technology. Magic is pure. Add mechanism to magic and the magic is tainted. So once said a wise old sage.\n\
+\n\
+Those simple words have given us trouble for so long.\n\
+\n\
+Yet now they say we should build it for war. I don't...</i>
+Lore_Note_Enkindled_Ledger_Trade.name = Enkindled Trade Ledger
+Lore_Note_Enkindled_Ledger_Trade.description = A short note is scrawled in the margins of this ledger.\n\
+\n\
+<i>Take heed: never again are you to offer the Kweebecs cut wood. I spent years earning their trust, and I'll not watch you throw it away over a woodpile.</i>
+Lore_Note_Goblin_Commission_Abandoned_Parts.name = Goblin Commission: Abandoned Parts
+Lore_Note_Goblin_Commission_Abandoned_Parts.description = <i>It's in the Deepworks. Beyond the great bridge.\n\
+\n\
+It's heavy. Big.\n\
+\n\
+Not the whole thing - just the core.\n\
+\n\
+Break it if you have to.\n\
+\n\
+Might be easier to build it again from the scraps.</i>
+Lore_Note_Goblin_Musings_Too_Heavy.name = Goblin Musings: Too Heavy
+Lore_Note_Goblin_Musings_Too_Heavy.description = <i>Too heavy to move.\n\
+\n\
+Hmmm. Maybe less metal?\n\
+\n\
+Don't need the saws either.\n\
+\n\
+Still can't fit through, but there could be dangers.\n\
+\n\
+Can't make the gate bigger. Not yet, at least.\n\
+\n\
+Have to leave it behind. Maybe it's safe to go anyway.</i>
+Lore_Note_Goblin_Musings_Translocation.name = Goblin Musings: Magical Translocation
+Lore_Note_Goblin_Musings_Translocation.description = <i>First test failed. No sign of subject. New subject needed.\n\
+\n\
+Second test failed. Subject left legs behind when the gate closed. New subject needed.\n\
+\n\
+Third test, partial success. Subject was fully translocated, but too high. New subject needed.\n\
+\n\
+Fourth test, partial success. Subject's voice appears to be coming from inside a solid wall. New subject possibly needed.\n\
+\n\
+Fifth test, success! Subject returned in one piece. Further testing required.</i>
+Lore_Note_Goblin_Poem.name = Goblin Poem
+Lore_Note_Goblin_Poem.description = This tattered parchment looks to be several centuries old but the text scrawled upon it is recent. Even translated by your Avatar Insight, the meaning of the words is far from clear. Perhaps it was meant to be art.\n\
+\n\
+<i>Our goal\n\
+\n\
+Enkindled ones left\n\
+up in flames,\n\
+forgotten embers.\n\
+\n\
+Our big, big task-\n\
+\n\
+them can become?\n\
+Just - how</i>
+Lore_Note_Goblin_Feastmaster_Menu.name = Feastmaster's Menu of the Day
+Lore_Note_Goblin_Feastmaster_Menu.description = <i>First: Soup of iron shavings\n\
+\n\
+<s>Second: Roasted cow meat with potatoes</s>\n\
+\n\
+Second: Round disk painted red with wood and strange leaves (new recipe: recommended by Trorks!!)\n\
+\n\
+Third: Sock, aged well and baked into pie</i>
+Lore_Note_Goblin_Why_Purple.name = Why Purple?
+Lore_Note_Goblin_Why_Purple.description = <i>Why the purple sky?\n\
+\n\
+Stories say it was red or blue before.\n\
+\n\
+Some of the plants are starting to turn purple too. And the grass stops looking like grass.\n\
+\n\
+We don't like purple. Purple feels wrong. At least the flames make it black.\n\
+\n\
+Black is much better.</i>
+Ingredient_Scraps.name = Scraps
+Ingredient_Scraps.description = <i>Mundane scraps of material. Valued by Goblins above almost all else.</i>
+Plant_Leaves_Sadwillow.name = Sadwillow Leaves
+Plant_Sapling_Sadwillow.name = Sadwillow Sapling
+Plant_Sapling_Sadwillow.description = [TMP] Grows into a <color is="#ffffff">Sadwillow Tree</color>.\n• Yields <color is="#ffffff">Lightwood</color>
+Plant_Seeds_Sadwillow.name = Sadwillow Seed Bag
+Plant_Vine_Sadwillow_Hanging.name = Sadwillow Weeps
+Plant_Liana_Void.name = Void Liana
+PortalKey.usage = Place in an <item is="Portal_Device"/> to visit this Fragment.
+PortalKey_Goblin_Breach.name = Fragment: Orbis - The Guttering Hollows
+PortalKey_Goblin_Breach.description = <msg key="server.items.PortalKey.usage"/>\n\n<i>Chaos stirs in the ruins of a lost Enkindled settlement.</i>
+PortalKey_The_Deepworks.name = Fragment: Orbis - The Deepworks
+PortalKey_The_Deepworks.description = <msg key="server.items.PortalKey.usage"/>\n\n<i>The Deepworks has long played host to the greatest of Goblin minds, and their inventions have filled the halls with cacophony for longer than any Goblin can remember. Chaos and catastrophe are never far away.</i>
+Goblin_Breach_Portal.name = Goblin Breach
+Dungeon_Portal_Early_Exit.name = Escape Portal
+Dungeon_Portal_Early_Exit.description = Leave the dungeon without its rewards.
+Dungeon_Portal_End.name = Dungeon Completion Portal
+Dungeon_Portal_End.description = Collect your rewards and leave the dungeon.
+Rock_Anomaly_Shard_Void.name = Void Anomaly Crystal
+Rock_Crystal_Void_Block.name = [TMP]Void Crystal
+Rock_Crystal_Void_Large.name = [TMP]Void Crystal - Large
+Rock_Crystal_Void_Medium.name = [TMP]Void Crystal - Medium
+Rock_Crystal_Void_Small.name = [TMP]Void Crystal - Small
+Rock_Kenolite.name = Kenolite Rock
+Rock_Kenolite_Stalactite_Large.name = Kenolite Stalactite - Large
+Scrap_Hook.name = Hook Anchor
+Scrap_Hook.description = Can be hooked by the <item is="Tool_Hookshot"/> for traversal.
+Throwable_Explosive_Barrel.name = Goblin Boom Barrel
+Template_Lore_Note.name = Template Lore Note
+Template_Lore_Note_Pages_A.name = Template Lore Note - Pages A
+Template_Lore_Note_Pages_B.name = Template Lore Note - Pages B
+Template_Lore_Note_Goblin_Pages.name = Template Lore Note - Goblin Pages
+Template_Lore_Note_Goblin_Journal_Open.name = Template Lore Note - Goblin Journal Open
+Tool_Drill_Scrap.name = Scrap Drill
+Tool_Drill_Scrap.description = Capable of digging tunnels and dismantling metal blocks, which are picked up intact. Requires closer proximity than standard tools.\n\
+\n\
+A note was scrawled in one corner of the blueprint:\n\
+\n\
+<i>Rotation too violent for mixing. No soup left in bowl. Rejected.</i>
+Tool_Hookshot.name = Hookshot
+Tool_Hookshot.description = Use to reel yourself in to target blocks, and reel targets toward you.\n\
+\n\
+A note was scrawled in one corner of the blueprint:\n\
+\n\
+<i>Rope too thin. Hard to walk on when bridging gaps. Rejected.</i>
+Tool_Pickaxe_Scrap.description = <i>All that stands between the Goblin Dukes and total domination of the underground regions is that they have yet to understand what this tool is.</i>
+Tool_Repair_Kit_Goblin.name = Goblin Repair Kit
+Tool_Repair_Kit_Goblin.description = Used to repair tools, weapons, and armor. Repaired items keep their full maximum durability.
+Tool_Spyglass.name = Spyglass
+Tool_Spyglass.description = Can be used to pinpoint the location of lurking Voidtaken beasts.\n\
+\n\
+A note was scrawled in one corner of the blueprint:\n\
+\n\
+<i>Makes things look too big. Rejected.</i>
+UpgradeBackpack_4.name = Backpack Upgrade III
+UpgradeBackpack_4.description = Further increases the backpack capacity.\n\nEach backpack upgrade level can only be used once.
+Weapon_Bangstick.name = Bangstick
+Weapon_Bangstick.description = A highly volatile explosive that can blow up solid metal blocks. Some might call this the Goblins' greatest invention. Others, their worst.
+Weapon_Club_Scrap_Washboard.name = Scrap Washboard Club
+Weapon_Daggers_Void_Crystal.name = Void Crystal Daggers
+Weapon_Flamethrower_Scrap.name = Scrap Flamethrower
+Weapon_Longsword_Ruined_Giant.name = Giant Ruined Longsword
+Weapon_Longsword_Ruined_Giant_NPC.name = Revenant Guardian's Ruined Sword
+Weapon_Longsword_Ruined_Giant_Dual_NPC.name = Revenant Guardian's Ruined Dual Swords
+Weapon_Longsword_Praetorian_Dual_NPC.name = Skeleton Praetorian's Dual Swords
+Weapon_Shield_Ruined_Giant.name = Giant Ruined Shield
+Weapon_Staff_Scrap_Lightbulb.name = Scrap Lightbulb Staff
+Weapon_Staff_Voidcrystal.name = Void Crystal Staff
+Wood_Sadwillow_Trunk_Half.name = Sadwillow Log - Half Slab
+Wood_Sadwillow_Trunk_Stairs.name = Sadwillow Log - Stairs
+Wood_Sadwillow_Branch_Corner.name = Sadwillow Branch - Corner
+Wood_Sadwillow_Branch_Long.name = Sadwillow Branch - Long
+Wood_Sadwillow_Branch_Short.name = Sadwillow Branch - Short
+Wood_Sadwillow_Roots.name = Sadwillow Roots
+Wood_Sadwillow_Trunk.name = Sadwillow Log
+Wood_Sadwillow_Trunk.description = Refines into Lightwood at the Builder's Workbench
+Wood_Sadwillow_Trunk_Full.name = Sadwillow Tree Trunk
+Recipe_Goblin_Painting_Replica.description = [TMP] <i>The original was too big to take back. Maybe I'll find someone who can make a copy...</i>
+Recipe_Goblin_Painting_Orbis_Replica.description = [TMP] Teaches the <item is="Goblin_Painting_Orbis_Replica"/> recipe.\n\n<msg key="server.items.Recipe_Goblin_Painting_Replica.description"/>
+Recipe_Goblin_Painting_Fail_Replica.description = [TMP] Teaches the <item is="Goblin_Painting_Fail_Replica"/> recipe.\n\n<msg key="server.items.Recipe_Goblin_Painting_Replica.description"/>
+Recipe_Goblin_Painting_Portal_Replica.description = [TMP] Teaches the <item is="Goblin_Painting_Portal_Replica"/> recipe.\n\n<msg key="server.items.Recipe_Goblin_Painting_Replica.description"/>
+Recipe_Goblin_Painting_ForgottenTemple_Replica.description = [TMP] Teaches the <item is="Goblin_Painting_ForgottenTemple_Replica"/> recipe.\n\n<msg key="server.items.Recipe_Goblin_Painting_Replica.description"/>
+Recipe_Goblin_Painting_Repair_Replica.description = [TMP] Teaches the <item is="Goblin_Painting_Repair_Replica"/> recipe.\n\n<msg key="server.items.Recipe_Goblin_Painting_Replica.description"/>
+Recipe_Goblin_Painting_Breach_Replica.description = [TMP] Teaches the <item is="Goblin_Painting_Breach_Replica"/> recipe.\n\n<msg key="server.items.Recipe_Goblin_Painting_Replica.description"/>
+Metal_Orbis_Iron.name = Enkindled Iron
+Metal_Orbis_Iron_Decorative.name = Enkindled Iron - Decorative
+Metal_Orbis_Iron_Ornate.name = Enkindled Iron - Ornate
+Metal_Orbis_Iron_Half.name = Enkindled Iron - Half Slab
+Metal_Orbis_Iron_Pipe_Chimney.name = Enkindled Iron Pipe - Chimney
+Metal_Orbis_Iron_Pipe_Corner.name = Enkindled Iron Pipe - Corner
+Metal_Orbis_Iron_Pipe_Large.name = Enkindled Iron Pipe - Large
+Metal_Orbis_Iron_Pipe_Large_Corner.name = Enkindled Iron Pipe - Large Corner
+Metal_Orbis_Iron_Pipe_Large_Mouthpiece.name = Enkindled Iron Pipe - Large Mouthpiece
+Metal_Orbis_Iron_Pipe_Long.name = Enkindled Iron Pipe - Long
+Metal_Orbis_Iron_Pipe_Short.name = Enkindled Iron Pipe - Short
+Metal_Orbis_Iron_Roof.name = Enkindled Iron Roof - Sloped
+Metal_Orbis_Iron_Roof_Flat.name = Enkindled Iron Roof - Flat
+Metal_Orbis_Iron_Roof_Shallow.name = Enkindled Iron Roof - Shallow
+Metal_Orbis_Iron_Roof_Steep.name = Enkindled Iron Roof - Steep
+Metal_Orbis_Iron_Stairs.name = Enkindled Iron - Stairs
+Metal_Orbis_Iron_Smooth.name = Enkindled Iron - Smooth
+Metal_Orbis_Iron_Smooth_Half.name = Enkindled Iron - Smooth Half Slab
+Metal_Orbis_Copper.name = Enkindled Copper
+Metal_Orbis_Copper_Decorative.name = Enkindled Copper - Decorative
+Metal_Orbis_Copper_Ornate.name = Enkindled Copper - Ornate
+Metal_Orbis_Copper_Fence.name = Enkindled Copper - Bars
+Metal_Orbis_Copper_Half.name = Enkindled Copper - Half Slab
+Metal_Orbis_Copper_Pipe_Chimney.name = Enkindled Copper Pipe - Chimney
+Metal_Orbis_Copper_Pipe_Corner.name = Enkindled Copper Pipe - Corner
+Metal_Orbis_Copper_Pipe_Large.name = Enkindled Copper Pipe - Large
+Metal_Orbis_Copper_Pipe_Large_Corner.name = Enkindled Copper Pipe - Large Corner
+Metal_Orbis_Copper_Pipe_Large_Mouthpiece.name = Enkindled Copper Pipe - Large Mouthpiece
+Metal_Orbis_Copper_Pipe_Long.name = Enkindled Copper Pipe - Long
+Metal_Orbis_Copper_Pipe_Short.name = Enkindled Copper Pipe - Short
+Metal_Orbis_Copper_Roof.name = Enkindled Copper Roof - Sloped
+Metal_Orbis_Copper_Roof_Flat.name = Enkindled Copper Roof - Flat
+Metal_Orbis_Copper_Roof_Shallow.name = Enkindled Copper Roof - Shallow
+Metal_Orbis_Copper_Roof_Steep.name = Enkindled Copper Roof - Steep
+Metal_Orbis_Copper_Stairs.name = Enkindled Copper - Stairs
+Metal_Orbis_Copper_Smooth.name = Enkindled Copper - Smooth
+Metal_Orbis_Copper_Smooth_Half.name = Enkindled Copper - Smooth Half Slab
+Metal_Goblin_Iron.name = Goblin Iron
+Metal_Goblin_Iron_Decorative.name = Goblin Iron - Decorative
+Metal_Goblin_Iron_Ornate.name = Goblin Iron - Ornate
+Metal_Goblin_Iron_Half.name = Goblin Iron - Half Slab
+Metal_Goblin_Iron_Pipe_Chimney.name = Goblin Iron Pipe - Chimney
+Metal_Goblin_Iron_Pipe_Corner.name = Goblin Iron Pipe - Corner
+Metal_Goblin_Iron_Pipe_Large.name = Goblin Iron Pipe - Large
+Metal_Goblin_Iron_Pipe_Large_Corner.name = Goblin Iron Pipe - Large Corner
+Metal_Goblin_Iron_Pipe_Large_Mouthpiece.name = Goblin Iron Pipe - Large Mouthpiece
+Metal_Goblin_Iron_Pipe_Glowy.name = Glowing Goblin Iron Pipe
+Metal_Goblin_Iron_Pipe_Large_Glowy.name = Glowing Goblin Iron Pipe - Large
+Metal_Goblin_Iron_Pipe_Large_Glowy_Corner.name = Glowing Goblin Iron Pipe - Large Corner
+Metal_Goblin_Iron_Pipe_Large_Glowy_Mouthpiece.name = Glowing Goblin Iron Pipe - Large Mouthpiece
+Metal_Goblin_Iron_Pipe_Long.name = Goblin Iron Pipe - Long
+Metal_Goblin_Iron_Pipe_Short.name = Goblin Iron Pipe - Short
+Metal_Goblin_Iron_Roof.name = Goblin Iron Roof - Sloped
+Metal_Goblin_Iron_Roof_Flat.name = Goblin Iron Roof - Flat
+Metal_Goblin_Iron_Roof_Shallow.name = Goblin Iron Roof - Shallow
+Metal_Goblin_Iron_Roof_Steep.name = Goblin Iron Roof - Steep
+Metal_Goblin_Iron_Stairs.name = Goblin Iron - Stairs
+Metal_Goblin_Iron_Smooth.name = Goblin Iron - Smooth
+Metal_Goblin_Iron_Smooth_Half.name = Goblin Iron - Smooth Half Slab
+Metal_Goblin_Iron_Fence.name = Goblin Iron - Fence
+Metal_Goblin_Iron_Bars.name = Goblin Iron Bars
+Metal_Goblin_Iron_Bars_Corner.name = Goblin Iron Bars - Corner
+Metal_Goblin_Iron_Bars_Platforms.name = Goblin Iron Bars - Horizontal
+Metal_Goblin_Iron_Chain_Small.name = Goblin Iron Chain - Small
+Metal_Goblin_Iron_Chains.name = Goblin Iron Chain - Sloped
+Metal_Goblin_Iron_Chains_Vertical.name = Goblin Iron Chain
+Metal_Goblin_Iron_Stack.name = Stack of Goblin Iron Bars
+Coffer_Key.name = Veilbound Key
+Coffer_Key.description = <i>This mysterious key pulses with an aberrant energy. With each pulse it moves, as if drawn to the locked coffers it was formed to open.</i>\n\
+\n\
+<color is="#be1717">Veilbound items are lost when leaving the Fragment.</color>
+Hunt_Trap.name = [TMP] Voidheart Bear Trap
+Hunt_Footprint.name = Predator Tracks
+Hunt_Clawmark.name = Claw Marks

@@ -42,3 +42,4 @@ Objective_KillSpawnMarker.title = KillSpawnMarker objective
 Objective_KillSpawnMarker.taskSet.0.task.0 = Kill the nearby Trorks.
 Objective_ReachLocation.title = ReachLocation objective
 Objective_ReachLocation.taskSet.0.task.0 = Reach the target location.
+Objective_Bounty.taskSet.1.task.0 = Interact with the NPC Test_Complete_Interaction_Bounty.

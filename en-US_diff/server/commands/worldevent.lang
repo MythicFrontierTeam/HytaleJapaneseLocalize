@@ -35,3 +35,7 @@ list.entry =   {asset} [{uuid}]
 panel.desc = Open the world event admin panel
 reset.desc = Cancel all world-events and reset the state of gameplay and global events
 reset.complete = Finished resetting world events
+enable.desc = Enable or disable world events in the current world.
+enable.enableArg.desc = True to enable world events, false to disable them. Omit to toggle.
+enable.info = World events {enabled, select, true {enabled} other {disabled}} for "{worldName}".
+enable.alreadySet = World events are already {enabled, select, true {enabled} other {disabled}} for "{worldName}".

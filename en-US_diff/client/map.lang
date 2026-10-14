@@ -33,3 +33,5 @@ playerListEntry.tooltip.mute = Mute Player
 marker.localPlayer = You
 marker.targetLocation = Target Location
 returnToCrossroads = Return to Crossroads
+worldEvents.title = World Events
+worldEvents.startsIn = Starts in {time}

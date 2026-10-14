@@ -8,3 +8,7 @@ toggletimer.resumed = {playerUsername} resumed the fragment timer
 toggleui.desc = Hide or show the fragment timer UI
 toggleui.hidden = The fragment timer UI is now hidden
 toggleui.visible = The fragment timer UI is now visible
+timer.add.desc = Add seconds to the fragment timer
+timer.add.arg.seconds.desc = Seconds to add
+timer.add.unchanged = The fragment timer did not change.
+timer.noTimeLimit = This fragment has no time limit.

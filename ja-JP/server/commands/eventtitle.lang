@@ -1,6 +1,8 @@
-desc = サーバー内のすべてのプレイヤーにイベントタイトルを表示する（テスト用）
-major.desc = メジャーイベントタイトルとして表示する
+desc = サーバー上の全プレイヤーにイベントタイトルを表示する(テスト用)
+major.desc = 大きなイベントタイトルとして表示する
 secondary.desc = サブタイトルのテキスト
 secondary.defaultDesc = イベント
 title.desc = メインタイトルのテキスト
 titleRequired = タイトルを指定する必要があります
+style.desc = イベントタイトルのスタイル
+style.defaultDesc = デフォルトのスタイル

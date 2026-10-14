@@ -52,3 +52,6 @@ success.submitMore = Submit More
 redirect.support = For account or billing issues, please visit support.hytale.com.
 redirect.button = Open Support
 bugReportButton.tooltip = Report a Bug or Feedback
+category.minigames = Minigames
+success.copyId = Copy Report ID
+success.copiedId = Copied!

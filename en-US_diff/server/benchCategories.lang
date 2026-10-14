@@ -37,3 +37,7 @@ battleaxe = Battleaxe
 daggers = Daggers
 bow = Bow
 all = All
+goblinLab.gadgets = Gadgets
+goblinLab.fragments = Fragments
+goblinLab.decoration = Decoration
+goblinLab.runes = Runestones

@@ -1,5 +1,5 @@
-noAuthSkin = {name} doesn't have a skin set by auth! Try '/model [player] {model}' to set to the default player skin
-noAuthSkinForPlayer = You don't have a skin set by auth! Try '/model [player] {model}' to set to the default player skin
+noAuthSkin = {name} doesn't have a skin set by auth! Try "/model [player] {model}" to set to the default player skin
+noAuthSkinForPlayer = You don't have a skin set by auth! Try "/model [player] {model}" to set to the default player skin
 modelReset = Reset model for {name}!
 modelResetForPlayer = Your model has been reset!
 modelSet = Set model for {playerName} to {modelName}

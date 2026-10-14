@@ -77,3 +77,6 @@ storagestats.rates.header = \t{op} rates:
 storagestats.rates.row = \t\t{period}: {summary}
 storagestats.group.header = \t{label}:
 storagestats.group.row = \t\t{key}: {value}
+height.desc = Dump a chunk's heightmap (HeightmapColumn) for debugging
+height.position.desc = The chunk position (x, z)
+fixHeightMap.unsupported = This chunk uses the cubic height map, which cannot be rebuilt: the rescan needs the whole column loaded at once.
